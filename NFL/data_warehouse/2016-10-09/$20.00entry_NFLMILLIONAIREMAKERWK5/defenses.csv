@@ -1,0 +1,25 @@
+"Position","Name...ID","Name","ID","Salary","GameInfo","Team","FirstName","LastName","Opponent","Projection","Projection_dfn","Projection_fc","Actual"
+"DST","Broncos  (7546027)","Broncos ",7546027,3800,"Atl@Den 04:05PM ET","DEN","Broncos",NA,"Atl",11.22,10,9.01,4
+"DST","Patriots  (7546013)","Patriots ",7546013,3700,"NE@Cle 01:00PM ET","NE","Patriots",NA,"Cle",10.43,8.9,9.65,10
+"DST","Steelers  (7546025)","Steelers ",7546025,3500,"NYJ@Pit 01:00PM ET","PIT","Steelers",NA,"NYJ",9.88,9.9,8.38,7
+"DST","Vikings  (7546023)","Vikings ",7546023,3400,"Hou@Min 01:00PM ET","MIN","Vikings",NA,"Hou",13.18,9.1,10.15,16
+"DST","Rams  (7546031)","Rams ",7546031,3200,"Buf@LA 04:25PM ET","LA","Rams",NA,"Buf",9.58,6.6,7.12,4
+"DST","Packers  (7546034)","Packers ",7546034,3200,"NYG@GB 08:30PM ET","GB","Packers",NA,"NYG",8.91,8.4,8.45,7
+"DST","Bills  (7546030)","Bills ",7546030,3100,"Buf@LA 04:25PM ET","BUF","Bills",NA,"LA",9.2,7,7.54,17
+"DST","Ravens  (7546021)","Ravens ",7546021,3000,"Was@Bal 01:00PM ET","BAL","Ravens",NA,"Was",9.86,6.4,7.5,6
+"DST","Texans  (7546022)","Texans ",7546022,3000,"Hou@Min 01:00PM ET","HOU","Texans",NA,"Min",8.61,6.8,7.09,1
+"DST","Eagles  (7546015)","Eagles ",7546015,2900,"Phi@Det 01:00PM ET","PHI","Eagles",NA,"Det",9.22,7.4,8.92,5
+"DST","Dolphins  (7546019)","Dolphins ",7546019,2900,"Ten@Mia 01:00PM ET","MIA","Dolphins",NA,"Ten",8.86,6.3,8.03,7
+"DST","Jets  (7546024)","Jets ",7546024,2800,"NYJ@Pit 01:00PM ET","NYJ","Jets",NA,"Pit",5.82,7,6,2
+"DST","Bengals  (7546028)","Bengals ",7546028,2800,"Cin@Dal 04:25PM ET","CIN","Bengals",NA,"Dal",6.42,7.2,6.05,2
+"DST","Redskins  (7546020)","Redskins ",7546020,2700,"Was@Bal 01:00PM ET","WAS","Redskins",NA,"Bal",5.25,8.6,6.97,13
+"DST","Cowboys  (7546029)","Cowboys ",7546029,2700,"Cin@Dal 04:25PM ET","DAL","Cowboys",NA,"Cin",6.3,4.6,5.62,7
+"DST","Colts  (7546017)","Colts ",7546017,2600,"Chi@Ind 01:00PM ET","IND","Colts",NA,"Chi",8.28,6.9,8.03,2
+"DST","Giants  (7546035)","Giants ",7546035,2600,"NYG@GB 08:30PM ET","NYG","Giants",NA,"GB",5.99,6.5,5.56,4
+"DST","Lions  (7546014)","Lions ",7546014,2500,"Phi@Det 01:00PM ET","DET","Lions",NA,"Phi",7.49,6.8,6.53,7
+"DST","Titans  (7546018)","Titans ",7546018,2400,"Ten@Mia 01:00PM ET","TEN","Titans",NA,"Mia",6.96,6,6.94,11
+"DST","Raiders  (7546032)","Raiders ",7546032,2400,"SD@Oak 04:25PM ET","OAK","Raiders",NA,"SD",6.22,6.9,7.54,9
+"DST","Falcons  (7546026)","Falcons ",7546026,2300,"Atl@Den 04:05PM ET","ATL","Falcons",NA,"Den",6.52,6,6.65,9
+"DST","Browns  (7546012)","Browns ",7546012,2200,"NE@Cle 01:00PM ET","CLE","Browns",NA,"NE",4.79,5.1,5.43,0
+"DST","Bears  (7546016)","Bears ",7546016,2200,"Chi@Ind 01:00PM ET","CHI","Bears",NA,"Ind",4.85,5.2,6.92,4
+"DST","Chargers  (7546033)","Chargers ",7546033,2100,"SD@Oak 04:25PM ET","SD","Chargers",NA,"Oak",6.74,5.8,5.55,4

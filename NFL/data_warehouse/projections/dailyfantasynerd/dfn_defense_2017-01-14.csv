@@ -1,0 +1,9 @@
+Player Name,Likes,Pos,Salary,Team,Opp,Vegas PtsA,Vegas Spread,Sacks Allowed by Offense,Fumbles Allowed by Offense,Ints Allowed by Offense,Offense Pass Yds/G,Offense Rush Yds/G,Points Scored by Offense,FP Allowed by Offense,L3 FP,L16 FP,S FP,Floor FP,Ceil FP,Proj FP,Proj Val,Actual FP,Actual Val
+New England Patriots,2,D,4000,NE,HOU,14.8,NE by 15,1.9,0.6,1.0,214,116,17.1,8.5,13.0,8.9,8.9,3.6,14.2,13.4,3.4,0.0,0.0
+Kansas City Chiefs,2,D,3400,KC,PIT,21.3,KC by 1.5,1.3,0.2,0.9,274,110,24.6,3.8,10.0,10.1,10.1,3.2,16.9,10.1,3.0,0.0,0.0
+Seattle Seahawks,,D,3000,SEA,@ATL,28.3,ATL by 5,2.3,0.3,0.4,310,121,31.9,2.6,7.3,7.4,7.4,3.2,11.6,7.2,2.4,0.0,0.0
+Pittsburgh Steelers,,D,2900,PIT,@KC,22.8,KC by 1.5,2.0,0.8,0.5,245,109,22.8,5.1,6.0,6.5,6.5,1.1,11.9,9.1,3.1,0.0,0.0
+Green Bay Packers,,D,2800,GB,@DAL,28.5,DAL by 4.5,1.7,0.8,0.4,237,150,26.3,3.6,7.7,6.6,6.6,1.1,12.1,7.1,2.5,0.0,0.0
+Dallas Cowboys,,D,2700,DAL,GB,24.0,DAL by 4.5,2.2,0.6,0.5,278,106,27.0,4.6,7.7,5.8,5.8,1.9,9.7,10.5,3.9,0.0,0.0
+Atlanta Falcons,,D,2600,ATL,SEA,23.3,ATL by 5,2.5,0.4,0.8,276,99,21.8,7.1,6.0,7.1,7.1,0.8,13.4,8.5,3.3,0.0,0.0
+Houston Texans,,D,2300,HOU,@NE,29.8,NE by 15,1.5,0.7,0.1,279,117,27.6,2.6,8.3,6.2,6.2,2.1,10.3,7.5,3.3,0.0,0.0

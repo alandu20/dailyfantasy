@@ -1,0 +1,9 @@
+Player Name,Likes,Pos,Salary,Team,Opp,Vegas PtsA,Vegas Spread,Sacks Allowed by Offense,Fumbles Allowed by Offense,Ints Allowed by Offense,Offense Pass Yds/G,Offense Rush Yds/G,Points Scored by Offense,FP Allowed by Offense,L3 FP,L16 FP,S FP,Floor FP,Ceil FP,Proj FP,Proj Val,Actual FP,Actual Val
+Houston Texans,,D,3800,HOU,OAK,16.5,HOU by 4,1.2,0.5,0.4,258,120,25.6,3.6,8.3,6.2,6.2,2.1,10.3,12.7,3.3,0.0,0.0
+Seattle Seahawks,,D,3700,SEA,DET,17.5,SEA by 8,2.3,0.3,0.6,270,82,21.3,5.3,7.3,7.4,7.4,3.2,11.6,10.3,2.8,0.0,0.0
+Pittsburgh Steelers,,D,3500,PIT,MIA,18.0,PIT by 10,1.8,0.7,0.9,232,114,22.3,6.4,6.0,6.5,6.5,1.1,11.9,10.3,2.9,0.0,0.0
+Green Bay Packers,,D,3200,GB,NYG,20.0,GB by 4.5,1.3,0.8,1.0,252,88,18.3,6.8,7.7,6.6,6.6,1.1,12.1,9.8,3.1,0.0,0.0
+New York Giants,,D,3100,NYG,@GB,24.5,GB by 4.5,2.2,0.6,0.5,278,106,27.0,4.6,12.3,9.1,9.1,1.8,16.4,7.9,2.5,0.0,0.0
+Oakland Raiders,,D,3000,OAK,@HOU,20.5,HOU by 4,1.9,0.6,1.0,214,116,17.1,8.5,5.3,6.0,6.0,2.0,10.0,9.6,3.2,0.0,0.0
+Detroit Lions,,D,2900,DET,@SEA,25.5,SEA by 8,2.5,0.4,0.8,276,99,21.8,7.1,0.0,5.5,5.5,-0.1,11.1,5.6,1.9,0.0,0.0
+Miami Dolphins,,D,2700,MIA,@PIT,28.0,PIT by 10,1.3,0.2,0.9,274,110,24.6,3.8,5.3,7.4,7.4,1.4,13.4,7.6,2.8,0.0,0.0

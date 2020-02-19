@@ -1,0 +1,526 @@
+"Rank","EntryId","EntryName","TimeRemaining","Points","Lineup","X","Player","Roster.Position","X.Drafted","FPTS"
+1,936056742,"McJester (3/3)",0,308,"C Hassan Whiteside PF Kevin Love SF Otto Porter F Dion Waiters SG Kris Dunn G Justin Holiday PG Ricky Rubio UTIL John Henson",NA,"Tim Frazier","PG","52.57%",9.25
+2,936001146,"jzieg2313",0,305.75,"SG Devin Booker UTIL Bradley Beal PF Kevin Love C Derrick Favors G Denzel Valentine SF Justin Holiday PG Ricky Rubio F Kenneth Faried",NA,"Bradley Beal","SG","44.00%",21
+3,936157916,"ahitspat (2/3)",0,303.5,"PF T.J. Warren UTIL Kevin Love F Otto Porter SG Will Barton PG Kris Dunn C Taj Gibson SF Justin Holiday G Ricky Rubio",NA,"Willie Cauley-Stein","F","42.48%",23.5
+4,936454529,"turbbo2001",0,302,"F Giannis Antetokounmpo PF Kevin Love SF Dion Waiters SG Kris Dunn UTIL Justin Holiday C Marcin Gortat G Kelly Oubre Jr. PG Tim Frazier",NA,"Denzel Valentine","F","42.10%",24.5
+5,936056740,"McJester (1/3)",0,301,"SF Devin Booker SG Bradley Beal PF Kevin Love G Kris Dunn F Justin Holiday PG Ricky Rubio C Marcin Gortat UTIL John Henson",NA,"Nikola Jokic","UTIL","39.24%",27
+6,936089241,"BobbyFi (3/6)",0,298.75,"SF LeBron James PF Giannis Antetokounmpo C Kevin Love PG Ricky Rubio G Tyus Jones F Kenneth Faried SG Garrett Temple UTIL Tomas Satoransky",NA,"Eric Bledsoe","PG","34.48%",42.25
+7,936350304,"Nabb_Melo",0,296.25,"PF Giannis Antetokounmpo UTIL Jimmy Butler PG Eric Bledsoe C Derrick Favors SG Justin Holiday F Willie Cauley-Stein SF Markieff Morris G Frank Mason III",NA,"Giannis Antetokounmpo","UTIL","32.57%",57.25
+8,936441828,"drewdogg76",0,293.25,"SG Devin Booker G Jimmy Butler SF Andrew Wiggins F Otto Porter PF Derrick Favors PG Dwyane Wade C Willie Cauley-Stein UTIL Tyus Jones",NA,"Otto Porter","F","28.95%",33.5
+9,935807967,"otisthebull",0,292.25,"SF LeBron James SG Jimmy Butler PF Kevin Love F Derrick Favors G Ricky Rubio C Robin Lopez PG Tyler Johnson UTIL Frank Mason III",NA,"Joe Ingles","G","27.43%",18
+10,936624616,"DraftCheat (1/3)",0,287.25,"SF LeBron James G Eric Bledsoe PF Taj Gibson SG Justin Holiday PG Ricky Rubio UTIL Dwyane Wade F Willie Cauley-Stein C Marcin Gortat",NA,"Kevin Love","PF","25.33%",56.75
+11,936089240,"BobbyFi (2/6)",0,285.5,"SF LeBron James SG Bradley Beal PF Kevin Love F Otto Porter G Justin Holiday UTIL John Henson C Kenneth Faried PG Tomas Satoransky",NA,"Markieff Morris","UTIL","25.14%",7
+12,936381322,"theillmessiah (1/4)",0,283.75,"PF Giannis Antetokounmpo C Kevin Love SF Otto Porter UTIL Kris Dunn SG Denzel Valentine F Willie Cauley-Stein PG Tyus Jones G Tim Frazier",NA,"LeBron James","SF","24.19%",58
+13,935724806,"ChipotleAddict (14/15)",0,282.5,"UTIL Nikola Jokic PF Kevin Love PG Eric Bledsoe G Donovan Mitchell F Derrick Favors SF Justin Holiday SG Joe Ingles C Tyson Chandler",NA,"Gary Harris","G","22.67%",26.25
+14,936414613,"gangcolours",0,282.25,"UTIL LeBron James PF Kevin Love SF Otto Porter SG Denzel Valentine F Justin Holiday PG Ricky Rubio C Marcin Gortat G Wayne Ellington",NA,"Justin Holiday","SF","21.33%",49.25
+15,936625512,"appatl10 (6/7)",0,282,"C Nikola Jokic SG Jimmy Butler SF T.J. Warren G Eric Bledsoe PF Derrick Favors F Justin Holiday PG Tim Frazier UTIL Kenneth Faried",NA,"Karl-Anthony Towns","C","20.38%",43.75
+16,936621965,"bailz48",0,281.25,"PF LeBron James F Kevin Love SF Otto Porter UTIL Taj Gibson PG Dwyane Wade C Willie Cauley-Stein SG Malcolm Brogdon G Tony Snell",NA,"Marcin Gortat","C","20.19%",19.25
+17,936321482,"jeffdrazek (2/5)",0,280,"G Bradley Beal F T.J. Warren UTIL Eric Bledsoe PG Kris Dunn C Taj Gibson SF Denzel Valentine SG Justin Holiday PF Willie Cauley-Stein",NA,"Kenneth Faried","PF","20.00%",20
+18,936183175,"salmonc (15/15)",0,278.5,"SF Giannis Antetokounmpo PF Kevin Love F Lauri Markkanen PG Eric Bledsoe G Ricky Rubio UTIL Gary Harris C Kenneth Faried SG Tony Snell",NA,"Jimmy Butler","UTIL","19.62%",45.25
+19,936574484,"franktank1987",0,278,"G Goran Dragic C Kevin Love SG Donovan Mitchell SF Dion Waiters UTIL Kris Dunn PF Taj Gibson F Justin Holiday PG Jamal Murray",NA,"Ricky Rubio","PG","19.05%",30
+20,935798795,"Awesemo (2/15)",0,277.25,"SF LeBron James SG Jimmy Butler G Eric Bledsoe F Justin Holiday PG Ricky Rubio UTIL Malcolm Brogdon PF Markieff Morris C Kenneth Faried",NA,"Will Barton","SF","18.29%",14.5
+21,936157915,"ahitspat (1/3)",0,277,"PF Giannis Antetokounmpo SG Jimmy Butler SF Otto Porter PG Kris Dunn F Justin Holiday UTIL Ricky Rubio G Tim Frazier C Mason Plumlee",NA,"Donovan Mitchell","PG","16.76%",26.75
+21,936167230,"dirtyrandy315",0,277,"PF Giannis Antetokounmpo SG Jimmy Butler SF Andrew Wiggins PG Kris Dunn UTIL Malcolm Brogdon C John Henson G Tyus Jones F J.R. Smith",NA,"Lauri Markkanen","PF","13.71%",27
+23,936030867,"bcalicore (12/15)",0,276.75,"PF LeBron James UTIL Kevin Love G Donovan Mitchell C Taj Gibson SF Denzel Valentine SG Justin Holiday PG Tim Frazier F Kenneth Faried",NA,"Dion Waiters","G","9.71%",32.25
+24,935932551,"moklovin (8/15)",0,276,"PF Giannis Antetokounmpo SG Jimmy Butler G Eric Bledsoe F Denzel Valentine SF Justin Holiday PG Ricky Rubio UTIL George Hill C Kenneth Faried",NA,"Tyus Jones","G","8.95%",30.5
+25,936308923,"appatl10 (4/7)",0,275.5,"C Nikola Jokic F Kevin Love G Eric Bledsoe SG Will Barton PF Derrick Favors SF Justin Holiday UTIL Gary Harris PG Tim Frazier",NA,"Taj Gibson","F","8.76%",32.25
+26,936183166,"salmonc (6/15)",0,275.25,"C Karl-Anthony Towns SG Jimmy Butler PF Kevin Love UTIL Donovan Mitchell SF Justin Holiday G Gary Harris F Joe Ingles PG Tim Frazier",NA,"T.J. Warren","UTIL","8.19%",38.75
+27,936623595,"brealbc",0,273.5,"F LeBron James SG Eric Bledsoe PF Otto Porter C Taj Gibson G Justin Holiday PG Ricky Rubio UTIL Bobby Portis SF Wayne Ellington",NA,"Robin Lopez","C","7.24%",24.25
+28,935724807,"ChipotleAddict (15/15)",0,272.75,"C Nikola Jokic SG Jimmy Butler UTIL Donovan Mitchell PF Derrick Favors SF Justin Holiday PG Ricky Rubio G Gary Harris F Joe Ingles",NA,"John Henson","C","7.05%",22.25
+28,935979342,"lpdev",0,272.75,"C Karl-Anthony Towns F Kevin Love UTIL Lauri Markkanen PG Eric Bledsoe SF Otto Porter G Denzel Valentine PF Willie Cauley-Stein SG Frank Mason III",NA,"Andrew Wiggins","SF","6.67%",23.5
+30,936056741,"McJester (2/3)",0,272.5,"F LeBron James UTIL Giannis Antetokounmpo SG Justin Holiday PG Ricky Rubio SF Markieff Morris G Tyler Ulis PF Kenneth Faried C Skal Labissiere",NA,"Tyler Johnson","PG","6.67%",6.25
+30,936606959,"m3deman",0,272.5,"SF Giannis Antetokounmpo PG Eric Bledsoe UTIL Donovan Mitchell F Otto Porter G Kris Dunn PF Willie Cauley-Stein C Marcin Gortat SG Frank Mason III",NA,"Derrick Favors","C","6.48%",50.25
+32,936600629,"cohenspicks (2/2)",0,272,"C Karl-Anthony Towns SG Bradley Beal PF T.J. Warren PG Eric Bledsoe F Denzel Valentine G Justin Holiday UTIL Tyus Jones SF Juancho Hernangómez",NA,"Malcolm Brogdon","UTIL","6.48%",25.5
+33,936597009,"JBP126",0,270.5,"PF LeBron James SG Eric Bledsoe SF Otto Porter F Justin Holiday PG Ricky Rubio UTIL Willie Cauley-Stein C Marcin Gortat G Jerian Grant",NA,"Wayne Ellington","G","6.48%",11
+33,936617658,"JeffElJefe (1/2)",0,270.5,"SG Devin Booker UTIL Bradley Beal PF T.J. Warren PG Kris Dunn SF Justin Holiday F Bobby Portis C Willie Cauley-Stein G Mike James",NA,"Dwyane Wade","G","6.48%",32.75
+35,936464931,"kev6873 (2/3)",0,269.75,"PF LeBron James SG Jimmy Butler F Otto Porter SF Justin Holiday PG Ricky Rubio UTIL Willie Cauley-Stein C Marcin Gortat G Wayne Ellington",NA,"Frank Mason III","G","6.29%",21.5
+35,936471797,"mr.lahey",0,269.75,"F Devin Booker PF Lauri Markkanen PG Eric Bledsoe SF Otto Porter SG Dion Waiters UTIL Denzel Valentine G Dwyane Wade C Willie Cauley-Stein",NA,"Kris Dunn","PG","6.10%",48.5
+37,936438715,"convict515",0,269.5,"SF Giannis Antetokounmpo UTIL Donovan Mitchell G Dion Waiters PG Kris Dunn SG Denzel Valentine F Justin Holiday C John Henson PF Kelly Olynyk",NA,"Goran Dragic","PG","5.90%",17.5
+38,936132866,"GinobiliFan (5/5)",0,268.75,"C Karl-Anthony Towns SG Jimmy Butler PF Kevin Love G Eric Bledsoe UTIL Ricky Rubio F Willie Cauley-Stein SF Joe Ingles PG Tim Frazier",NA,"Rodney Hood","SF","5.90%",0
+39,936375025,"ericaquino",0,268.25,"SG Bradley Beal C Kevin Love PG Donovan Mitchell UTIL Will Barton PF Derrick Favors SF Justin Holiday G Gary Harris F Willie Cauley-Stein",NA,"Garrett Temple","G","5.33%",21.5
+40,936401745,"BRORANNOSAURUS_FLEX (7/15)",0,268,"UTIL Karl-Anthony Towns SG Jimmy Butler C Kevin Love SF Denzel Valentine PG Ricky Rubio G Gary Harris PF Willie Cauley-Stein F Joe Ingles",NA,"Jerian Grant","PG","5.33%",14.75
+41,936135181,"kdun34 (1/2)",0,267.25,"SF LeBron James PF T.J. Warren PG Kris Dunn SG Justin Holiday G Gary Harris UTIL Bobby Portis C John Henson F Markieff Morris",NA,"James Johnson","F","5.33%",25.75
+42,935978375,"RallyCap306",0,266.5,"SF LeBron James C Nikola Jokic PF Kevin Love G Ricky Rubio F Willie Cauley-Stein UTIL Marcin Gortat PG Tyus Jones SG Frank Mason III",NA,"Mike James","UTIL","3.62%",18.25
+43,935932545,"moklovin (2/15)",0,266.25,"C Karl-Anthony Towns UTIL Nikola Jokic PF Kevin Love G Eric Bledsoe SF Justin Holiday SG Joe Ingles PG Tim Frazier F Kenneth Faried",NA,"Devin Booker","SG","3.62%",54
+43,936089242,"BobbyFi (4/6)",0,266.25,"PF LeBron James F Giannis Antetokounmpo C Kevin Love SF Dion Waiters SG Tyler Johnson G Garrett Temple PG Tomas Satoransky UTIL José Calderón",NA,"Hassan Whiteside","C","3.24%",35.5
+45,936196220,"jeffdrazek (1/5)",0,266,"UTIL Devin Booker G Bradley Beal PG Eric Bledsoe F Taj Gibson SF Denzel Valentine SG Justin Holiday PF Willie Cauley-Stein C Marcin Gortat",NA,"Jeff Green","PF","3.05%",15.5
+45,936509080,"hishboo (2/5)",0,266,"SG Jimmy Butler C Kevin Love PF Lauri Markkanen UTIL Eric Bledsoe G Donovan Mitchell SF Denzel Valentine PG Malcolm Brogdon F Joe Ingles",NA,"Bobby Portis","PF","2.86%",17.25
+47,936581145,"jeffdrazek (3/5)",0,265.75,"C Karl-Anthony Towns F T.J. Warren G Eric Bledsoe PF James Johnson UTIL Taj Gibson SF Denzel Valentine SG Justin Holiday PG Tim Frazier",NA,"Jamal Murray","SG","2.67%",14.75
+48,936268394,"fallfromgrace (1/5)",0,264.75,"F LeBron James G Jimmy Butler PF Kevin Love SF Denzel Valentine SG Gary Harris UTIL Marcin Gortat C Tyson Chandler PG Alec Burks",NA,"Tyson Chandler","UTIL","2.67%",12.25
+49,936183170,"salmonc (10/15)",0,264.5,"PF LeBron James C Kevin Love PG Kris Dunn SF Denzel Valentine G Gary Harris UTIL Malcolm Brogdon SG Joe Ingles F Markieff Morris",NA,"Zach Randolph","PF","2.48%",18.75
+50,935932549,"moklovin (6/15)",0,264,"SG Bradley Beal G Jimmy Butler C Kevin Love PG Eric Bledsoe UTIL Denzel Valentine SF Justin Holiday F Joe Ingles PF Markieff Morris",NA,"Juancho Hernangómez","F","2.48%",22
+50,936090944,"therealmccoy2984 (3/3)",0,264,"UTIL Bradley Beal F T.J. Warren PF Kevin Love PG Eric Bledsoe G Donovan Mitchell SF Otto Porter C Willie Cauley-Stein SG Frank Mason III",NA,"De'Aaron Fox","G","2.48%",7.25
+52,935852845,"ezpoints",0,263.5,"C Karl-Anthony Towns SG Jimmy Butler PF Lauri Markkanen SF Dion Waiters PG Kris Dunn G Ricky Rubio UTIL Dwyane Wade F Mason Plumlee",NA,"Kelly Oubre Jr.","SF","2.29%",29.5
+52,936438068,"krasnador",0,263.5,"UTIL Bradley Beal G Jimmy Butler SG Eric Bledsoe C Derrick Favors PF Taj Gibson SF Denzel Valentine PG Ricky Rubio F Joe Ingles",NA,"Mason Plumlee","F","2.10%",4
+54,936424243,"appatl10 (5/7)",0,262.5,"C Nikola Jokic SG Bradley Beal PF Kevin Love F Lauri Markkanen UTIL Derrick Favors G Justin Holiday PG Tim Frazier SF Juancho Hernangómez",NA,"J.R. Smith","UTIL","2.10%",24.25
+54,936632352,"appatl10 (7/7)",0,262.5,"C Nikola Jokic SG Bradley Beal PF Kevin Love F Lauri Markkanen UTIL Derrick Favors G Justin Holiday PG Tim Frazier SF Juancho Hernangómez",NA,"George Hill","SG","1.90%",7.5
+56,936587169,"KingDevo",0,262.25,"UTIL LeBron James F Giannis Antetokounmpo SF Otto Porter PF Willie Cauley-Stein G Joe Ingles SG Tyus Jones C Kenneth Faried PG Frank Mason III",NA,"Khris Middleton","SF","1.90%",22
+57,936565883,"ganondorf (3/3)",0,261.5,"PF LeBron James C Kevin Love SG Donovan Mitchell UTIL Taj Gibson SF Denzel Valentine F Willie Cauley-Stein G Tyus Jones PG Tim Frazier",NA,"Tony Snell","SG","1.90%",19
+58,935724801,"ChipotleAddict (9/15)",0,261.25,"C Karl-Anthony Towns SG Jimmy Butler PF Kevin Love G Eric Bledsoe PG Donovan Mitchell F Joe Ingles SF Markieff Morris UTIL Garrett Temple",NA,"Kelly Olynyk","C","1.71%",8.75
+59,935797789,"Matt_Stubbz13",0,260.75,"SF LeBron James F Giannis Antetokounmpo PG Ricky Rubio SG Gary Harris C Willie Cauley-Stein UTIL Robin Lopez PF Kenneth Faried G Frank Mason III",NA,"Buddy Hield","G","1.52%",17.5
+60,936161006,"OH2VA08",0,259.5,"C Karl-Anthony Towns SG Jimmy Butler PG Eric Bledsoe PF Otto Porter UTIL James Johnson G Ricky Rubio F Willie Cauley-Stein SF Jeff Green",NA,"Greg Monroe","C","1.52%",0
+61,935798805,"Awesemo (12/15)",0,259,"UTIL Karl-Anthony Towns SG Jimmy Butler PF Kevin Love G Eric Bledsoe SF Denzel Valentine C Marcin Gortat F Joe Ingles PG Tim Frazier",NA,"Tyler Ulis","PG","1.33%",32.5
+61,935853570,"LaxitiveLeo (12/15)",0,259,"SF Giannis Antetokounmpo PF Andrew Wiggins SG Eric Bledsoe F Otto Porter PG Malcolm Brogdon UTIL Robin Lopez C John Henson G Tyus Jones",NA,"Jeff Teague","UTIL","1.33%",0
+63,936538267,"lane (2/3)",0,258.75,"UTIL Karl-Anthony Towns C Nikola Jokic G Eric Bledsoe SF Denzel Valentine SG Justin Holiday PF Willie Cauley-Stein F Joe Ingles PG Tyus Jones",NA,"Josh Richardson","F","1.14%",23
+64,936078014,"anyfool",0,258.5,"SG Bradley Beal G Jimmy Butler PG Eric Bledsoe PF Otto Porter F Denzel Valentine SF Justin Holiday UTIL Willie Cauley-Stein C Marcin Gortat",NA,"Josh Jackson","G","0.95%",1.25
+64,936345022,"Cee356",0,258.5,"SF LeBron James PF Giannis Antetokounmpo F James Johnson G Justin Holiday PG Tyus Jones SG Tyler Johnson C Kenneth Faried UTIL Bogdan Bogdanovic",NA,"José Calderón","G","0.95%",9.5
+66,936344279,"EF20205555",0,258,"SF LeBron James UTIL T.J. Warren C Kevin Love PF Lauri Markkanen SG Donovan Mitchell PG Tim Frazier F Kenneth Faried G Frank Mason III",NA,"Jae Crowder","SF","0.95%",1.5
+67,936507591,"Bakerbl",0,257.75,"F LeBron James PF Otto Porter SG Dion Waiters SF Justin Holiday PG Ricky Rubio UTIL Bobby Portis C Marcin Gortat G Mike James",NA,"Alex Len","F","0.76%",37.5
+68,936435355,"cdw929",0,257.5,"C Karl-Anthony Towns G Jimmy Butler UTIL Lauri Markkanen F Will Barton SG Justin Holiday PG Ricky Rubio PF Willie Cauley-Stein SF J.R. Smith",NA,"Justise Winslow","PF","0.76%",12.5
+68,936621205,"pgut777",0,257.5,"C Nikola Jokic SF T.J. Warren PF Lauri Markkanen SG Dion Waiters PG Kris Dunn UTIL Ricky Rubio F Willie Cauley-Stein G Tyus Jones",NA,"Dragan Bender","UTIL","0.57%",8
+70,935922909,"ttucowboy (1/8)",0,257.25,"C Karl-Anthony Towns UTIL Jimmy Butler PF Kevin Love F Otto Porter SG Denzel Valentine G Gary Harris SF Joe Ingles PG Tim Frazier",NA,"Skal Labissiere","UTIL","0.57%",18.5
+70,936030869,"bcalicore (14/15)",0,257.25,"SF Giannis Antetokounmpo C Karl-Anthony Towns F Denzel Valentine SG Justin Holiday PF Willie Cauley-Stein UTIL Marcin Gortat PG Tyus Jones G Tim Frazier",NA,"Tomas Satoransky","PG","0.57%",24.75
+72,935798808,"Awesemo (15/15)",0,256.75,"PF LeBron James F Kevin Love PG Eric Bledsoe G Ricky Rubio C Marcin Gortat SG Malcolm Brogdon UTIL Joe Ingles SF Markieff Morris",NA,"Bogdan Bogdanovic","F","0.57%",11.5
+72,936401740,"BRORANNOSAURUS_FLEX (2/15)",0,256.75,"C Nikola Jokic SG Jimmy Butler PF Kevin Love UTIL Donovan Mitchell F Denzel Valentine SF Justin Holiday G Joe Ingles PG Tim Frazier",NA,"Gorgui Dieng","F","0.38%",10.25
+72,936630181,"beastingonyou",0,256.75,"C Hassan Whiteside SF Andrew Wiggins SG Eric Bledsoe PG Kris Dunn PF James Johnson G Justin Holiday F Bobby Portis UTIL Jerian Grant",NA,"Ekpe Udoh","F","0.38%",10
+75,935932553,"moklovin (10/15)",0,256,"UTIL Nikola Jokic PF Kevin Love SG Eric Bledsoe F Will Barton C Taj Gibson SF Denzel Valentine G Gary Harris PG Tyler Ulis",NA,"Trey Lyles","PF","0.38%",10
+75,936389187,"theillmessiah (4/4)",0,256,"PF LeBron James SG Bradley Beal PG Donovan Mitchell F Derrick Favors SF Denzel Valentine C Willie Cauley-Stein G Tyus Jones UTIL Frank Mason III",NA,"Alec Burks","PG","0.38%",22.5
+75,936631834,"oldblackjack (2/3)",0,256,"SF LeBron James UTIL Kevin Love G Dion Waiters F James Johnson SG Gary Harris PF Willie Cauley-Stein C Robin Lopez PG Tim Frazier",NA,"Troy Daniels","SG","0.38%",13.25
+78,935932555,"moklovin (12/15)",0,255.75,"F Giannis Antetokounmpo SG Bradley Beal G Eric Bledsoe SF Justin Holiday C Robin Lopez UTIL John Henson PF Markieff Morris PG Tyler Ulis",NA,"Thabo Sefolosha","F","0.38%",11.25
+78,936303175,"appatl10 (2/7)",0,255.75,"G Bradley Beal PF Kevin Love F Lauri Markkanen SG Eric Bledsoe C Derrick Favors UTIL Rodney Hood SF Justin Holiday PG Tim Frazier",NA,"Kyle Korver","SF","0.38%",16.5
+78,936483110,"Joemarino27",0,255.75,"F LeBron James SF Otto Porter G Will Barton UTIL Kris Dunn SG Justin Holiday PF Willie Cauley-Stein C Marcin Gortat PG Tim Frazier",NA,"Jared Dudley","F","0.19%",0
+81,936565244,"goldenarm1234",0,255.5,"SF LeBron James G Goran Dragic C Kevin Love SG Dion Waiters PF James Johnson PG Dwyane Wade F Wayne Ellington UTIL Frank Mason III",NA,"Thon Maker","UTIL","0.19%",14.25
+81,936624618,"DraftCheat (3/3)",0,255.5,"UTIL Karl-Anthony Towns SG Jimmy Butler G Eric Bledsoe SF Otto Porter PG Ricky Rubio PF Willie Cauley-Stein C Marcin Gortat F Joe Ingles",NA,"Iman Shumpert","UTIL","0.19%",0
+83,936438130,"Ramboh",0,255,"UTIL Giannis Antetokounmpo SG Jimmy Butler PF Otto Porter SF Will Barton F Derrick Favors C Willie Cauley-Stein G Tim Frazier PG Frank Mason III",NA,"Channing Frye","F","0.19%",9.5
+84,936429398,"Daninsinga (3/4)",0,254.5,"SF LeBron James SG Jimmy Butler PG Eric Bledsoe PF Taj Gibson F Denzel Valentine C Willie Cauley-Stein G De'Aaron Fox UTIL Garrett Temple",NA,"Marquese Chriss","F","0.19%",12.5
+85,936308843,"appatl10 (3/7)",0,254.25,"PF LeBron James C Nikola Jokic SG Eric Bledsoe SF Justin Holiday G Gary Harris UTIL John Henson PG Tim Frazier F Kenneth Faried",NA,"","","",NA
+86,936156877,"brandon1230wal",0,254,"PF Giannis Antetokounmpo F T.J. Warren G Eric Bledsoe SG Justin Holiday PG Ricky Rubio C Marcin Gortat UTIL Tyler Johnson SF Wayne Ellington",NA,"","","",NA
+87,936183173,"salmonc (13/15)",0,253.75,"F Giannis Antetokounmpo PF Kevin Love PG Donovan Mitchell G Will Barton SG Justin Holiday UTIL John Henson SF Markieff Morris C Kenneth Faried",NA,"","","",NA
+88,936553717,"lane (3/3)",0,253.25,"UTIL Karl-Anthony Towns C Nikola Jokic PF Lauri Markkanen PG Eric Bledsoe SF Denzel Valentine F Justin Holiday SG Joe Ingles G Frank Mason III",NA,"","","",NA
+89,936081754,"therealmccoy2984 (1/3)",0,253,"C Nikola Jokic PF Kevin Love PG Eric Bledsoe SF Otto Porter SG Denzel Valentine G Gary Harris F Willie Cauley-Stein UTIL Marcin Gortat",NA,"","","",NA
+89,936150885,"hidonkey",0,253,"C Nikola Jokic F Kevin Love PG Eric Bledsoe SF Otto Porter SG Denzel Valentine G Gary Harris PF Willie Cauley-Stein UTIL Marcin Gortat",NA,"","","",NA
+89,936401747,"BRORANNOSAURUS_FLEX (9/15)",0,253,"C Nikola Jokic SG Jimmy Butler PF Kevin Love G Eric Bledsoe SF Denzel Valentine UTIL Ricky Rubio F Joe Ingles PG Tim Frazier",NA,"","","",NA
+92,936039427,"joslink",0,252.75,"SF Giannis Antetokounmpo PF Kevin Love SG Will Barton F Denzel Valentine PG Ricky Rubio UTIL Gary Harris C Marcin Gortat G J.R. Smith",NA,"","","",NA
+92,936401744,"BRORANNOSAURUS_FLEX (6/15)",0,252.75,"C Karl-Anthony Towns UTIL Nikola Jokic SG Jimmy Butler G Denzel Valentine SF Justin Holiday PF Willie Cauley-Stein F Joe Ingles PG Garrett Temple",NA,"","","",NA
+94,935798803,"Awesemo (10/15)",0,252.5,"SG Bradley Beal G Jimmy Butler PF Kevin Love PG Eric Bledsoe SF Denzel Valentine C Marcin Gortat UTIL Malcolm Brogdon F Joe Ingles",NA,"","","",NA
+95,935608862,"cebu4life",0,252,"SG Bradley Beal UTIL Jimmy Butler PG Goran Dragic C Derrick Favors G Dion Waiters PF Zach Randolph F Alex Len SF Kelly Oubre Jr.",NA,"","","",NA
+95,935853533,"LaxitiveLeo (11/15)",0,252,"PF Giannis Antetokounmpo PG Goran Dragic G Eric Bledsoe SF Otto Porter SG Gary Harris C John Henson UTIL Alex Len F Jeff Green",NA,"","","",NA
+95,935989528,"ChicagoBoxers",0,252,"PF LeBron James PG Eric Bledsoe SF Dion Waiters UTIL Ricky Rubio SG Dwyane Wade G Gary Harris C Willie Cauley-Stein F Markieff Morris",NA,"","","",NA
+98,936478393,"jpf2812",0,251.75,"PF Giannis Antetokounmpo SG Jimmy Butler F Otto Porter UTIL Taj Gibson SF Denzel Valentine C Marcin Gortat G Tyus Jones PG Tim Frazier",NA,"","","",NA
+99,936042899,"nickrich13",0,251.5,"C Nikola Jokic F T.J. Warren UTIL Kevin Love PF Lauri Markkanen SF Dion Waiters G Ricky Rubio SG Tyus Jones PG Tim Frazier",NA,"","","",NA
+99,936563390,"ae1183",0,251.5,"SF Giannis Antetokounmpo SG Bradley Beal PF Lauri Markkanen G Justin Holiday C Willie Cauley-Stein UTIL Joe Ingles F Josh Richardson PG Tyler Ulis",NA,"","","",NA
+101,935988374,"bosacker",0,251,"F LeBron James SG Jimmy Butler G Eric Bledsoe SF Otto Porter UTIL Willie Cauley-Stein C Marcin Gortat PG Tim Frazier PF Kenneth Faried",NA,"","","",NA
+101,936417201,"Jwaz",0,251,"F LeBron James PF Kevin Love SF Otto Porter G Denzel Valentine SG Gary Harris UTIL Willie Cauley-Stein C Marcin Gortat PG Tim Frazier",NA,"","","",NA
+103,935724804,"ChipotleAddict (12/15)",0,250.75,"UTIL Nikola Jokic SG Bradley Beal PF Kevin Love SF Denzel Valentine G Justin Holiday PG Ricky Rubio C Robin Lopez F Joe Ingles",NA,"","","",NA
+103,935798801,"Awesemo (8/15)",0,250.75,"PF LeBron James C Kevin Love G Eric Bledsoe SG Will Barton SF Denzel Valentine UTIL Malcolm Brogdon PG Tim Frazier F Kenneth Faried",NA,"","","",NA
+103,936178178,"vassa (3/3)",0,250.75,"UTIL Karl-Anthony Towns G Devin Booker F T.J. Warren SF Otto Porter SG Justin Holiday PF Greg Monroe C John Henson PG Tim Frazier",NA,"","","",NA
+103,936231095,"JoeBucksSafeWord",0,250.75,"C Karl-Anthony Towns PF Kevin Love PG Eric Bledsoe SG Donovan Mitchell SF Otto Porter F Taj Gibson G Tyler Johnson UTIL Tim Frazier",NA,"","","",NA
+103,936622387,"hallsy18",0,250.75,"SF Giannis Antetokounmpo PF Kevin Love PG Eric Bledsoe C Derrick Favors SG Rodney Hood G De'Aaron Fox F Kelly Oubre Jr. UTIL George Hill",NA,"","","",NA
+108,935972780,"trulyfeballa",0,250.5,"C Karl-Anthony Towns G Eric Bledsoe PF Otto Porter SG Will Barton F Derrick Favors SF Denzel Valentine UTIL Willie Cauley-Stein PG Mike James",NA,"","","",NA
+109,936182114,"twomindsbluff (1/3)",0,250.25,"C Nikola Jokic SG Bradley Beal G Jimmy Butler PF Kevin Love UTIL Dion Waiters SF Denzel Valentine F Juancho Hernangómez PG Frank Mason III",NA,"","","",NA
+110,936531224,"patrickmillane35 (7/8)",0,249.75,"SF Giannis Antetokounmpo C Hassan Whiteside PG Eric Bledsoe F Otto Porter PF Taj Gibson SG Gary Harris G Troy Daniels UTIL José Calderón",NA,"","","",NA
+111,936401749,"BRORANNOSAURUS_FLEX (11/15)",0,249.5,"UTIL Nikola Jokic SG Jimmy Butler PF Kevin Love PG Eric Bledsoe G Denzel Valentine F Willie Cauley-Stein SF Joe Ingles C Tyson Chandler",NA,"","","",NA
+112,936031559,"Rotomania (1/5)",0,249.25,"UTIL LeBron James C Nikola Jokic G Eric Bledsoe F Derrick Favors PF Taj Gibson SF Markieff Morris SG Wayne Ellington PG Frank Mason III",NA,"","","",NA
+112,936556670,"Orcachow (6/6)",0,249.25,"C Karl-Anthony Towns PG Goran Dragic F Kevin Love G Eric Bledsoe SG Dion Waiters PF James Johnson UTIL Kenneth Faried SF Wayne Ellington",NA,"","","",NA
+112,936629432,"Wookatyme (2/2)",0,249.25,"PF LeBron James SF Giannis Antetokounmpo C Derrick Favors G Denzel Valentine PG Tim Frazier F Kenneth Faried SG Tony Snell UTIL Wayne Ellington",NA,"","","",NA
+115,935798802,"Awesemo (9/15)",0,249,"UTIL Karl-Anthony Towns PF Kevin Love PG Eric Bledsoe SG Will Barton SF Denzel Valentine G Ricky Rubio C Marcin Gortat F Joe Ingles",NA,"","","",NA
+115,936524488,"lane (1/3)",0,249,"PF Giannis Antetokounmpo C Nikola Jokic G Eric Bledsoe SG Denzel Valentine SF Justin Holiday F Joe Ingles PG Tim Frazier UTIL Garrett Temple",NA,"","","",NA
+117,935950723,"jorge_soler (2/4)",0,248.75,"SG Devin Booker PF Kevin Love UTIL Andrew Wiggins SF Will Barton F Dion Waiters C Taj Gibson G Gary Harris PG Tim Frazier",NA,"","","",NA
+118,935798794,"Awesemo (1/15)",0,248.25,"SF LeBron James SG Jimmy Butler UTIL Eric Bledsoe G Denzel Valentine PG Ricky Rubio C Marcin Gortat PF Markieff Morris F Juancho Hernangómez",NA,"","","",NA
+119,935798804,"Awesemo (11/15)",0,248,"UTIL Karl-Anthony Towns PF Kevin Love F Andrew Wiggins PG Eric Bledsoe G Ricky Rubio C Marcin Gortat SG Malcolm Brogdon SF Markieff Morris",NA,"","","",NA
+119,935950722,"jorge_soler (1/4)",0,248,"SF Giannis Antetokounmpo C Karl-Anthony Towns PF Kevin Love UTIL Otto Porter F Markieff Morris PG Tim Frazier SG Tony Snell G Garrett Temple",NA,"","","",NA
+121,936072916,"johncy2000 (3/3)",0,247.5,"SF LeBron James PF Giannis Antetokounmpo C Taj Gibson F Willie Cauley-Stein PG Tyus Jones G J.R. Smith SG George Hill UTIL Thon Maker",NA,"","","",NA
+121,936130086,"butch0958 (1/2)",0,247.5,"SF LeBron James UTIL Nikola Jokic PF Kevin Love SG Eric Bledsoe C Robin Lopez PG Tyler Johnson F Bogdan Bogdanovic G Garrett Temple",NA,"","","",NA
+123,935929469,"LawnStar",0,247.25,"SG Devin Booker G Bradley Beal F Kevin Love UTIL Otto Porter SF Denzel Valentine PF Willie Cauley-Stein C Marcin Gortat PG Jerian Grant",NA,"","","",NA
+124,936362906,"shepsworth",0,247,"PF LeBron James SG Bradley Beal SF Dion Waiters F Denzel Valentine G Justin Holiday UTIL Dwyane Wade PG Tim Frazier C Kenneth Faried",NA,"","","",NA
+125,936467789,"jhamilton99 (2/3)",0,246.75,"UTIL Giannis Antetokounmpo SG Devin Booker SF Otto Porter F Rodney Hood G Justin Holiday C Willie Cauley-Stein PG Tim Frazier PF Kenneth Faried",NA,"","","",NA
+126,935844400,"LaxitiveLeo (3/15)",0,246.5,"C Nikola Jokic UTIL Jimmy Butler PF Kevin Love SF Otto Porter G Will Barton SG Denzel Valentine F Willie Cauley-Stein PG Frank Mason III",NA,"","","",NA
+126,936421724,"Daninsinga (2/4)",0,246.5,"PF LeBron James C Karl-Anthony Towns SG Jimmy Butler F Otto Porter SF J.R. Smith PG Tim Frazier G Wayne Ellington UTIL Garrett Temple",NA,"","","",NA
+128,935724794,"ChipotleAddict (2/15)",0,246,"SG Bradley Beal PF Kevin Love F Lauri Markkanen PG Eric Bledsoe UTIL Donovan Mitchell G Ricky Rubio C Robin Lopez SF Joe Ingles",NA,"","","",NA
+128,936321243,"dred0gg024 (2/2)",0,246,"PF Giannis Antetokounmpo SF Andrew Wiggins F Derrick Favors SG Dion Waiters G Ricky Rubio C Marcin Gortat UTIL Robin Lopez PG Tim Frazier",NA,"","","",NA
+130,935724793,"ChipotleAddict (1/15)",0,245.75,"C Nikola Jokic SG Jimmy Butler F Lauri Markkanen UTIL Eric Bledsoe G Justin Holiday PG Ricky Rubio SF Joe Ingles PF Markieff Morris",NA,"","","",NA
+131,935932552,"moklovin (9/15)",0,245.5,"PF Giannis Antetokounmpo SG Bradley Beal G Eric Bledsoe SF Justin Holiday UTIL Gary Harris F Joe Ingles C John Henson PG Tim Frazier",NA,"","","",NA
+131,936615984,"kmoff77 (1/2)",0,245.5,"PF Giannis Antetokounmpo SG Bradley Beal PG Kris Dunn F Denzel Valentine SF Justin Holiday C Marcin Gortat G Mike James UTIL George Hill",NA,"","","",NA
+133,935798800,"Awesemo (7/15)",0,245,"C Karl-Anthony Towns SG Jimmy Butler PF Kevin Love SF Will Barton PG Ricky Rubio G Malcolm Brogdon UTIL John Henson F Markieff Morris",NA,"","","",NA
+133,935798806,"Awesemo (13/15)",0,245,"PF LeBron James SG Bradley Beal C Kevin Love PG Eric Bledsoe G Joe Ingles SF Markieff Morris F Kenneth Faried UTIL Juancho Hernangómez",NA,"","","",NA
+133,935802667,"donkosaurus",0,245,"C Nikola Jokic SG Jimmy Butler UTIL T.J. Warren PF Kevin Love SF Otto Porter F Willie Cauley-Stein PG Tim Frazier G Wayne Ellington",NA,"","","",NA
+136,936302401,"jrh002",0,244.75,"C Nikola Jokic SG Bradley Beal F Kevin Love G Eric Bledsoe SF Otto Porter PF Willie Cauley-Stein UTIL Marcin Gortat PG Frank Mason III",NA,"","","",NA
+136,936411545,"Aggregate",0,244.75,"UTIL Giannis Antetokounmpo SG Jimmy Butler PF Lauri Markkanen SF Denzel Valentine PG Ricky Rubio F Joe Ingles C Tyson Chandler G Tyus Jones",NA,"","","",NA
+136,936537879,"SLips713 (1/3)",0,244.75,"F Giannis Antetokounmpo SG Bradley Beal PF Derrick Favors PG Dwyane Wade G Gary Harris C Marcin Gortat SF Joe Ingles UTIL Kenneth Faried",NA,"","","",NA
+139,936632800,"TopBoy1",0,244.5,"PF LeBron James SG Jimmy Butler PG Donovan Mitchell C Taj Gibson SF Denzel Valentine F Joe Ingles UTIL Tyus Jones G Tim Frazier",NA,"","","",NA
+140,935932547,"moklovin (4/15)",0,244.25,"C Nikola Jokic SG Jimmy Butler PF Kevin Love G Will Barton SF Denzel Valentine PG Ricky Rubio UTIL Gary Harris F Kenneth Faried",NA,"","","",NA
+140,936031562,"Rotomania (4/5)",0,244.25,"PF Giannis Antetokounmpo SG Bradley Beal SF T.J. Warren C Taj Gibson PG Ricky Rubio F Willie Cauley-Stein UTIL Kenneth Faried G Frank Mason III",NA,"","","",NA
+140,936623405,"Daninsinga (4/4)",0,244.25,"PF Giannis Antetokounmpo C Karl-Anthony Towns SG Jimmy Butler F Otto Porter SF J.R. Smith PG Tim Frazier UTIL Kenneth Faried G Wayne Ellington",NA,"","","",NA
+143,936268395,"fallfromgrace (2/5)",0,244,"F LeBron James G Jimmy Butler UTIL Kevin Love SG Gary Harris C Willie Cauley-Stein SF Joe Ingles PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+144,935932558,"moklovin (15/15)",0,243.75,"C Karl-Anthony Towns UTIL Nikola Jokic SF Khris Middleton PF Taj Gibson G Denzel Valentine SG Justin Holiday F Willie Cauley-Stein PG Garrett Temple",NA,"","","",NA
+145,935923061,"ttucowboy (3/8)",0,243.5,"F Giannis Antetokounmpo C Hassan Whiteside SG Denzel Valentine UTIL Justin Holiday G Gary Harris PF Willie Cauley-Stein SF Joe Ingles PG Tim Frazier",NA,"","","",NA
+145,936035505,"kaponeslc",0,243.5,"C Karl-Anthony Towns SG Jimmy Butler PF Kevin Love UTIL Eric Bledsoe G Donovan Mitchell F Joe Ingles SF Jae Crowder PG Tim Frazier",NA,"","","",NA
+145,936248408,"Rookie2442",0,243.5,"C Karl-Anthony Towns SG Jimmy Butler PF Kevin Love UTIL Eric Bledsoe G Donovan Mitchell F Joe Ingles SF Jae Crowder PG Tim Frazier",NA,"","","",NA
+145,936524221,"patrickmillane35 (6/8)",0,243.5,"SF Giannis Antetokounmpo C Hassan Whiteside SG Kris Dunn G Denzel Valentine PF Willie Cauley-Stein UTIL Marcin Gortat PG Malcolm Brogdon F Channing Frye",NA,"","","",NA
+149,936140293,"texasboyut (2/2)",0,242.5,"F Giannis Antetokounmpo PF Lauri Markkanen SG Donovan Mitchell SF Denzel Valentine G Justin Holiday PG Dwyane Wade C Willie Cauley-Stein UTIL Jae Crowder",NA,"","","",NA
+149,936464874,"kev6873 (1/3)",0,242.5,"SF LeBron James C Karl-Anthony Towns F Otto Porter G Justin Holiday UTIL Willie Cauley-Stein PG Jerian Grant PF Kelly Olynyk SG Wayne Ellington",NA,"","","",NA
+149,936499435,"ChiCityBulls",0,242.5,"F LeBron James PG Eric Bledsoe SG Donovan Mitchell SF Otto Porter PF Zach Randolph C Willie Cauley-Stein G Tyus Jones UTIL Tim Frazier",NA,"","","",NA
+152,936157917,"ahitspat (3/3)",0,241.75,"PF Giannis Antetokounmpo C Karl-Anthony Towns SF Otto Porter SG Justin Holiday UTIL Ricky Rubio PG Jerian Grant G Tim Frazier F Mason Plumlee",NA,"","","",NA
+152,936423559,"patrickmillane35 (2/8)",0,241.75,"C Karl-Anthony Towns UTIL Hassan Whiteside G Devin Booker F Will Barton PF Derrick Favors PG Tim Frazier SG Tony Snell SF Jeff Green",NA,"","","",NA
+154,936114969,"eness79",0,241.5,"PF LeBron James UTIL Karl-Anthony Towns C Hassan Whiteside SF Justin Holiday F Josh Richardson G Tim Frazier SG Josh Jackson PG Frank Mason III",NA,"","","",NA
+154,936140237,"texasboyut (1/2)",0,241.5,"UTIL Jimmy Butler SF Andrew Wiggins PF Lauri Markkanen G Donovan Mitchell F Dion Waiters SG Kris Dunn C Willie Cauley-Stein PG Jerian Grant",NA,"","","",NA
+154,936169901,"MicahJ",0,241.5,"SF Giannis Antetokounmpo PF Lauri Markkanen UTIL Derrick Favors SG Denzel Valentine G Gary Harris C Willie Cauley-Stein PG Jamal Murray F Joe Ingles",NA,"","","",NA
+154,936274788,"Midget25",0,241.5,"SF Giannis Antetokounmpo G Khris Middleton PG Eric Bledsoe SG Justin Holiday PF Zach Randolph C Marcin Gortat F Joe Ingles UTIL Jerian Grant",NA,"","","",NA
+154,936625597,"JumpaHoo (4/8)",0,241.5,"F Giannis Antetokounmpo SG Jimmy Butler PG Donovan Mitchell PF Otto Porter SF Denzel Valentine C Willie Cauley-Stein UTIL Tim Frazier G Garrett Temple",NA,"","","",NA
+154,936625751,"JumpaHoo (8/8)",0,241.5,"F Giannis Antetokounmpo SG Jimmy Butler PG Donovan Mitchell PF Otto Porter SF Denzel Valentine C Willie Cauley-Stein UTIL Tim Frazier G Garrett Temple",NA,"","","",NA
+160,936577848,"Doc_Holliday1851",0,241.25,"SG Bradley Beal G Jimmy Butler PF Kevin Love PG Donovan Mitchell SF Denzel Valentine F Willie Cauley-Stein C Marcin Gortat UTIL Robin Lopez",NA,"","","",NA
+160,936631240,"JeffElJefe (2/2)",0,241.25,"C Nikola Jokic UTIL Bradley Beal PF Otto Porter SG Kris Dunn SF Justin Holiday G Ricky Rubio F Bobby Portis PG Jerian Grant",NA,"","","",NA
+162,936095108,"rmj11222 (2/2)",0,241,"C Nikola Jokic SG Bradley Beal PG Eric Bledsoe SF Dion Waiters PF James Johnson G Justin Holiday UTIL Willie Cauley-Stein F Kenneth Faried",NA,"","","",NA
+162,936435112,"patrickmillane35 (5/8)",0,241,"C Nikola Jokic SG Devin Booker SF T.J. Warren F Andrew Wiggins PG Dwyane Wade G Gary Harris PF Alex Len UTIL Josh Jackson",NA,"","","",NA
+164,936123284,"GinobiliFan (1/5)",0,240.75,"C Karl-Anthony Towns SG Bradley Beal PF Kevin Love G Eric Bledsoe UTIL Gary Harris F Willie Cauley-Stein SF Joe Ingles PG Tim Frazier",NA,"","","",NA
+164,936289539,"ShipMyMoney",0,240.75,"SF Giannis Antetokounmpo SG Bradley Beal F Kevin Love G Eric Bledsoe PG Malcolm Brogdon C Kelly Olynyk UTIL Tim Frazier PF Kenneth Faried",NA,"","","",NA
+164,936509082,"hishboo (4/5)",0,240.75,"SF Giannis Antetokounmpo PF Lauri Markkanen UTIL Eric Bledsoe G Donovan Mitchell SG Denzel Valentine C Willie Cauley-Stein F Joe Ingles PG Garrett Temple",NA,"","","",NA
+167,935930462,"Bonuscash",0,240.5,"UTIL LeBron James F Giannis Antetokounmpo SF Otto Porter C Willie Cauley-Stein G Buddy Hield PG Tim Frazier PF Kenneth Faried SG Frank Mason III",NA,"","","",NA
+168,936238346,"cjkalt (4/4)",0,240.25,"SF Giannis Antetokounmpo C Nikola Jokic PG Eric Bledsoe UTIL James Johnson PF Willie Cauley-Stein SG Malcolm Brogdon F Buddy Hield G Frank Mason III",NA,"","","",NA
+169,935932548,"moklovin (5/15)",0,240,"C Nikola Jokic SG Jimmy Butler PG Eric Bledsoe UTIL Donovan Mitchell SF Denzel Valentine G Justin Holiday F Joe Ingles PF Markieff Morris",NA,"","","",NA
+169,936104986,"cheddabisque (1/2)",0,240,"PF Giannis Antetokounmpo G Bradley Beal F Kevin Love SG Eric Bledsoe C Robin Lopez UTIL De'Aaron Fox PG Tim Frazier SF Juancho Hernangómez",NA,"","","",NA
+169,936190405,"TheAndster",0,240,"SF LeBron James F Lauri Markkanen PG Eric Bledsoe PF Otto Porter UTIL Will Barton C Taj Gibson SG Wayne Ellington G Frank Mason III",NA,"","","",NA
+169,936401748,"BRORANNOSAURUS_FLEX (10/15)",0,240,"C Nikola Jokic SG Jimmy Butler PG Eric Bledsoe UTIL Donovan Mitchell G Denzel Valentine SF Justin Holiday F Joe Ingles PF Markieff Morris",NA,"","","",NA
+173,936619152,"kmoff77 (2/2)",0,239.75,"SF Giannis Antetokounmpo G Eric Bledsoe F Will Barton C Taj Gibson SG Justin Holiday PG Ricky Rubio PF Markieff Morris UTIL De'Aaron Fox",NA,"","","",NA
+174,936401750,"BRORANNOSAURUS_FLEX (12/15)",0,239.25,"C Nikola Jokic SG Jimmy Butler PF Kevin Love UTIL Donovan Mitchell SF Denzel Valentine G Gary Harris F Willie Cauley-Stein PG Tim Frazier",NA,"","","",NA
+175,936592346,"GKool",0,238.75,"UTIL Nikola Jokic SG Jimmy Butler PG Eric Bledsoe PF Otto Porter SF Will Barton G Dwyane Wade C Willie Cauley-Stein F Kenneth Faried",NA,"","","",NA
+176,936401753,"BRORANNOSAURUS_FLEX (15/15)",0,238.25,"C Karl-Anthony Towns SG Jimmy Butler PF Kevin Love G Will Barton SF Denzel Valentine UTIL Gary Harris F Joe Ingles PG Tim Frazier",NA,"","","",NA
+177,936348127,"ronaquino",0,238,"PF Giannis Antetokounmpo SG Bradley Beal PG Eric Bledsoe SF Otto Porter C Willie Cauley-Stein F Buddy Hield G Josh Richardson UTIL Kenneth Faried",NA,"","","",NA
+178,935873946,"flashyfitz21",0,237.75,"PF LeBron James PG Goran Dragic C Kevin Love G Ricky Rubio SG Dwyane Wade F Markieff Morris SF Kelly Oubre Jr. UTIL Tyler Johnson",NA,"","","",NA
+178,935918149,"jamdown66",0,237.75,"SF Giannis Antetokounmpo PG Goran Dragic SG Dion Waiters G Denzel Valentine UTIL Justin Holiday PF Zach Randolph F Kelly Oubre Jr. C Kelly Olynyk",NA,"","","",NA
+180,936431036,"j3lly",0,237.5,"C Karl-Anthony Towns SG Bradley Beal F Kevin Love SF Will Barton G Dion Waiters PF Willie Cauley-Stein UTIL Robin Lopez PG Frank Mason III",NA,"","","",NA
+181,936030863,"bcalicore (8/15)",0,237,"SF LeBron James C Kevin Love PF Lauri Markkanen UTIL Donovan Mitchell SG Denzel Valentine PG Jerian Grant G Tim Frazier F Kenneth Faried",NA,"","","",NA
+182,936609617,"Sugerdaddy (4/4)",0,236.75,"C Nikola Jokic SG Bradley Beal PF Kevin Love UTIL Derrick Favors SF Denzel Valentine PG Ricky Rubio F Joe Ingles G Tim Frazier",NA,"","","",NA
+182,936624617,"DraftCheat (2/3)",0,236.75,"UTIL LeBron James SG Jimmy Butler SF Otto Porter PG Ricky Rubio PF Willie Cauley-Stein C Marcin Gortat F Joe Ingles G Tim Frazier",NA,"","","",NA
+184,936362201,"tkdman14",0,235.75,"C Nikola Jokic G Jimmy Butler SG Eric Bledsoe SF Otto Porter F Will Barton PF Willie Cauley-Stein UTIL Marcin Gortat PG Tyus Jones",NA,"","","",NA
+184,936602479,"scottp11 (1/2)",0,235.75,"C Karl-Anthony Towns SF Devin Booker PG Eric Bledsoe F James Johnson UTIL Denzel Valentine PF Willie Cauley-Stein SG Jamal Murray G De'Aaron Fox",NA,"","","",NA
+184,936629663,"DonationKing",0,235.75,"SG Devin Booker SF T.J. Warren PF Lauri Markkanen PG Kris Dunn UTIL James Johnson G Denzel Valentine F Bobby Portis C Greg Monroe",NA,"","","",NA
+187,936090799,"rmj11222 (1/2)",0,235.25,"SF LeBron James F T.J. Warren PF Otto Porter SG Dion Waiters G Denzel Valentine C Willie Cauley-Stein PG Tim Frazier UTIL Jeff Green",NA,"","","",NA
+187,936182116,"twomindsbluff (3/3)",0,235.25,"SG Bradley Beal G Jimmy Butler C Kevin Love PG Eric Bledsoe F Will Barton SF Denzel Valentine UTIL John Henson PF Kelly Olynyk",NA,"","","",NA
+187,936480879,"SirGiant",0,235.25,"SF Giannis Antetokounmpo SG Bradley Beal PG Eric Bledsoe PF Taj Gibson F Willie Cauley-Stein C Marcin Gortat G Tyus Jones UTIL Tim Frazier",NA,"","","",NA
+190,936578799,"db730 (3/4)",0,234.75,"C Karl-Anthony Towns UTIL Nikola Jokic PF Kevin Love PG Eric Bledsoe SG Jamal Murray SF Joe Ingles F Josh Richardson G Tim Frazier",NA,"","","",NA
+191,935932554,"moklovin (11/15)",0,234.5,"F Giannis Antetokounmpo G Bradley Beal UTIL Jimmy Butler PF Derrick Favors SF Joe Ingles PG Tyler Ulis SG Tyler Johnson C Mason Plumlee",NA,"","","",NA
+191,936183285,"swedishchef (1/3)",0,234.5,"PF Giannis Antetokounmpo C Nikola Jokic SF Otto Porter G Kris Dunn UTIL Denzel Valentine SG Tyus Jones PG Tim Frazier F Mason Plumlee",NA,"","","",NA
+193,936115203,"cheddabisque (2/2)",0,234.25,"SF LeBron James C Nikola Jokic PF Otto Porter G Justin Holiday UTIL Marcin Gortat SG Joe Ingles PG Tim Frazier F Kenneth Faried",NA,"","","",NA
+193,936243202,"andrewmgold",0,234.25,"SF Giannis Antetokounmpo C Nikola Jokic SG Eric Bledsoe F Otto Porter PF Willie Cauley-Stein PG Tyus Jones UTIL Tim Frazier G Wayne Ellington",NA,"","","",NA
+193,936571082,"db730 (2/4)",0,234.25,"SF Giannis Antetokounmpo G Bradley Beal PF Kevin Love F Willie Cauley-Stein SG Jamal Murray C Marcin Gortat UTIL Tyler Ulis PG Tim Frazier",NA,"","","",NA
+196,936145548,"Heibs22",0,234,"SF Giannis Antetokounmpo C Nikola Jokic F Otto Porter PG Kris Dunn SG Gary Harris UTIL John Henson G Tim Frazier PF Trey Lyles",NA,"","","",NA
+196,936265175,"record62",0,234,"C Nikola Jokic SG Bradley Beal G Jimmy Butler SF Otto Porter PF Taj Gibson PG Ricky Rubio F Willie Cauley-Stein UTIL Frank Mason III",NA,"","","",NA
+198,935802907,"Nortdal",0,233.75,"SF LeBron James F Giannis Antetokounmpo PG Donovan Mitchell UTIL Mike James G Tyus Jones SG George Hill C Kenneth Faried PF Jeff Green",NA,"","","",NA
+198,936401743,"BRORANNOSAURUS_FLEX (5/15)",0,233.75,"C Nikola Jokic SG Jimmy Butler PF Kevin Love UTIL Donovan Mitchell SF Denzel Valentine G Gary Harris F Joe Ingles PG Tim Frazier",NA,"","","",NA
+198,936617114,"supadupalukeyyy",0,233.75,"PF LeBron James F Lauri Markkanen SF Otto Porter UTIL Denzel Valentine G Gary Harris C Marcin Gortat PG Jerian Grant SG Tyus Jones",NA,"","","",NA
+201,936068057,"Domacorn",0,233.5,"PF Giannis Antetokounmpo C Nikola Jokic SF Otto Porter SG Justin Holiday G Gary Harris UTIL John Henson F Kelly Olynyk PG Tim Frazier",NA,"","","",NA
+202,935932557,"moklovin (14/15)",0,233.25,"PF Giannis Antetokounmpo SF Devin Booker SG Bradley Beal G Ricky Rubio F Joe Ingles C John Henson PG Tim Frazier UTIL Garrett Temple",NA,"","","",NA
+202,936389075,"theillmessiah (3/4)",0,233.25,"SF Giannis Antetokounmpo SG Bradley Beal C Kevin Love PF Otto Porter UTIL Denzel Valentine PG Tim Frazier F Kenneth Faried G Wayne Ellington",NA,"","","",NA
+204,936401746,"BRORANNOSAURUS_FLEX (8/15)",0,232.75,"C Nikola Jokic SG Jimmy Butler G Eric Bledsoe PG Donovan Mitchell SF Denzel Valentine PF Willie Cauley-Stein UTIL Malcolm Brogdon F Joe Ingles",NA,"","","",NA
+205,936030857,"bcalicore (2/15)",0,232.5,"PF Giannis Antetokounmpo C Karl-Anthony Towns SG Rodney Hood UTIL Denzel Valentine SF Justin Holiday F Joe Ingles G Mike James PG Garrett Temple",NA,"","","",NA
+206,935724796,"ChipotleAddict (4/15)",0,232.25,"C Nikola Jokic SG Jimmy Butler PF Lauri Markkanen PG Eric Bledsoe UTIL Donovan Mitchell SF Denzel Valentine F Joe Ingles G Garrett Temple",NA,"","","",NA
+207,936511682,"BaylorBear2015",0,232,"SG Bradley Beal G Jimmy Butler PF Kevin Love F Lauri Markkanen UTIL Eric Bledsoe C Willie Cauley-Stein SF Markieff Morris PG Tim Frazier",NA,"","","",NA
+208,936178177,"vassa (2/3)",0,231.75,"C Karl-Anthony Towns G Devin Booker SF Otto Porter UTIL Will Barton F Dion Waiters SG Denzel Valentine PG Tim Frazier PF Kenneth Faried",NA,"","","",NA
+208,936568947,"BigT44 (4/4)",0,231.75,"F Giannis Antetokounmpo C Nikola Jokic SG Bradley Beal SF Denzel Valentine UTIL Justin Holiday PG Tim Frazier PF Juancho Hernangómez G Frank Mason III",NA,"","","",NA
+210,935874164,"ganondorf (2/3)",0,231.5,"SF Giannis Antetokounmpo C Nikola Jokic PF Lauri Markkanen SG Justin Holiday F Willie Cauley-Stein G Mike James PG Tim Frazier UTIL Kenneth Faried",NA,"","","",NA
+210,936072914,"johncy2000 (1/3)",0,231.5,"SF LeBron James PG Eric Bledsoe F Will Barton PF Taj Gibson SG Dwyane Wade C Marcin Gortat G Malcolm Brogdon UTIL Markieff Morris",NA,"","","",NA
+210,936533401,"thepadlox",0,231.5,"C Nikola Jokic SF T.J. Warren F Lauri Markkanen SG Dion Waiters G Kris Dunn PF Zach Randolph UTIL Ricky Rubio PG Tim Frazier",NA,"","","",NA
+210,936629408,"tamsuKi",0,231.5,"C Karl-Anthony Towns G Eric Bledsoe UTIL Will Barton PF Derrick Favors SF Rodney Hood SG Denzel Valentine PG Dwyane Wade F Willie Cauley-Stein",NA,"","","",NA
+214,935853526,"LaxitiveLeo (10/15)",0,231.25,"SF LeBron James PF Andrew Wiggins PG Donovan Mitchell F Otto Porter SG Dion Waiters G Gary Harris C Kenneth Faried UTIL Wayne Ellington",NA,"","","",NA
+214,936031561,"Rotomania (3/5)",0,231.25,"C Karl-Anthony Towns UTIL Nikola Jokic SG Eric Bledsoe G Dion Waiters F Taj Gibson PF Willie Cauley-Stein PG Jerian Grant SF Jeff Green",NA,"","","",NA
+214,936089244,"BobbyFi (6/6)",0,231.25,"SF LeBron James C Nikola Jokic F Taj Gibson SG Justin Holiday G Gary Harris UTIL John Henson PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+214,936183167,"salmonc (7/15)",0,231.25,"SF Giannis Antetokounmpo UTIL Nikola Jokic PF Lauri Markkanen SG Justin Holiday F Willie Cauley-Stein G Joe Ingles PG Tim Frazier C Kenneth Faried",NA,"","","",NA
+214,936238345,"cjkalt (3/4)",0,231.25,"UTIL Nikola Jokic SG Bradley Beal PG Eric Bledsoe G Donovan Mitchell PF James Johnson SF Justin Holiday C Marcin Gortat F Kenneth Faried",NA,"","","",NA
+214,936365701,"foursons (1/3)",0,231.25,"SF Giannis Antetokounmpo SG Bradley Beal G Eric Bledsoe F Will Barton C Willie Cauley-Stein UTIL John Henson PG Tyus Jones PF Kenneth Faried",NA,"","","",NA
+220,936314820,"Packfan990",0,231,"SF Giannis Antetokounmpo SG Bradley Beal UTIL Denzel Valentine F Justin Holiday G Ricky Rubio PF Willie Cauley-Stein C Marcin Gortat PG Tyler Johnson",NA,"","","",NA
+220,936580922,"graybros",0,231,"G Bradley Beal PG Eric Bledsoe UTIL Donovan Mitchell PF Otto Porter SF Will Barton SG Denzel Valentine F Justin Holiday C Marcin Gortat",NA,"","","",NA
+222,936031563,"Rotomania (5/5)",0,230.75,"UTIL Nikola Jokic G Bradley Beal F T.J. Warren SG Eric Bledsoe SF Dion Waiters C Willie Cauley-Stein PG Tyus Jones PF Jeff Green",NA,"","","",NA
+222,936183172,"salmonc (12/15)",0,230.75,"UTIL Giannis Antetokounmpo SF T.J. Warren G Donovan Mitchell F Derrick Favors C Willie Cauley-Stein SG Joe Ingles PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+222,936183286,"swedishchef (2/3)",0,230.75,"SF LeBron James UTIL T.J. Warren G Eric Bledsoe PF Otto Porter F Will Barton SG Tyus Jones PG Tim Frazier C Mason Plumlee",NA,"","","",NA
+222,936544154,"kennyz816",0,230.75,"F LeBron James SG Jimmy Butler UTIL Lauri Markkanen G Kris Dunn PF Bobby Portis C Robin Lopez PG Tim Frazier SF Josh Jackson",NA,"","","",NA
+222,936552663,"cmack13912",0,230.75,"SF LeBron James SG Bradley Beal PF Otto Porter G Ricky Rubio C Willie Cauley-Stein UTIL Marcin Gortat PG Malcolm Brogdon F Kenneth Faried",NA,"","","",NA
+227,936593753,"jeffdrazek (4/5)",0,230.5,"C Karl-Anthony Towns G Bradley Beal SF T.J. Warren PF James Johnson SG Justin Holiday F Willie Cauley-Stein UTIL Marcin Gortat PG Tim Frazier",NA,"","","",NA
+228,935798797,"Awesemo (4/15)",0,230.25,"C Karl-Anthony Towns PF Kevin Love G Eric Bledsoe SG Donovan Mitchell F Will Barton UTIL Ricky Rubio SF Markieff Morris PG Tim Frazier",NA,"","","",NA
+228,935898897,"Muntradamus",0,230.25,"SF LeBron James PF Giannis Antetokounmpo F Zach Randolph PG Ricky Rubio C Willie Cauley-Stein SG Jamal Murray UTIL Skal Labissiere G José Calderón",NA,"","","",NA
+228,936625594,"JumpaHoo (1/8)",0,230.25,"UTIL Hassan Whiteside SG Bradley Beal C Kevin Love SF Otto Porter F Denzel Valentine G Gary Harris PF Willie Cauley-Stein PG Tim Frazier",NA,"","","",NA
+228,936625748,"JumpaHoo (5/8)",0,230.25,"UTIL Hassan Whiteside SG Bradley Beal C Kevin Love SF Otto Porter F Denzel Valentine G Gary Harris PF Willie Cauley-Stein PG Tim Frazier",NA,"","","",NA
+232,935992228,"Kmilk2",0,230,"C Nikola Jokic UTIL Kevin Love PG Eric Bledsoe SF Otto Porter SG Will Barton F Willie Cauley-Stein G Malcolm Brogdon PF Markieff Morris",NA,"","","",NA
+233,935981114,"beefstew93 (5/10)",0,229.75,"C Nikola Jokic G Bradley Beal UTIL Kevin Love SF Denzel Valentine PG Dwyane Wade SG Gary Harris PF Willie Cauley-Stein F Joe Ingles",NA,"","","",NA
+233,936030860,"bcalicore (5/15)",0,229.75,"UTIL Giannis Antetokounmpo C Karl-Anthony Towns G Eric Bledsoe F Denzel Valentine SF Joe Ingles SG Jerian Grant PG Tim Frazier PF Kenneth Faried",NA,"","","",NA
+233,936475651,"jhamilton99 (3/3)",0,229.75,"C Nikola Jokic SG Bradley Beal UTIL Jimmy Butler SF Otto Porter G Denzel Valentine F Justin Holiday PG Tim Frazier PF Kenneth Faried",NA,"","","",NA
+233,936568858,"BigT44 (2/4)",0,229.75,"F Giannis Antetokounmpo C Nikola Jokic SG Bradley Beal SF Denzel Valentine UTIL Justin Holiday PG Tim Frazier PF Kenneth Faried G Frank Mason III",NA,"","","",NA
+237,936565771,"db730 (1/4)",0,229.5,"SG Bradley Beal PF Kevin Love PG Eric Bledsoe SF Otto Porter F Will Barton G Dion Waiters C John Henson UTIL Markieff Morris",NA,"","","",NA
+237,936612179,"obeast3",0,229.5,"F Giannis Antetokounmpo SG Bradley Beal G Jimmy Butler PG Eric Bledsoe C Willie Cauley-Stein UTIL Tim Frazier PF Kenneth Faried SF Wayne Ellington",NA,"","","",NA
+239,935724797,"ChipotleAddict (5/15)",0,229,"UTIL Nikola Jokic PF Lauri Markkanen PG Eric Bledsoe G Donovan Mitchell SF Will Barton SG Justin Holiday C Robin Lopez F Joe Ingles",NA,"","","",NA
+239,936472640,"kev6873 (3/3)",0,229,"SF LeBron James C Nikola Jokic PF Otto Porter G Justin Holiday F Bobby Portis SG Jerian Grant PG Mike James UTIL Wayne Ellington",NA,"","","",NA
+241,935971335,"purecash999",0,228.75,"C Karl-Anthony Towns G Bradley Beal PF T.J. Warren PG Eric Bledsoe SG Dwyane Wade F Willie Cauley-Stein SF Buddy Hield UTIL Tim Frazier",NA,"","","",NA
+241,936538508,"fvacc23 (2/2)",0,228.75,"SF Giannis Antetokounmpo C Karl-Anthony Towns SG Eric Bledsoe PG Ricky Rubio UTIL Marcin Gortat F Markieff Morris G Tim Frazier PF Kenneth Faried",NA,"","","",NA
+243,935964565,"EggsAnyStyle",0,228.5,"F LeBron James PG Goran Dragic G Dion Waiters SG Dwyane Wade PF Bobby Portis C Willie Cauley-Stein UTIL Robin Lopez SF Josh Richardson",NA,"","","",NA
+243,936537340,"fvacc23 (1/2)",0,228.5,"C Nikola Jokic SF Andrew Wiggins PG Eric Bledsoe SG Donovan Mitchell UTIL Kris Dunn G Ricky Rubio F Willie Cauley-Stein PF Markieff Morris",NA,"","","",NA
+245,936628922,"SJ823",0,228.25,"SF LeBron James PF Otto Porter G Will Barton C Derrick Favors SG Denzel Valentine F Willie Cauley-Stein UTIL Jerian Grant PG Tim Frazier",NA,"","","",NA
+245,936632755,"Cvrkalj",0,228.25,"SF Giannis Antetokounmpo SG Bradley Beal UTIL Kevin Love PG Dwyane Wade F Greg Monroe C John Henson G Mike James PF Kenneth Faried",NA,"","","",NA
+247,935844520,"LaxitiveLeo (7/15)",0,228,"SF Giannis Antetokounmpo G Bradley Beal F Otto Porter UTIL Gary Harris PF Willie Cauley-Stein PG Jamal Murray C John Henson SG Kelly Oubre Jr.",NA,"","","",NA
+248,936165510,"smsjr",0,227.75,"PF Giannis Antetokounmpo UTIL Karl-Anthony Towns C Nikola Jokic SG Denzel Valentine G Dwyane Wade SF Wayne Ellington PG Garrett Temple F Ekpe Udoh",NA,"","","",NA
+248,936311557,"rockchalkjr",0,227.75,"PF LeBron James C Kevin Love F Lauri Markkanen SG Denzel Valentine UTIL Ricky Rubio SF Markieff Morris G Mike James PG Tyler Johnson",NA,"","","",NA
+250,936001412,"waynetfootball",0,227.5,"SF LeBron James SG Bradley Beal G Jimmy Butler UTIL Gary Harris F Willie Cauley-Stein C Robin Lopez PG Tim Frazier PF Kenneth Faried",NA,"","","",NA
+251,936401751,"BRORANNOSAURUS_FLEX (13/15)",0,227.25,"C Karl-Anthony Towns UTIL Nikola Jokic SG Eric Bledsoe G Donovan Mitchell SF Denzel Valentine PF Willie Cauley-Stein F Joe Ingles PG Garrett Temple",NA,"","","",NA
+251,936427803,"patrickmillane35 (4/8)",0,227.25,"SF Giannis Antetokounmpo SG Bradley Beal C Kevin Love G Will Barton PF Taj Gibson PG George Hill F Jeff Green UTIL Alec Burks",NA,"","","",NA
+251,936553412,"foursons (2/3)",0,227.25,"SF Giannis Antetokounmpo SG Bradley Beal F Andrew Wiggins G Eric Bledsoe C Willie Cauley-Stein PG Tyus Jones UTIL Tim Frazier PF Kenneth Faried",NA,"","","",NA
+254,936183174,"salmonc (14/15)",0,226.75,"F Giannis Antetokounmpo C Karl-Anthony Towns UTIL Derrick Favors SG Rodney Hood G Joe Ingles SF Markieff Morris PG Tyus Jones PF Kenneth Faried",NA,"","","",NA
+254,936293908,"Dearth",0,226.75,"SF Giannis Antetokounmpo UTIL Nikola Jokic F Otto Porter PG Ricky Rubio SG Gary Harris C Willie Cauley-Stein G Tim Frazier PF Kenneth Faried",NA,"","","",NA
+254,936485466,"Bigpoppy",0,226.75,"UTIL LeBron James F Giannis Antetokounmpo SG Eric Bledsoe C Willie Cauley-Stein SF Markieff Morris PG Tim Frazier PF Kenneth Faried G José Calderón",NA,"","","",NA
+257,935932550,"moklovin (7/15)",0,226,"SF Giannis Antetokounmpo SG Bradley Beal PF Lauri Markkanen G Eric Bledsoe F Willie Cauley-Stein C Robin Lopez PG Tim Frazier UTIL Garrett Temple",NA,"","","",NA
+257,936629228,"UTLambdas",0,226,"UTIL Nikola Jokic C Kevin Love G Khris Middleton SG Eric Bledsoe SF Denzel Valentine PG Ricky Rubio F Willie Cauley-Stein PF Greg Monroe",NA,"","","",NA
+259,936244347,"jstevens2k11 (1/2)",0,225.5,"F LeBron James SF Otto Porter SG Will Barton PF Taj Gibson G Denzel Valentine PG Ricky Rubio C Willie Cauley-Stein UTIL Tim Frazier",NA,"","","",NA
+260,936185158,"dred0gg024 (1/2)",0,225.25,"PF Giannis Antetokounmpo SF Andrew Wiggins G Donovan Mitchell F Derrick Favors C Marcin Gortat UTIL Robin Lopez SG Jerian Grant PG Tim Frazier",NA,"","","",NA
+260,936303082,"appatl10 (1/7)",0,225.25,"C Nikola Jokic SG Bradley Beal G Eric Bledsoe PF Derrick Favors SF Rodney Hood F Justin Holiday UTIL Gary Harris PG Tim Frazier",NA,"","","",NA
+260,936568917,"djm3d1cation",0,225.25,"SF LeBron James PF Giannis Antetokounmpo SG Dwyane Wade F Joe Ingles G De'Aaron Fox C Tyson Chandler UTIL Tyus Jones PG Tim Frazier",NA,"","","",NA
+263,935918110,"Surfyo",0,225,"UTIL Bradley Beal G Goran Dragic F T.J. Warren SF Otto Porter PF Taj Gibson SG Justin Holiday C Willie Cauley-Stein PG Tim Frazier",NA,"","","",NA
+263,936183171,"salmonc (11/15)",0,225,"SF LeBron James PF Lauri Markkanen F Khris Middleton G Eric Bledsoe UTIL Gary Harris SG Joe Ingles C John Henson PG Tim Frazier",NA,"","","",NA
+263,936194201,"rex21023 (1/3)",0,225,"SF Giannis Antetokounmpo C Nikola Jokic SG Bradley Beal G Justin Holiday UTIL Marcin Gortat PG Tim Frazier PF Kenneth Faried F Juancho Hernangómez",NA,"","","",NA
+263,936421659,"Daninsinga (1/4)",0,225,"PF Giannis Antetokounmpo G Bradley Beal SG Jimmy Butler SF Denzel Valentine C Willie Cauley-Stein PG Mike James F J.R. Smith UTIL Wayne Ellington",NA,"","","",NA
+263,936527447,"BCDabs39 (3/3)",0,225,"UTIL Giannis Antetokounmpo SG Bradley Beal PF Otto Porter G Gary Harris C Willie Cauley-Stein PG Malcolm Brogdon SF Joe Ingles F Kenneth Faried",NA,"","","",NA
+263,936619607,"FilthyHunts (2/2)",0,225,"F LeBron James C Hassan Whiteside UTIL Otto Porter SG Denzel Valentine G Dwyane Wade PF Willie Cauley-Stein PG Tyler Johnson SF Wayne Ellington",NA,"","","",NA
+269,935980611,"luker1683 (1/3)",0,224.75,"SF Giannis Antetokounmpo G Bradley Beal UTIL Eric Bledsoe SG Dion Waiters PF Willie Cauley-Stein C Marcin Gortat PG Tim Frazier F Kenneth Faried",NA,"","","",NA
+269,936268398,"fallfromgrace (5/5)",0,224.75,"PF LeBron James UTIL Kevin Love F Otto Porter SF Will Barton SG Gary Harris C Marcin Gortat G De'Aaron Fox PG Tim Frazier",NA,"","","",NA
+271,936322249,"ekimnotloh (2/2)",0,224.5,"PF Giannis Antetokounmpo UTIL Bradley Beal SF Otto Porter F Denzel Valentine SG Justin Holiday C Willie Cauley-Stein G Tyler Johnson PG Tim Frazier",NA,"","","",NA
+272,935724798,"ChipotleAddict (6/15)",0,224.25,"UTIL Nikola Jokic SG Bradley Beal PF Kevin Love PG Eric Bledsoe G Ricky Rubio F Joe Ingles C John Henson SF Markieff Morris",NA,"","","",NA
+272,936230967,"TepZac",0,224.25,"SF Giannis Antetokounmpo C Nikola Jokic PF Lauri Markkanen SG Dion Waiters PG Ricky Rubio G Tyus Jones UTIL Gorgui Dieng F Trey Lyles",NA,"","","",NA
+272,936625595,"JumpaHoo (2/8)",0,224.25,"UTIL LeBron James F Giannis Antetokounmpo G Denzel Valentine PF Willie Cauley-Stein SF Joe Ingles C Tyson Chandler PG Tim Frazier SG Garrett Temple",NA,"","","",NA
+272,936625749,"JumpaHoo (6/8)",0,224.25,"UTIL LeBron James F Giannis Antetokounmpo G Denzel Valentine PF Willie Cauley-Stein SF Joe Ingles C Tyson Chandler PG Tim Frazier SG Garrett Temple",NA,"","","",NA
+276,935724805,"ChipotleAddict (13/15)",0,224,"C Karl-Anthony Towns SG Jimmy Butler PF Lauri Markkanen UTIL Donovan Mitchell PG Ricky Rubio G Gary Harris F Joe Ingles SF Markieff Morris",NA,"","","",NA
+276,936081826,"therealmccoy2984 (2/3)",0,224,"C Nikola Jokic F Kevin Love PG Eric Bledsoe PF Otto Porter SF Will Barton SG Denzel Valentine UTIL Marcin Gortat G Tyler Johnson",NA,"","","",NA
+276,936354959,"joshharter",0,224,"C Karl-Anthony Towns SG Bradley Beal PG Eric Bledsoe PF Otto Porter SF Denzel Valentine G Gary Harris F Willie Cauley-Stein UTIL Tim Frazier",NA,"","","",NA
+276,936387255,"cohenspicks (1/2)",0,224,"C Nikola Jokic SG Bradley Beal PF Lauri Markkanen G Donovan Mitchell F Denzel Valentine SF Justin Holiday UTIL Joe Ingles PG Tyus Jones",NA,"","","",NA
+280,936590991,"iLLmaculatee",0,223.75,"PF Giannis Antetokounmpo C Nikola Jokic SG Eric Bledsoe SF Otto Porter UTIL Willie Cauley-Stein PG Tim Frazier F Kenneth Faried G Wayne Ellington",NA,"","","",NA
+281,936132860,"GinobiliFan (4/5)",0,223.5,"C Nikola Jokic SG Bradley Beal G Eric Bledsoe UTIL Donovan Mitchell F Denzel Valentine SF Justin Holiday PF Willie Cauley-Stein PG Tim Frazier",NA,"","","",NA
+282,935724799,"ChipotleAddict (7/15)",0,223.25,"C Karl-Anthony Towns UTIL Nikola Jokic SG Eric Bledsoe G Donovan Mitchell SF Justin Holiday F Joe Ingles PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+282,935783604,"wakeywakey (1/15)",0,223.25,"UTIL Nikola Jokic SG Bradley Beal PF Kevin Love F Will Barton SF Justin Holiday G Gary Harris C Marcin Gortat PG Tim Frazier",NA,"","","",NA
+282,935950724,"jorge_soler (3/4)",0,223.25,"C Hassan Whiteside PG Goran Dragic SG Will Barton SF Dion Waiters G Denzel Valentine F Justin Holiday UTIL Gary Harris PF Willie Cauley-Stein",NA,"","","",NA
+285,936173804,"taj5050",0,223,"C Nikola Jokic SG Bradley Beal UTIL T.J. Warren PF Otto Porter SF Justin Holiday G Ricky Rubio PG Jerian Grant F Kelly Olynyk",NA,"","","",NA
+285,936478052,"hotchet921",0,223,"C Karl-Anthony Towns F T.J. Warren PG Eric Bledsoe SG Donovan Mitchell SF Dion Waiters G Ricky Rubio PF Greg Monroe UTIL Tim Frazier",NA,"","","",NA
+287,935724800,"ChipotleAddict (8/15)",0,222.75,"UTIL Nikola Jokic SG Jimmy Butler PG Eric Bledsoe G Donovan Mitchell SF Dion Waiters C Robin Lopez F Joe Ingles PF Markieff Morris",NA,"","","",NA
+287,935844367,"LaxitiveLeo (1/15)",0,222.75,"SF LeBron James PG Goran Dragic UTIL Eric Bledsoe F Otto Porter SG Denzel Valentine C John Henson G Tim Frazier PF Jeff Green",NA,"","","",NA
+287,936030858,"bcalicore (3/15)",0,222.75,"SF LeBron James C Nikola Jokic F Lauri Markkanen UTIL Justin Holiday PG Jerian Grant PF Markieff Morris SG Tyus Jones G Tim Frazier",NA,"","","",NA
+290,935848760,"walkoff9",0,222.5,"C Nikola Jokic G Eric Bledsoe PG Donovan Mitchell SF Otto Porter F James Johnson SG Denzel Valentine PF Willie Cauley-Stein UTIL Marcin Gortat",NA,"","","",NA
+290,936602821,"Sugerdaddy (1/4)",0,222.5,"C Karl-Anthony Towns SG Bradley Beal UTIL Kevin Love PG Eric Bledsoe SF Denzel Valentine F Joe Ingles PF Markieff Morris G Tim Frazier",NA,"","","",NA
+292,935765509,"moklovin (1/15)",0,222.25,"UTIL Nikola Jokic SG Bradley Beal C Kevin Love G Eric Bledsoe SF Denzel Valentine PF Willie Cauley-Stein F Joe Ingles PG Tim Frazier",NA,"","","",NA
+292,936301858,"wilson1",0,222.25,"C Nikola Jokic SG Bradley Beal G Jimmy Butler SF Justin Holiday PG Ricky Rubio F Willie Cauley-Stein UTIL Marcin Gortat PF Markieff Morris",NA,"","","",NA
+292,936609337,"Sugerdaddy (3/4)",0,222.25,"C Nikola Jokic SG Bradley Beal PF Kevin Love PG Eric Bledsoe SF Denzel Valentine UTIL Willie Cauley-Stein F Joe Ingles G Tim Frazier",NA,"","","",NA
+295,936183161,"salmonc (1/15)",0,222,"F Giannis Antetokounmpo C Nikola Jokic SG Eric Bledsoe G Donovan Mitchell UTIL Willie Cauley-Stein PG Tyler Johnson PF Kenneth Faried SF Tony Snell",NA,"","","",NA
+295,936223455,"jordanlamarlettow",0,222,"UTIL Karl-Anthony Towns G Khris Middleton PF Otto Porter SG Will Barton F James Johnson C Taj Gibson PG Dwyane Wade SF Buddy Hield",NA,"","","",NA
+297,935798796,"Awesemo (3/15)",0,221.75,"PF LeBron James C Karl-Anthony Towns PG Eric Bledsoe SG Malcolm Brogdon F Joe Ingles SF Markieff Morris G De'Aaron Fox UTIL Kenneth Faried",NA,"","","",NA
+297,936625893,"fantasystuds",0,221.75,"SF Giannis Antetokounmpo C Nikola Jokic PG Eric Bledsoe SG Denzel Valentine PF Willie Cauley-Stein G Joe Ingles UTIL Tim Frazier F Kenneth Faried",NA,"","","",NA
+299,935901997,"heythecat",0,221.5,"C Nikola Jokic SF T.J. Warren PG Eric Bledsoe PF Otto Porter F Will Barton SG Denzel Valentine UTIL Ricky Rubio G Wayne Ellington",NA,"","","",NA
+299,936009783,"aaronaround",0,221.5,"C Karl-Anthony Towns SG Jimmy Butler F T.J. Warren SF Otto Porter UTIL James Johnson PF Markieff Morris G Mike James PG Tim Frazier",NA,"","","",NA
+301,936027879,"BobbyFi (1/6)",0,221.25,"C Nikola Jokic SG Bradley Beal G Jimmy Butler PF Otto Porter UTIL Taj Gibson F Willie Cauley-Stein SF Kelly Oubre Jr. PG Tim Frazier",NA,"","","",NA
+301,936359177,"prescio0912",0,221.25,"PF LeBron James C Nikola Jokic G Eric Bledsoe SF Denzel Valentine F Willie Cauley-Stein PG Tyus Jones SG Tyler Johnson UTIL Tim Frazier",NA,"","","",NA
+303,935798798,"Awesemo (5/15)",0,221,"PF LeBron James PG Eric Bledsoe F Will Barton SG Denzel Valentine G Ricky Rubio C Marcin Gortat UTIL Malcolm Brogdon SF Markieff Morris",NA,"","","",NA
+303,935981118,"beefstew93 (6/10)",0,221,"C Karl-Anthony Towns G Bradley Beal PF Kevin Love F Otto Porter SG Gary Harris UTIL Willie Cauley-Stein SF Markieff Morris PG Tim Frazier",NA,"","","",NA
+303,936535820,"wasdammada (2/2)",0,221,"SF Giannis Antetokounmpo C Hassan Whiteside SG Eric Bledsoe F Will Barton UTIL Bobby Portis PF Willie Cauley-Stein PG Tim Frazier G Frank Mason III",NA,"","","",NA
+306,935965413,"zoobs1747",0,220.75,"SG Bradley Beal SF Andrew Wiggins F Lauri Markkanen G Eric Bledsoe UTIL James Johnson C Taj Gibson PF Willie Cauley-Stein PG Malcolm Brogdon",NA,"","","",NA
+306,936268396,"fallfromgrace (3/5)",0,220.75,"F LeBron James G Bradley Beal SG Jimmy Butler SF Denzel Valentine UTIL Marcin Gortat C Robin Lopez PF Markieff Morris PG Frank Mason III",NA,"","","",NA
+308,935980237,"purpnurp19",0,220.5,"PF Giannis Antetokounmpo SG Bradley Beal G Eric Bledsoe UTIL Otto Porter C Marcin Gortat SF Joe Ingles PG Tim Frazier F Kenneth Faried",NA,"","","",NA
+308,936384291,"Fatness72",0,220.5,"PF Giannis Antetokounmpo C Karl-Anthony Towns PG Goran Dragic SF Andrew Wiggins UTIL Kelly Oubre Jr. G J.R. Smith F Bogdan Bogdanovic SG Troy Daniels",NA,"","","",NA
+308,936482829,"adamd5581",0,220.5,"C Nikola Jokic SG Bradley Beal PF Kevin Love G Eric Bledsoe PG Donovan Mitchell F Denzel Valentine UTIL Thabo Sefolosha SF Wayne Ellington",NA,"","","",NA
+311,936076450,"CrimaSaad (2/3)",0,219.25,"C Karl-Anthony Towns UTIL Nikola Jokic PF Lauri Markkanen G Eric Bledsoe SF Denzel Valentine SG Malcolm Brogdon PG Tim Frazier F Kenneth Faried",NA,"","","",NA
+312,935792124,"scrawl",0,219,"UTIL Nikola Jokic SG Jimmy Butler PF Lauri Markkanen PG Donovan Mitchell SF Denzel Valentine G Gary Harris C Robin Lopez F Joe Ingles",NA,"","","",NA
+312,935815774,"pwilli",0,219,"SF LeBron James PF Andrew Wiggins UTIL Lauri Markkanen F Will Barton G Dwyane Wade C Willie Cauley-Stein SG Tyus Jones PG Tim Frazier",NA,"","","",NA
+312,936242691,"kdun34 (2/2)",0,219,"F LeBron James C Karl-Anthony Towns SG Jimmy Butler UTIL Marcin Gortat PG Jerian Grant SF Markieff Morris PF Kenneth Faried G Wayne Ellington",NA,"","","",NA
+315,936030856,"bcalicore (1/15)",0,218.75,"PF LeBron James UTIL Nikola Jokic SF Khris Middleton SG Gary Harris F Willie Cauley-Stein C John Henson PG Tyus Jones G Tim Frazier",NA,"","","",NA
+315,936183168,"salmonc (8/15)",0,218.75,"SF LeBron James PF Lauri Markkanen C Derrick Favors F Rodney Hood SG Denzel Valentine G Gary Harris UTIL Willie Cauley-Stein PG Tim Frazier",NA,"","","",NA
+317,936031560,"Rotomania (2/5)",0,218.25,"C Nikola Jokic G Bradley Beal PG Eric Bledsoe SF Dion Waiters PF Taj Gibson SG Denzel Valentine F Willie Cauley-Stein UTIL Jeff Green",NA,"","","",NA
+317,936317128,"psualum",0,218.25,"PF Giannis Antetokounmpo G Bradley Beal UTIL Eric Bledsoe SG Will Barton SF Denzel Valentine F Kelly Oubre Jr. PG Tim Frazier C Kenneth Faried",NA,"","","",NA
+317,936609724,"scottp11 (2/2)",0,218.25,"SF LeBron James PF Giannis Antetokounmpo UTIL Gary Harris C Willie Cauley-Stein F Markieff Morris SG Kelly Oubre Jr. G George Hill PG Tim Frazier",NA,"","","",NA
+320,936621887,"Macman26 (1/2)",0,218,"F LeBron James SG Bradley Beal G Eric Bledsoe UTIL Dwyane Wade PF Willie Cauley-Stein C Robin Lopez SF Markieff Morris PG Tim Frazier",NA,"","","",NA
+320,936625596,"JumpaHoo (3/8)",0,218,"PF LeBron James SG Bradley Beal PG Donovan Mitchell SF Otto Porter F Denzel Valentine C Willie Cauley-Stein G Tim Frazier UTIL Frank Mason III",NA,"","","",NA
+320,936625750,"JumpaHoo (7/8)",0,218,"PF LeBron James SG Bradley Beal PG Donovan Mitchell SF Otto Porter F Denzel Valentine C Willie Cauley-Stein G Tim Frazier UTIL Frank Mason III",NA,"","","",NA
+323,936350526,"lastairbender",0,217.75,"SF Giannis Antetokounmpo PF Lauri Markkanen UTIL Otto Porter F James Johnson PG Jamal Murray C Marcin Gortat G Malcolm Brogdon SG Jerian Grant",NA,"","","",NA
+324,936459290,"71mach1351",0,217.5,"G Bradley Beal PF T.J. Warren UTIL Eric Bledsoe F Otto Porter SF Dion Waiters SG Rodney Hood C Marcin Gortat PG Tyus Jones",NA,"","","",NA
+325,936631877,"oldblackjack (3/3)",0,217.25,"C Nikola Jokic G Jimmy Butler PF Lauri Markkanen F Dion Waiters UTIL James Johnson SF Denzel Valentine SG Gary Harris PG Tim Frazier",NA,"","","",NA
+326,935844510,"LaxitiveLeo (6/15)",0,217,"SF LeBron James PG Goran Dragic PF Otto Porter F Denzel Valentine SG Dwyane Wade C Marcin Gortat UTIL John Henson G Tim Frazier",NA,"","","",NA
+327,936205576,"Ruhockey12",0,216.75,"UTIL Nikola Jokic SF Andrew Wiggins F Lauri Markkanen G Eric Bledsoe PG Kris Dunn C Zach Randolph PF Willie Cauley-Stein SG Tyler Johnson",NA,"","","",NA
+327,936527865,"astro_not86",0,216.75,"SG Bradley Beal SF T.J. Warren PF Lauri Markkanen G Eric Bledsoe UTIL Otto Porter F James Johnson C Marcin Gortat PG Tim Frazier",NA,"","","",NA
+329,936030862,"bcalicore (7/15)",0,216.5,"F Giannis Antetokounmpo C Nikola Jokic UTIL Will Barton SF Denzel Valentine SG Justin Holiday PG Jerian Grant G Tim Frazier PF Kenneth Faried",NA,"","","",NA
+330,935844409,"LaxitiveLeo (4/15)",0,216.25,"SG Jimmy Butler G Goran Dragic SF Andrew Wiggins F Otto Porter UTIL Will Barton PF Taj Gibson C Marcin Gortat PG Tyus Jones",NA,"","","",NA
+330,935981085,"beefstew93 (2/10)",0,216.25,"C Nikola Jokic G Bradley Beal PF Kevin Love F Otto Porter SF Denzel Valentine SG Gary Harris UTIL Joe Ingles PG Tim Frazier",NA,"","","",NA
+330,936509090,"Orcachow (4/6)",0,216.25,"C Nikola Jokic G Bradley Beal UTIL Kevin Love PF Otto Porter SF Denzel Valentine SG Gary Harris F Joe Ingles PG Tim Frazier",NA,"","","",NA
+330,936610613,"cdroberts4",0,216.25,"UTIL LeBron James PF Giannis Antetokounmpo G Dion Waiters C Marcin Gortat PG De'Aaron Fox F Jae Crowder SG J.R. Smith SF Kyle Korver",NA,"","","",NA
+334,935917319,"PackRBack",0,215.75,"C Karl-Anthony Towns G Bradley Beal F Andrew Wiggins PG Eric Bledsoe SG Dion Waiters SF Denzel Valentine PF Markieff Morris UTIL Frank Mason III",NA,"","","",NA
+335,936528744,"rm23stpe",0,215.5,"PF LeBron James PG Goran Dragic SF Otto Porter SG Will Barton C Willie Cauley-Stein G Malcolm Brogdon UTIL Tyus Jones F Justise Winslow",NA,"","","",NA
+336,935973147,"Orcachow (3/6)",0,215.25,"PF Giannis Antetokounmpo SG Bradley Beal F Dion Waiters G Denzel Valentine C Willie Cauley-Stein UTIL Marcin Gortat SF Markieff Morris PG Tyus Jones",NA,"","","",NA
+336,936401742,"BRORANNOSAURUS_FLEX (4/15)",0,215.25,"C Karl-Anthony Towns UTIL Nikola Jokic PG Donovan Mitchell SF Denzel Valentine SG Gary Harris PF Willie Cauley-Stein G Malcolm Brogdon F Joe Ingles",NA,"","","",NA
+338,935981078,"beefstew93 (1/10)",0,215,"C Karl-Anthony Towns SG Bradley Beal PF Kevin Love SF Otto Porter G Denzel Valentine UTIL Marcin Gortat F Markieff Morris PG Tim Frazier",NA,"","","",NA
+338,936030868,"bcalicore (13/15)",0,215,"UTIL LeBron James C Karl-Anthony Towns SF Rodney Hood SG Justin Holiday F Bobby Portis PF Markieff Morris PG Tyus Jones G Tim Frazier",NA,"","","",NA
+338,936183162,"salmonc (2/15)",0,215,"C Karl-Anthony Towns UTIL Nikola Jokic PF Kevin Love SG Denzel Valentine G Gary Harris F Willie Cauley-Stein SF Markieff Morris PG Tyler Johnson",NA,"","","",NA
+341,936072915,"johncy2000 (2/3)",0,214.75,"F LeBron James SG Bradley Beal SF Andrew Wiggins PG Donovan Mitchell PF Alex Len C Tyson Chandler G Kelly Oubre Jr. UTIL Tyler Johnson",NA,"","","",NA
+341,936580451,"wakeywakey (12/15)",0,214.75,"C Nikola Jokic SG Bradley Beal PF Kevin Love SF Will Barton G Justin Holiday UTIL Ricky Rubio F Markieff Morris PG Tim Frazier",NA,"","","",NA
+343,936178176,"vassa (1/3)",0,214.5,"UTIL Karl-Anthony Towns PG Donovan Mitchell PF Otto Porter F Will Barton SF Rodney Hood SG Denzel Valentine G Justin Holiday C John Henson",NA,"","","",NA
+343,936518099,"harry101",0,214.5,"C Nikola Jokic SF T.J. Warren PF Lauri Markkanen SG Dion Waiters F James Johnson UTIL Denzel Valentine PG Ricky Rubio G Tim Frazier",NA,"","","",NA
+345,935843805,"supremexjp",0,214,"UTIL Karl-Anthony Towns SG Bradley Beal F T.J. Warren SF Dion Waiters G Gary Harris PF Willie Cauley-Stein C Marcin Gortat PG Tim Frazier",NA,"","","",NA
+346,935873009,"daddyfear",0,213.75,"SF LeBron James PF Giannis Antetokounmpo SG Dwyane Wade G Gary Harris UTIL Markieff Morris C Tyson Chandler PG Tim Frazier F Wayne Ellington",NA,"","","",NA
+346,935946632,"wasdammada (1/2)",0,213.75,"PF LeBron James SF Giannis Antetokounmpo G Will Barton C Robin Lopez SG Tyler Johnson UTIL J.R. Smith PG Tim Frazier F Kenneth Faried",NA,"","","",NA
+346,936183165,"salmonc (5/15)",0,213.75,"PF LeBron James PG Eric Bledsoe F Taj Gibson UTIL Rodney Hood SG Denzel Valentine G Gary Harris C Willie Cauley-Stein SF Markieff Morris",NA,"","","",NA
+349,935981110,"beefstew93 (4/10)",0,213.5,"C Nikola Jokic SG Bradley Beal UTIL Kevin Love F Otto Porter SF Denzel Valentine PF Willie Cauley-Stein G Joe Ingles PG Tim Frazier",NA,"","","",NA
+349,935981124,"beefstew93 (7/10)",0,213.5,"C Nikola Jokic G Bradley Beal PF Kevin Love SF Otto Porter UTIL Dwyane Wade SG Gary Harris F Markieff Morris PG Tim Frazier",NA,"","","",NA
+349,936527390,"BCDabs39 (2/3)",0,213.5,"PF Giannis Antetokounmpo G Bradley Beal PG Eric Bledsoe SF Denzel Valentine UTIL Willie Cauley-Stein SG Joe Ingles F Markieff Morris C Kenneth Faried",NA,"","","",NA
+352,936099410,"yoad1717",0,213.25,"C Nikola Jokic F T.J. Warren SG Donovan Mitchell PG Kris Dunn SF Rodney Hood G Denzel Valentine PF Willie Cauley-Stein UTIL Robin Lopez",NA,"","","",NA
+352,936440934,"GilArenas0",0,213.25,"PF LeBron James SG Jimmy Butler SF Andrew Wiggins G Will Barton C Willie Cauley-Stein F Joe Ingles PG Tyus Jones UTIL Iman Shumpert",NA,"","","",NA
+352,936537881,"SLips713 (3/3)",0,213.25,"F LeBron James SG Eric Bledsoe SF Otto Porter G Rodney Hood UTIL Denzel Valentine PF Willie Cauley-Stein C John Henson PG Tim Frazier",NA,"","","",NA
+355,936509079,"hishboo (1/5)",0,213,"F Giannis Antetokounmpo UTIL Nikola Jokic PF Lauri Markkanen SG Denzel Valentine G Malcolm Brogdon SF Joe Ingles C Tyson Chandler PG Garrett Temple",NA,"","","",NA
+356,936183169,"salmonc (9/15)",0,212.75,"F Giannis Antetokounmpo G Bradley Beal PF T.J. Warren UTIL Eric Bledsoe SF Joe Ingles SG Tyler Johnson PG Tim Frazier C Kenneth Faried",NA,"","","",NA
+356,936250958,"thare22",0,212.75,"F Giannis Antetokounmpo C Nikola Jokic SF Otto Porter SG Will Barton G Denzel Valentine PF Willie Cauley-Stein UTIL Wayne Ellington PG Frank Mason III",NA,"","","",NA
+356,936342145,"rex21023 (2/3)",0,212.75,"UTIL Karl-Anthony Towns C Nikola Jokic SG Bradley Beal SF Otto Porter G Justin Holiday F Markieff Morris PG Tim Frazier PF Juancho Hernangómez",NA,"","","",NA
+356,936343772,"rex21023 (3/3)",0,212.75,"SF Giannis Antetokounmpo C Nikola Jokic SG Bradley Beal UTIL Ricky Rubio G Gary Harris PG Tim Frazier F Kenneth Faried PF Juancho Hernangómez",NA,"","","",NA
+360,936141144,"dpw2004",0,212.5,"C Nikola Jokic G Bradley Beal UTIL Eric Bledsoe SF Otto Porter SG Dwyane Wade PF Willie Cauley-Stein PG Malcolm Brogdon F Markieff Morris",NA,"","","",NA
+360,936591857,"jorge_soler (4/4)",0,212.5,"C Nikola Jokic SG Devin Booker UTIL Eric Bledsoe SF Will Barton F Dion Waiters G Gary Harris PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+362,936581612,"db730 (4/4)",0,212.25,"PF LeBron James SF Giannis Antetokounmpo SG Gary Harris G Jamal Murray C Marcin Gortat UTIL George Hill PG Tim Frazier F Kenneth Faried",NA,"","","",NA
+363,935884567,"devobrain",0,212,"PF LeBron James SF Giannis Antetokounmpo G Denzel Valentine F Willie Cauley-Stein C John Henson SG Tyler Johnson PG Tim Frazier UTIL Wayne Ellington",NA,"","","",NA
+363,936580447,"wakeywakey (8/15)",0,212,"F Giannis Antetokounmpo SG Bradley Beal PF Kevin Love UTIL Willie Cauley-Stein C Marcin Gortat G Joe Ingles SF Markieff Morris PG Tim Frazier",NA,"","","",NA
+363,936615572,"dice7117",0,212,"G Bradley Beal UTIL Jimmy Butler PG Goran Dragic PF Lauri Markkanen SG Kris Dunn SF Denzel Valentine C Robin Lopez F Mason Plumlee",NA,"","","",NA
+366,935944041,"Boogs317",0,211.75,"SF LeBron James SG Bradley Beal F Lauri Markkanen G Dion Waiters PF Willie Cauley-Stein C Marcin Gortat UTIL Tim Frazier PG Garrett Temple",NA,"","","",NA
+367,935821384,"M4wood",0,211.25,"PF Giannis Antetokounmpo G Bradley Beal SF Otto Porter SG Denzel Valentine UTIL Willie Cauley-Stein C Robin Lopez F Joe Ingles PG Tim Frazier",NA,"","","",NA
+367,936455063,"gdaddy80 (2/2)",0,211.25,"C Nikola Jokic SG Bradley Beal F Kevin Love G Eric Bledsoe SF Denzel Valentine UTIL Willie Cauley-Stein PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+367,936471864,"ryebreadonly (2/2)",0,211.25,"UTIL Karl-Anthony Towns SG Bradley Beal PF Kevin Love F Will Barton G Denzel Valentine C Marcin Gortat PG De'Aaron Fox SF J.R. Smith",NA,"","","",NA
+370,935798807,"Awesemo (14/15)",0,211,"C Karl-Anthony Towns SG Bradley Beal G Eric Bledsoe SF Will Barton PF Taj Gibson UTIL Ricky Rubio F Joe Ingles PG Tim Frazier",NA,"","","",NA
+370,936499067,"Anthony9911",0,211,"C Nikola Jokic UTIL Jimmy Butler SG Eric Bledsoe PF Otto Porter SF Will Barton F Denzel Valentine G Jerian Grant PG Tim Frazier",NA,"","","",NA
+372,936238343,"cjkalt (1/4)",0,210.75,"C Nikola Jokic SG Bradley Beal UTIL Eric Bledsoe G Donovan Mitchell PF James Johnson PG Ricky Rubio SF Joe Ingles F Kenneth Faried",NA,"","","",NA
+372,936544141,"ramblerob",0,210.75,"PF Giannis Antetokounmpo SG Jimmy Butler F Andrew Wiggins SF Otto Porter C Willie Cauley-Stein UTIL Tyson Chandler PG Tyler Johnson G Tim Frazier",NA,"","","",NA
+374,935724278,"ekimnotloh (1/2)",0,210.5,"C Karl-Anthony Towns SG Bradley Beal PF Andrew Wiggins F Taj Gibson G Denzel Valentine SF Justin Holiday UTIL Markieff Morris PG Tim Frazier",NA,"","","",NA
+374,935900256,"acp1236",0,210.5,"SF LeBron James C Nikola Jokic F Otto Porter G Denzel Valentine PF Willie Cauley-Stein SG Jerian Grant PG Tim Frazier UTIL Kenneth Faried",NA,"","","",NA
+374,936509083,"hishboo (5/5)",0,210.5,"PF Giannis Antetokounmpo PG Jeff Teague SG Eric Bledsoe SF Denzel Valentine UTIL Ricky Rubio G Gary Harris F Joe Ingles C Tyson Chandler",NA,"","","",NA
+374,936613786,"Yikes54",0,210.5,"SF LeBron James G Bradley Beal PF Otto Porter UTIL Gary Harris F Willie Cauley-Stein SG Jamal Murray C Robin Lopez PG Tim Frazier",NA,"","","",NA
+378,936132794,"seida (1/2)",0,210,"F Giannis Antetokounmpo C Karl-Anthony Towns PF James Johnson SG Gary Harris UTIL Willie Cauley-Stein SF Joe Ingles G Tyler Johnson PG Tim Frazier",NA,"","","",NA
+379,935844390,"LaxitiveLeo (2/15)",0,209.75,"SF Giannis Antetokounmpo SG Bradley Beal PG Goran Dragic G Gary Harris PF Willie Cauley-Stein C Marcin Gortat UTIL Kelly Oubre Jr. F Jeff Green",NA,"","","",NA
+380,936083771,"gtdallas",0,209.5,"C Nikola Jokic UTIL Bradley Beal PF Kevin Love G Donovan Mitchell F Denzel Valentine SG Gary Harris SF Joe Ingles PG Tim Frazier",NA,"","","",NA
+380,936401741,"BRORANNOSAURUS_FLEX (3/15)",0,209.5,"C Nikola Jokic SG Jimmy Butler UTIL Donovan Mitchell SF Will Barton G Denzel Valentine PG Ricky Rubio PF Willie Cauley-Stein F Joe Ingles",NA,"","","",NA
+380,936554043,"foursons (3/3)",0,209.5,"C Nikola Jokic UTIL Bradley Beal PF Kevin Love G Donovan Mitchell SF Denzel Valentine SG Gary Harris F Joe Ingles PG Tim Frazier",NA,"","","",NA
+380,936620791,"beerleafoakhall",0,209.5,"PF Giannis Antetokounmpo SG Bradley Beal UTIL Will Barton F Denzel Valentine G Justin Holiday C Marcin Gortat PG De'Aaron Fox SF Kyle Korver",NA,"","","",NA
+384,935932546,"moklovin (3/15)",0,209,"C Karl-Anthony Towns SG Bradley Beal G Eric Bledsoe UTIL Donovan Mitchell SF Denzel Valentine PF Willie Cauley-Stein F Joe Ingles PG Tim Frazier",NA,"","","",NA
+384,935932931,"ttucowboy (5/8)",0,209,"PF Giannis Antetokounmpo C Nikola Jokic UTIL Donovan Mitchell SG Denzel Valentine G Gary Harris SF Joe Ingles PG Tim Frazier F Kenneth Faried",NA,"","","",NA
+384,935953533,"APKiller",0,209,"SF Giannis Antetokounmpo C Nikola Jokic G Donovan Mitchell UTIL Denzel Valentine SG Gary Harris F Joe Ingles PG Tim Frazier PF Kenneth Faried",NA,"","","",NA
+384,936077284,"lifeisagamble",0,209,"C Nikola Jokic SG Bradley Beal SF T.J. Warren PF Derrick Favors G Gary Harris F Bobby Portis UTIL Marcin Gortat PG Tim Frazier",NA,"","","",NA
+384,936623533,"patrickmillane35 (8/8)",0,209,"PF Giannis Antetokounmpo C Karl-Anthony Towns SF Otto Porter SG Rodney Hood PG Dwyane Wade F Willie Cauley-Stein UTIL Kelly Olynyk G José Calderón",NA,"","","",NA
+389,936089243,"BobbyFi (5/6)",0,208.75,"F Giannis Antetokounmpo G Bradley Beal SF Denzel Valentine SG Gary Harris PF Willie Cauley-Stein PG Jamal Murray UTIL Marcin Gortat C John Henson",NA,"","","",NA
+389,936467637,"jhamilton99 (1/3)",0,208.75,"C Karl-Anthony Towns SG Bradley Beal UTIL Eric Bledsoe SF Otto Porter F Will Barton G Denzel Valentine PG Tim Frazier PF Kenneth Faried",NA,"","","",NA
+391,936619560,"FilthyHunts (1/2)",0,208.5,"F LeBron James C Hassan Whiteside SF Otto Porter SG Denzel Valentine PF Willie Cauley-Stein UTIL Joe Ingles PG Tyler Johnson G Tim Frazier",NA,"","","",NA
+392,936098217,"lildimmy23",0,208.25,"SF Giannis Antetokounmpo C Nikola Jokic PF Otto Porter SG Denzel Valentine G Dwyane Wade F Markieff Morris PG Tyler Johnson UTIL Kenneth Faried",NA,"","","",NA
+393,936628783,"Macman26 (2/2)",0,208,"F Giannis Antetokounmpo SG Bradley Beal PF Lauri Markkanen G Eric Bledsoe UTIL Robin Lopez SF Markieff Morris PG Tim Frazier C Kenneth Faried",NA,"","","",NA
+394,936561227,"BigT44 (1/4)",0,207.75,"F Giannis Antetokounmpo SG Bradley Beal SF Otto Porter UTIL Ricky Rubio G Gary Harris C Willie Cauley-Stein PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+395,936059904,"EmpireMaker2",0,207.5,"PF Giannis Antetokounmpo SG Bradley Beal UTIL Denzel Valentine PG Ricky Rubio G Gary Harris C Willie Cauley-Stein SF Joe Ingles F Markieff Morris",NA,"","","",NA
+396,936274834,"Desert_E_Lee",0,207.25,"C Nikola Jokic SG Bradley Beal UTIL Jimmy Butler F Otto Porter SF Will Barton G Denzel Valentine PF Kenneth Faried PG Garrett Temple",NA,"","","",NA
+397,935851182,"LisaRushton",0,207,"SF LeBron James SG Jimmy Butler PG Goran Dragic G Denzel Valentine C Zach Randolph F Josh Richardson UTIL George Hill PF Justise Winslow",NA,"","","",NA
+397,936123303,"GinobiliFan (3/5)",0,207,"C Karl-Anthony Towns SG Bradley Beal PF Kevin Love UTIL Donovan Mitchell G Denzel Valentine F Joe Ingles SF Markieff Morris PG Tim Frazier",NA,"","","",NA
+397,936183287,"swedishchef (3/3)",0,207,"C Karl-Anthony Towns G Goran Dragic PF T.J. Warren SF Otto Porter F Will Barton UTIL Marcin Gortat SG Tyus Jones PG Tim Frazier",NA,"","","",NA
+397,936552529,"Professional",0,207,"C Karl-Anthony Towns SG Bradley Beal G Jimmy Butler SF Otto Porter F Denzel Valentine PF Willie Cauley-Stein UTIL Tyler Johnson PG Tim Frazier",NA,"","","",NA
+401,936130104,"butch0958 (2/2)",0,206.5,"SF LeBron James UTIL Nikola Jokic PF Kevin Love C Robin Lopez SG Joe Ingles F Markieff Morris PG Tyler Johnson G Tim Frazier",NA,"","","",NA
+402,936537880,"SLips713 (2/3)",0,206.25,"PF Giannis Antetokounmpo SG Bradley Beal G Jimmy Butler F Denzel Valentine C Willie Cauley-Stein SF Markieff Morris PG Tyler Johnson UTIL Garrett Temple",NA,"","","",NA
+403,936217396,"ZMoN3Y",0,205.75,"SF LeBron James C Nikola Jokic G Denzel Valentine SG Gary Harris PF Willie Cauley-Stein UTIL Marcin Gortat F Joe Ingles PG Tim Frazier",NA,"","","",NA
+403,936362223,"thorsenwells",0,205.75,"SF Giannis Antetokounmpo SG Bradley Beal G Eric Bledsoe UTIL Gary Harris F Willie Cauley-Stein C Marcin Gortat PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+403,936604075,"jeffdrazek (5/5)",0,205.75,"C Karl-Anthony Towns G Bradley Beal SF T.J. Warren PF James Johnson SG Denzel Valentine F Willie Cauley-Stein UTIL Marcin Gortat PG Tim Frazier",NA,"","","",NA
+406,935973083,"Orcachow (1/6)",0,205.25,"C Nikola Jokic G Bradley Beal UTIL Kevin Love PF Otto Porter SF Denzel Valentine SG Gary Harris F Markieff Morris PG Tim Frazier",NA,"","","",NA
+406,935990396,"beefstew93 (8/10)",0,205.25,"C Nikola Jokic G Bradley Beal UTIL Kevin Love F Otto Porter SF Denzel Valentine SG Gary Harris PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+408,935724802,"ChipotleAddict (10/15)",0,205,"UTIL Nikola Jokic SG Bradley Beal C Kevin Love PF Lauri Markkanen PG Donovan Mitchell F Joe Ingles SF Markieff Morris G Garrett Temple",NA,"","","",NA
+408,936123291,"GinobiliFan (2/5)",0,205,"C Karl-Anthony Towns SG Bradley Beal G Eric Bledsoe F Will Barton SF Denzel Valentine UTIL Gary Harris PF Willie Cauley-Stein PG Tim Frazier",NA,"","","",NA
+408,936522047,"HayGator",0,205,"SF LeBron James F Andrew Wiggins PF Lauri Markkanen SG Donovan Mitchell C Willie Cauley-Stein PG Jerian Grant UTIL John Henson G Tim Frazier",NA,"","","",NA
+411,936183164,"salmonc (4/15)",0,204.75,"C Nikola Jokic SG Bradley Beal PF Lauri Markkanen PG Kris Dunn F Denzel Valentine G Gary Harris UTIL Willie Cauley-Stein SF Markieff Morris",NA,"","","",NA
+412,936030861,"bcalicore (6/15)",0,204,"PF LeBron James C Karl-Anthony Towns PG Donovan Mitchell UTIL Denzel Valentine SG Jerian Grant SF Markieff Morris G Tim Frazier F Kenneth Faried",NA,"","","",NA
+412,936475669,"jstevens2k11 (2/2)",0,204,"C Nikola Jokic G Bradley Beal SG Jimmy Butler UTIL Eric Bledsoe PF Taj Gibson SF Markieff Morris PG Mike James F Wayne Ellington",NA,"","","",NA
+414,936030864,"bcalicore (9/15)",0,203.75,"F LeBron James C Karl-Anthony Towns G Donovan Mitchell SF Denzel Valentine UTIL Willie Cauley-Stein PF Markieff Morris PG Tim Frazier SG Wayne Ellington",NA,"","","",NA
+415,936268397,"fallfromgrace (4/5)",0,203.5,"UTIL Nikola Jokic G Bradley Beal SG Jimmy Butler F Kevin Love C Marcin Gortat SF Joe Ingles PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+416,936401752,"BRORANNOSAURUS_FLEX (14/15)",0,203.25,"C Karl-Anthony Towns UTIL Nikola Jokic G Donovan Mitchell SF Denzel Valentine PG Ricky Rubio SG Gary Harris F Joe Ingles PF Markieff Morris",NA,"","","",NA
+417,936375795,"mikezambarda",0,202.75,"UTIL Nikola Jokic SG Bradley Beal PF Kevin Love F Lauri Markkanen G Denzel Valentine C Marcin Gortat SF Joe Ingles PG Tim Frazier",NA,"","","",NA
+417,936411893,"luker1683 (2/3)",0,202.75,"C Nikola Jokic G Bradley Beal SF T.J. Warren PF Lauri Markkanen UTIL Eric Bledsoe SG Buddy Hield PG Tim Frazier F Kenneth Faried",NA,"","","",NA
+419,935990429,"beefstew93 (9/10)",0,202.5,"C Nikola Jokic SG Bradley Beal PF Kevin Love SF Otto Porter G Denzel Valentine UTIL Willie Cauley-Stein F Markieff Morris PG Tim Frazier",NA,"","","",NA
+420,936030865,"bcalicore (10/15)",0,202.25,"SF LeBron James C Nikola Jokic UTIL Will Barton SG Denzel Valentine F Willie Cauley-Stein G Malcolm Brogdon PG Tim Frazier PF Kenneth Faried",NA,"","","",NA
+421,936581634,"jennysue",0,201.75,"C Nikola Jokic SG Bradley Beal G Jimmy Butler PF James Johnson PG Ricky Rubio F Willie Cauley-Stein UTIL John Henson SF Markieff Morris",NA,"","","",NA
+422,935990434,"beefstew93 (10/10)",0,201.5,"UTIL Nikola Jokic G Bradley Beal PF Kevin Love F Will Barton SF Denzel Valentine SG Gary Harris C John Henson PG Tim Frazier",NA,"","","",NA
+422,936203097,"srn828",0,201.5,"SF LeBron James SG Bradley Beal F Otto Porter G Ricky Rubio UTIL Willie Cauley-Stein C Marcin Gortat PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+422,936461720,"lifehealthBAR.com",0,201.5,"SF Giannis Antetokounmpo SG Bradley Beal F Andrew Wiggins PG Donovan Mitchell C Willie Cauley-Stein UTIL Mike James G Tim Frazier PF Juancho Hernangómez",NA,"","","",NA
+422,936580443,"wakeywakey (4/15)",0,201.5,"C Karl-Anthony Towns UTIL Nikola Jokic SG Bradley Beal SF Justin Holiday G Gary Harris F Joe Ingles PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+426,935798799,"Awesemo (6/15)",0,200.75,"C Karl-Anthony Towns SG Bradley Beal PG Eric Bledsoe UTIL Donovan Mitchell SF Will Barton G Malcolm Brogdon PF Markieff Morris F Kenneth Faried",NA,"","","",NA
+427,936582278,"ttucowboy (8/8)",0,200.25,"PF LeBron James UTIL Andrew Wiggins F Khris Middleton SG Denzel Valentine C Zach Randolph G Gary Harris SF Joe Ingles PG Tim Frazier",NA,"","","",NA
+428,936385337,"djohnston13",0,199.75,"PF Giannis Antetokounmpo SG Bradley Beal SF Will Barton UTIL Ricky Rubio G Gary Harris C Willie Cauley-Stein F Joe Ingles PG Tim Frazier",NA,"","","",NA
+428,936631355,"dylancash22",0,199.75,"F LeBron James G Bradley Beal SG Jimmy Butler SF Denzel Valentine C Marcin Gortat PF Markieff Morris PG Tim Frazier UTIL Jeff Green",NA,"","","",NA
+430,936073698,"markaw4",0,199.5,"C Nikola Jokic SG Bradley Beal UTIL Jimmy Butler F Will Barton SF Justin Holiday G Gary Harris PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+430,936079704,"OxfordComma",0,199.5,"SF Giannis Antetokounmpo C Nikola Jokic SG Bradley Beal G Malcolm Brogdon PF Markieff Morris UTIL Tyler Ulis PG Tim Frazier F Kenneth Faried",NA,"","","",NA
+430,936259069,"parker8675",0,199.5,"SF LeBron James SG Bradley Beal G Eric Bledsoe PF James Johnson C Taj Gibson UTIL Markieff Morris PG Tim Frazier F Mason Plumlee",NA,"","","",NA
+433,935932839,"ttucowboy (4/8)",0,199,"PF LeBron James C Hassan Whiteside UTIL Goran Dragic SG Denzel Valentine G Gary Harris SF Joe Ingles PG Tim Frazier F Ekpe Udoh",NA,"","","",NA
+434,936079839,"Wookatyme (1/2)",0,198.75,"PF LeBron James C Nikola Jokic G Goran Dragic SF Denzel Valentine F Willie Cauley-Stein PG Tim Frazier UTIL Kenneth Faried SG Tony Snell",NA,"","","",NA
+434,936580442,"wakeywakey (3/15)",0,198.75,"C Karl-Anthony Towns UTIL Nikola Jokic SG Bradley Beal SF Justin Holiday F Willie Cauley-Stein G Joe Ingles PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+434,936607150,"mhacker1",0,198.75,"SF Giannis Antetokounmpo C Nikola Jokic F Taj Gibson SG Denzel Valentine UTIL Willie Cauley-Stein G Joe Ingles PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+437,936602907,"Sugerdaddy (2/4)",0,198.5,"PF Giannis Antetokounmpo G Bradley Beal PG Eric Bledsoe SF Denzel Valentine C Marcin Gortat SG Joe Ingles F Markieff Morris UTIL Tim Frazier",NA,"","","",NA
+438,935922986,"ttucowboy (2/8)",0,198.25,"C Nikola Jokic UTIL Bradley Beal PF T.J. Warren F Otto Porter SG Denzel Valentine G Gary Harris SF Joe Ingles PG Tim Frazier",NA,"","","",NA
+438,936156202,"Hardcore_Dorn",0,198.25,"SF LeBron James SG Bradley Beal G Eric Bledsoe F Bobby Portis C Marcin Gortat UTIL Robin Lopez PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+438,936401739,"BRORANNOSAURUS_FLEX (1/15)",0,198.25,"C Karl-Anthony Towns UTIL Nikola Jokic SG Jimmy Butler F Denzel Valentine PF Willie Cauley-Stein G Joe Ingles SF Markieff Morris PG Tim Frazier",NA,"","","",NA
+441,936468391,"tjay24",0,198,"SF LeBron James C Nikola Jokic PG Donovan Mitchell PF James Johnson SG Dwyane Wade F Greg Monroe G Tim Frazier UTIL Skal Labissiere",NA,"","","",NA
+442,936182115,"twomindsbluff (2/3)",0,197.75,"C Nikola Jokic SG Bradley Beal PF Kevin Love G Will Barton SF Dion Waiters UTIL Marcin Gortat PG Mike James F Kelly Olynyk",NA,"","","",NA
+442,936238344,"cjkalt (2/4)",0,197.75,"C Nikola Jokic SG Bradley Beal G Eric Bledsoe PF James Johnson UTIL Rodney Hood SF Justin Holiday PG Malcolm Brogdon F Markieff Morris",NA,"","","",NA
+442,936274820,"oldblackjack (1/3)",0,197.75,"C Nikola Jokic UTIL Hassan Whiteside PF Andrew Wiggins F Otto Porter SF Denzel Valentine SG Gary Harris G Mike James PG Tim Frazier",NA,"","","",NA
+445,936587157,"killorbekilled",0,197.25,"SF Giannis Antetokounmpo C Nikola Jokic PF Kevin Love SG Will Barton PG De'Aaron Fox UTIL Tyler Johnson G Tim Frazier F Tony Snell",NA,"","","",NA
+446,935980478,"thisteamsucks",0,196.75,"C Nikola Jokic UTIL Bradley Beal G Jimmy Butler PF Andrew Wiggins SF Denzel Valentine SG Gary Harris PG Tim Frazier F Kenneth Faried",NA,"","","",NA
+446,936012286,"rolltidechamps",0,196.75,"C Nikola Jokic SF Devin Booker SG Bradley Beal UTIL Dion Waiters F Rodney Hood G Justin Holiday PG Tim Frazier PF Mason Plumlee",NA,"","","",NA
+446,936527238,"BCDabs39 (1/3)",0,196.75,"PF Giannis Antetokounmpo G Bradley Beal PG Eric Bledsoe SF Denzel Valentine C Marcin Gortat SG Joe Ingles F Markieff Morris UTIL George Hill",NA,"","","",NA
+449,935981093,"beefstew93 (3/10)",0,196.25,"C Karl-Anthony Towns G Bradley Beal PF Otto Porter SF Will Barton UTIL Denzel Valentine SG Gary Harris F Willie Cauley-Stein PG Tim Frazier",NA,"","","",NA
+450,935904637,"tjshearer21",0,196,"UTIL Karl-Anthony Towns C Nikola Jokic SG Bradley Beal SF Otto Porter F Willie Cauley-Stein G Joe Ingles PG Tim Frazier PF Kenneth Faried",NA,"","","",NA
+450,936030859,"bcalicore (4/15)",0,196,"UTIL Karl-Anthony Towns C Nikola Jokic F Lauri Markkanen G Donovan Mitchell SF Denzel Valentine PF Zach Randolph PG Tim Frazier SG Tony Snell",NA,"","","",NA
+450,936631278,"rayfinkle311 (2/2)",0,196,"F Giannis Antetokounmpo SF Devin Booker SG Dion Waiters G Rodney Hood C Zach Randolph PF Markieff Morris UTIL Buddy Hield PG Tim Frazier",NA,"","","",NA
+453,935844547,"LaxitiveLeo (9/15)",0,195.75,"SG Bradley Beal PG Goran Dragic SF Andrew Wiggins F Otto Porter PF Taj Gibson G Denzel Valentine C Marcin Gortat UTIL Robin Lopez",NA,"","","",NA
+453,936562755,"paltro13",0,195.75,"SF Giannis Antetokounmpo C Karl-Anthony Towns SG Bradley Beal PG Ricky Rubio PF Greg Monroe G Tim Frazier F Marquese Chriss UTIL Juancho Hernangómez",NA,"","","",NA
+455,936530377,"Orcachow (5/6)",0,195.25,"SF Giannis Antetokounmpo SG Bradley Beal UTIL Otto Porter G Denzel Valentine PF Willie Cauley-Stein C Marcin Gortat F Markieff Morris PG Tim Frazier",NA,"","","",NA
+455,936582313,"deadmoney313",0,195.25,"C Nikola Jokic SG Bradley Beal PF T.J. Warren PG Eric Bledsoe F Denzel Valentine G Jamal Murray SF Markieff Morris UTIL Kenneth Faried",NA,"","","",NA
+457,935932950,"ttucowboy (6/8)",0,195,"PF Giannis Antetokounmpo UTIL Bradley Beal F Will Barton SG Denzel Valentine G Gary Harris C Robin Lopez SF Joe Ingles PG Tim Frazier",NA,"","","",NA
+458,936463614,"luker1683 (3/3)",0,194.75,"SF Giannis Antetokounmpo C Nikola Jokic UTIL Bradley Beal PG Ricky Rubio SG Gary Harris G Tim Frazier PF Kenneth Faried F Mason Plumlee",NA,"","","",NA
+458,936588101,"h3budda (2/2)",0,194.75,"SF Giannis Antetokounmpo C Nikola Jokic G Bradley Beal UTIL Ricky Rubio SG Gary Harris PG Tim Frazier F Kenneth Faried PF Mason Plumlee",NA,"","","",NA
+460,935973111,"Orcachow (2/6)",0,194.25,"SG Bradley Beal UTIL Goran Dragic PF Lauri Markkanen G Eric Bledsoe SF Otto Porter F Denzel Valentine C Marcin Gortat PG Tim Frazier",NA,"","","",NA
+461,936365662,"tyschmidt22",0,193.75,"C Nikola Jokic UTIL Lauri Markkanen G Donovan Mitchell SF Otto Porter F Will Barton SG Dion Waiters PF Willie Cauley-Stein PG Tim Frazier",NA,"","","",NA
+462,936580449,"wakeywakey (10/15)",0,193.5,"UTIL Nikola Jokic SG Bradley Beal PF Kevin Love SF Will Barton PG Ricky Rubio C Marcin Gortat G Joe Ingles F Markieff Morris",NA,"","","",NA
+463,935531300,"patrickmillane35 (1/8)",0,193.25,"UTIL Nikola Jokic C Hassan Whiteside SF Andrew Wiggins PG Eric Bledsoe F Otto Porter SG Jamal Murray G Josh Jackson PF Jeff Green",NA,"","","",NA
+464,935988246,"Jthayesjr",0,193,"SF Giannis Antetokounmpo SG Bradley Beal G Eric Bledsoe F Denzel Valentine PF Willie Cauley-Stein C Greg Monroe PG Mike James UTIL Tyler Johnson",NA,"","","",NA
+465,935724795,"ChipotleAddict (3/15)",0,192.75,"C Nikola Jokic SG Bradley Beal PG Eric Bledsoe UTIL Donovan Mitchell SF Denzel Valentine G Gary Harris F Joe Ingles PF Markieff Morris",NA,"","","",NA
+466,936568927,"BigT44 (3/4)",0,192.5,"F Giannis Antetokounmpo SG Bradley Beal SF Otto Porter G Gary Harris C Willie Cauley-Stein UTIL Jamal Murray PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+467,936257851,"MegatronDon86",0,192.25,"PF Giannis Antetokounmpo SG Bradley Beal F Will Barton SF Denzel Valentine C Willie Cauley-Stein UTIL Robin Lopez G Joe Ingles PG Tim Frazier",NA,"","","",NA
+468,935853579,"LaxitiveLeo (13/15)",0,191.5,"SF LeBron James SG Bradley Beal G Goran Dragic UTIL Denzel Valentine C Marcin Gortat PG Malcolm Brogdon PF Jeff Green F Gorgui Dieng",NA,"","","",NA
+469,936240457,"brianscheid",0,191.25,"PF LeBron James SG Bradley Beal SF Khris Middleton UTIL Bobby Portis C Marcin Gortat F Joe Ingles PG Mike James G Buddy Hield",NA,"","","",NA
+470,936504347,"rserpiello",0,191,"SF Giannis Antetokounmpo C Nikola Jokic SG Bradley Beal UTIL Lauri Markkanen PG Tyus Jones G Tim Frazier F Wayne Ellington PF Dragan Bender",NA,"","","",NA
+471,936610982,"Bugzi",0,190.75,"SF LeBron James PG Goran Dragic PF Lauri Markkanen F Rodney Hood SG Dwyane Wade UTIL Gary Harris G Tim Frazier C Kenneth Faried",NA,"","","",NA
+471,936620674,"BobbyB",0,190.75,"UTIL Nikola Jokic G Bradley Beal SG Jimmy Butler SF Otto Porter PF Willie Cauley-Stein C Robin Lopez F Markieff Morris PG Tim Frazier",NA,"","","",NA
+473,936252388,"McLuvin",0,190.5,"UTIL Karl-Anthony Towns C Nikola Jokic SG Bradley Beal F Will Barton SF Denzel Valentine G Tyus Jones PG Tim Frazier PF Kenneth Faried",NA,"","","",NA
+473,936625052,"daviddu316",0,190.5,"UTIL LeBron James SG Bradley Beal F Rodney Hood SF Denzel Valentine PG Ricky Rubio PF Willie Cauley-Stein C Robin Lopez G Tim Frazier",NA,"","","",NA
+475,935874163,"ganondorf (1/3)",0,190.25,"UTIL Karl-Anthony Towns C Nikola Jokic SG Jimmy Butler SF Denzel Valentine PF Zach Randolph PG Jerian Grant F Markieff Morris G Tim Frazier",NA,"","","",NA
+475,936381352,"theillmessiah (2/4)",0,190.25,"C Nikola Jokic SG Bradley Beal PG Donovan Mitchell SF Otto Porter F Denzel Valentine PF Willie Cauley-Stein UTIL Marcin Gortat G Jerian Grant",NA,"","","",NA
+477,936175791,"DiegoKokomo",0,189.25,"PF Giannis Antetokounmpo C Nikola Jokic SG Bradley Beal SF Denzel Valentine UTIL Marcin Gortat PG Tim Frazier F Kenneth Faried G Wayne Ellington",NA,"","","",NA
+478,936094197,"Dinkpiece (1/2)",0,188.75,"F Giannis Antetokounmpo SG Bradley Beal SF Will Barton G Ricky Rubio UTIL Gary Harris C Willie Cauley-Stein PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+478,936094198,"Dinkpiece (2/2)",0,188.75,"F Giannis Antetokounmpo SG Bradley Beal SF Will Barton G Ricky Rubio UTIL Gary Harris C Willie Cauley-Stein PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+478,936580453,"wakeywakey (14/15)",0,188.75,"F Giannis Antetokounmpo SG Bradley Beal SF Will Barton G Ricky Rubio UTIL Gary Harris C Willie Cauley-Stein PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+478,936609289,"goodro84",0,188.75,"F Giannis Antetokounmpo SG Bradley Beal SF Will Barton PG Ricky Rubio UTIL Gary Harris C Willie Cauley-Stein PF Markieff Morris G Tim Frazier",NA,"","","",NA
+482,935724803,"ChipotleAddict (11/15)",0,186.5,"UTIL Nikola Jokic SG Bradley Beal PF Lauri Markkanen G Donovan Mitchell SF Denzel Valentine PG Ricky Rubio F Joe Ingles C Tyson Chandler",NA,"","","",NA
+482,936030870,"bcalicore (15/15)",0,186.5,"UTIL Giannis Antetokounmpo C Karl-Anthony Towns SF Will Barton SG Rodney Hood F Willie Cauley-Stein PG Mike James G Tim Frazier PF Kenneth Faried",NA,"","","",NA
+484,935853585,"LaxitiveLeo (14/15)",0,186.25,"UTIL Nikola Jokic PG Goran Dragic G Donovan Mitchell SF Otto Porter SG Will Barton PF Taj Gibson C Marcin Gortat F Jeff Green",NA,"","","",NA
+485,936132795,"seida (2/2)",0,186,"F Giannis Antetokounmpo G Bradley Beal SF Will Barton SG Gary Harris PF Willie Cauley-Stein C Marcin Gortat UTIL Joe Ingles PG Tyler Johnson",NA,"","","",NA
+486,936172237,"ravensfan912",0,185.5,"SG Bradley Beal UTIL Andrew Wiggins G Jeff Teague PF Lauri Markkanen SF Otto Porter PG Dwyane Wade F Willie Cauley-Stein C Robin Lopez",NA,"","","",NA
+487,936463975,"leghigh171",0,185,"F Giannis Antetokounmpo C Nikola Jokic SG Bradley Beal G Gary Harris SF Joe Ingles UTIL Tyler Johnson PG Tim Frazier PF Kenneth Faried",NA,"","","",NA
+487,936581639,"mkuderik",0,185,"F Giannis Antetokounmpo C Nikola Jokic SG Bradley Beal G Gary Harris SF Joe Ingles UTIL Tyler Johnson PG Tim Frazier PF Kenneth Faried",NA,"","","",NA
+489,935736974,"Makisupa",0,184.5,"UTIL Giannis Antetokounmpo C Nikola Jokic SG Bradley Beal F Willie Cauley-Stein SF Joe Ingles PF Markieff Morris PG Tim Frazier G Garrett Temple",NA,"","","",NA
+489,936580444,"wakeywakey (5/15)",0,184.5,"PF Giannis Antetokounmpo C Nikola Jokic SG Bradley Beal F Willie Cauley-Stein UTIL Joe Ingles SF Markieff Morris PG Tim Frazier G Garrett Temple",NA,"","","",NA
+491,935844439,"LaxitiveLeo (5/15)",0,184.25,"C Nikola Jokic SG Bradley Beal PG Goran Dragic SF Otto Porter F Denzel Valentine UTIL Gary Harris PF Willie Cauley-Stein G Wayne Ellington",NA,"","","",NA
+492,936626007,"rayfinkle311 (1/2)",0,183.75,"PF Giannis Antetokounmpo SG Bradley Beal SF Andrew Wiggins G Rodney Hood PG Ricky Rubio C Willie Cauley-Stein F Markieff Morris UTIL Frank Mason III",NA,"","","",NA
+493,936576065,"petteytheft89",0,183,"UTIL Nikola Jokic SG Bradley Beal PF Lauri Markkanen SF Will Barton PG Ricky Rubio G Gary Harris C Marcin Gortat F Joe Ingles",NA,"","","",NA
+494,935853972,"LaxitiveLeo (15/15)",0,182.5,"SG Bradley Beal G Jimmy Butler PG Goran Dragic UTIL Andrew Wiggins SF Otto Porter C Marcin Gortat PF Markieff Morris F Jeff Green",NA,"","","",NA
+494,936183163,"salmonc (3/15)",0,182.5,"F Giannis Antetokounmpo SG Bradley Beal G Eric Bledsoe SF Rodney Hood UTIL Willie Cauley-Stein C John Henson PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+494,936625168,"josiahwillams",0,182.5,"SF Giannis Antetokounmpo C Nikola Jokic PF T.J. Warren SG Will Barton PG De'Aaron Fox UTIL Tyler Johnson F Justise Winslow G Tony Snell",NA,"","","",NA
+497,936580454,"wakeywakey (15/15)",0,181.75,"F Giannis Antetokounmpo UTIL Nikola Jokic SG Bradley Beal G Joe Ingles C John Henson SF Markieff Morris PG Tim Frazier PF Kenneth Faried",NA,"","","",NA
+498,936046150,"CrimaSaad (1/3)",0,181,"F Giannis Antetokounmpo C Nikola Jokic SF Rodney Hood G Ricky Rubio SG Gary Harris UTIL Robin Lopez PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+499,935710888,"h3budda (1/2)",0,180.75,"C Nikola Jokic SG Jimmy Butler PF Lauri Markkanen PG Donovan Mitchell SF Rodney Hood F Denzel Valentine G Joe Ingles UTIL Tyson Chandler",NA,"","","",NA
+500,936174115,"CrimaSaad (3/3)",0,179.75,"C Nikola Jokic SG Bradley Beal PG Donovan Mitchell PF Otto Porter SF Will Barton F Willie Cauley-Stein UTIL Robin Lopez G Tim Frazier",NA,"","","",NA
+501,936580441,"wakeywakey (2/15)",0,179.5,"C Karl-Anthony Towns UTIL Nikola Jokic SG Bradley Beal G Ricky Rubio PF Willie Cauley-Stein F Joe Ingles SF Markieff Morris PG Tim Frazier",NA,"","","",NA
+502,935932556,"moklovin (13/15)",0,179.25,"C Karl-Anthony Towns UTIL Nikola Jokic SF Otto Porter G Rodney Hood SG Denzel Valentine PG Malcolm Brogdon F Joe Ingles PF Markieff Morris",NA,"","","",NA
+503,936632708,"draftwiz",0,179,"F Giannis Antetokounmpo SG Bradley Beal UTIL Will Barton SF Denzel Valentine G Gary Harris C Marcin Gortat PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+504,935844322,"TinkyTyler",0,178.25,"C Nikola Jokic SG Bradley Beal F Lauri Markkanen G Eric Bledsoe UTIL Donovan Mitchell SF Joe Ingles PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+505,936580448,"wakeywakey (9/15)",0,177,"C Karl-Anthony Towns UTIL Nikola Jokic SG Bradley Beal G Will Barton F Willie Cauley-Stein SF Joe Ingles PG Tim Frazier PF Kenneth Faried",NA,"","","",NA
+506,935932964,"ttucowboy (7/8)",0,176.75,"PF LeBron James UTIL Jeff Teague F Khris Middleton SG Denzel Valentine C Zach Randolph G Gary Harris SF Joe Ingles PG Tim Frazier",NA,"","","",NA
+507,936137518,"kuterlt04",0,176.5,"C Hassan Whiteside G Goran Dragic F Andrew Wiggins PF Lauri Markkanen SG Donovan Mitchell UTIL Denzel Valentine PG Tim Frazier SF Justise Winslow",NA,"","","",NA
+508,936580446,"wakeywakey (7/15)",0,175.75,"C Karl-Anthony Towns UTIL Nikola Jokic SG Bradley Beal G Gary Harris F Willie Cauley-Stein SF Joe Ingles PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+509,935844540,"LaxitiveLeo (8/15)",0,175,"SF LeBron James SG Bradley Beal G Goran Dragic PF Otto Porter C Marcin Gortat PG Jerian Grant UTIL Wayne Ellington F Jared Dudley",NA,"","","",NA
+510,936629950,"eppy12588",0,174.75,"C Nikola Jokic SG Bradley Beal G Donovan Mitchell F Otto Porter SF Will Barton PF Willie Cauley-Stein UTIL Marcin Gortat PG Tim Frazier",NA,"","","",NA
+511,935797932,"jkoonaloak",0,174.5,"C Nikola Jokic G Bradley Beal PF Lauri Markkanen PG Eric Bledsoe SF Otto Porter SG Will Barton F Josh Jackson UTIL Dragan Bender",NA,"","","",NA
+512,935829293,"forrestkoba",0,174,"UTIL Karl-Anthony Towns C Nikola Jokic SG Bradley Beal G Denzel Valentine F Willie Cauley-Stein SF Joe Ingles PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+512,936384460,"grtwhitehoop",0,174,"C Karl-Anthony Towns UTIL Nikola Jokic SG Bradley Beal G Denzel Valentine PF Willie Cauley-Stein F Joe Ingles SF Markieff Morris PG Tim Frazier",NA,"","","",NA
+512,936464594,"ryebreadonly (1/2)",0,174,"UTIL Karl-Anthony Towns C Nikola Jokic SG Bradley Beal G Denzel Valentine PF Willie Cauley-Stein SF Joe Ingles F Markieff Morris PG Tim Frazier",NA,"","","",NA
+512,936620260,"n553887",0,174,"SF Giannis Antetokounmpo C Nikola Jokic SG Bradley Beal G Gary Harris F Markieff Morris UTIL Tyler Johnson PG Tim Frazier PF Kenneth Faried",NA,"","","",NA
+516,936030866,"bcalicore (11/15)",0,173.75,"UTIL Giannis Antetokounmpo C Nikola Jokic SF Khris Middleton SG Rodney Hood F Willie Cauley-Stein PG Jerian Grant G Tim Frazier PF Kenneth Faried",NA,"","","",NA
+517,936229886,"ncaa23",0,173.25,"UTIL Nikola Jokic SG Bradley Beal G Goran Dragic PF Lauri Markkanen SF Dion Waiters C Marcin Gortat PG Tim Frazier F Kenneth Faried",NA,"","","",NA
+518,936583316,"Endzonedance23",0,172.25,"C Nikola Jokic UTIL Bradley Beal G Eric Bledsoe SF Otto Porter F Taj Gibson SG Rodney Hood PF Markieff Morris PG Tim Frazier",NA,"","","",NA
+519,936580452,"wakeywakey (13/15)",0,168.75,"C Karl-Anthony Towns UTIL Nikola Jokic SG Bradley Beal SF Will Barton G Gary Harris PF Markieff Morris PG Tim Frazier F Kenneth Faried",NA,"","","",NA
+520,936580445,"wakeywakey (6/15)",0,166,"C Karl-Anthony Towns UTIL Nikola Jokic SG Bradley Beal G Will Barton F Willie Cauley-Stein SF Markieff Morris PG Tim Frazier PF Kenneth Faried",NA,"","","",NA
+521,936580450,"wakeywakey (11/15)",0,165.5,"C Nikola Jokic SG Bradley Beal PF Kevin Love SF Will Barton UTIL Rodney Hood G Ricky Rubio F Markieff Morris PG Tim Frazier",NA,"","","",NA
+522,936434770,"gdaddy80 (1/2)",0,165.25,"C Nikola Jokic SG Bradley Beal SF T.J. Warren UTIL Jeff Teague G Eric Bledsoe PF Markieff Morris PG Tim Frazier F Kenneth Faried",NA,"","","",NA
+523,936509081,"hishboo (3/5)",0,162.25,"C Nikola Jokic PG Jeff Teague PF Lauri Markkanen G Eric Bledsoe F Rodney Hood SF Denzel Valentine UTIL Willie Cauley-Stein SG Joe Ingles",NA,"","","",NA
+524,936400718,"Tman75",0,157.25,"UTIL Giannis Antetokounmpo C Nikola Jokic G Jeff Teague SG Will Barton SF Joe Ingles PG Tim Frazier F Thabo Sefolosha PF Kenneth Faried",NA,"","","",NA
+525,936426638,"patrickmillane35 (3/8)",0,147.5,"C Nikola Jokic SG Jimmy Butler SF Andrew Wiggins UTIL Jeff Teague PG Eric Bledsoe G Rodney Hood F Jae Crowder PF Dragan Bender",NA,"","","",NA

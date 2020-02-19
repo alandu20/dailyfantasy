@@ -1,0 +1,33 @@
+player,salary,team,pos,opp,ceil,floor,fpts
+"Indianapolis Colts",2400,IND,DST,SDC,,,7.32
+"Pittsburgh Steelers",2900,PIT,DST,PHI,,,7.03
+"Philadelphia Eagles",2800,PHI,DST,PIT,,,8.77
+"San Diego Chargers",2300,SDC,DST,IND,,,6.08
+"Seattle Seahawks",4100,SEA,DST,SFO,,,11.65
+"Tennessee Titans",2500,TEN,DST,OAK,,,8.14
+"San Francisco 49ers",2400,SFO,DST,SEA,,,5.59
+"New York Jets",2900,NYJ,DST,KCC,,,5.8
+"Kansas City Chiefs",3200,KCC,DST,NYJ,,,8.99
+"Los Angeles Rams",3000,LAR,DST,TBB,,,6.19
+"Tampa Bay Buccaneers",3100,TBB,DST,LAR,,,8.42
+"New Orleans Saints",2200,NOS,DST,ATL,,,3.4
+"Atlanta Falcons",2000,ATL,DST,NOS,,,4.24
+"Chicago Bears",2700,CHI,DST,DAL,,,5.39
+"Dallas Cowboys",2500,DAL,DST,CHI,,,8.59
+"Oakland Raiders",2600,OAK,DST,TEN,,,6.16
+"Jacksonville Jaguars",2600,JAC,DST,BAL,,,7.13
+"Cleveland Browns",2300,CLE,DST,MIA,,,6.42
+"Miami Dolphins",3000,MIA,DST,CLE,,,11.42
+"Detroit Lions",2400,DET,DST,GBP,,,5.35
+"New York Giants",3300,NYG,DST,WAS,,,8.16
+"Washington Redskins",2400,WAS,DST,NYG,,,5.25
+"Houston Texans",3000,HOU,DST,NEP,,,9.66
+"New England Patriots",3200,NEP,DST,HOU,,,9.44
+"Green Bay Packers",3000,GBP,DST,DET,,,9.41
+"Minnesota Vikings",3100,MIN,DST,CAR,,,6.6
+"Buffalo Bills",2700,BUF,DST,ARI,,,6.06
+"Baltimore Ravens",2500,BAL,DST,JAC,,,7.38
+"Arizona Cardinals",3600,ARI,DST,BUF,,,9.14
+"Cincinnati Bengals",2800,CIN,DST,DEN,,,8.14
+"Carolina Panthers",3800,CAR,DST,MIN,,,11.53
+"Denver Broncos",3500,DEN,DST,CIN,,,8.41

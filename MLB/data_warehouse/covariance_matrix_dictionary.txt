@@ -1,0 +1,39 @@
+File Name & Description
+
+1. covariance_mat
+Computed pairwise covariance between all players. Removed player pairs that didn’t play in at least 40% of games.
+
+2. covariance_mat_test
+Same as covariance_mat but also spiked covariances of “good” player pairs by a factor of 1.25. Defined “good” as player pairs that had at least 2 increases in covariance that were above the 75th percentile of changes in covariance among all player pairs up to the current date.
+
+______________________________
+
+3. covariance_mat_chg75p_spike
+Same as covariance_mat_test but defined “good” as player pairs that had at least max(2, round(sum(cov_time_chg[i,] != 0, na.rm = T)*0.20)) increases in covariance that were above the 75th percentile of changes.
+
+4. covariance_mat_chg75p_exp(spike)
+Same as covariance_mat_75p_spike but spiked covariances of “good” player pairs by a factor of 1+exp(-scaled_covariance)*0.25, where scaled_covariance is the covariance of “good” player pairs scaled to between 0 and 1 using function(x){(x-min(x))/(max(x)-min(x))} (x is the covariances of the “good” player pairs).
+
+Feasibility
+Formulation 2
+Formulation 3
+
+5. covariance_mat_chg75p_zeros
+Same as covariance_mat_75p_spike but set non-“good” player pair covariances to 0 instead of increasing the “good” player pairs by factor of 1.25. Note that variances are still the same.
+
+6. covariance_mat_arima_p3d1q2
+ARIMA model with p = 3, d = 1, q = 2. Covariances of pairs that played < 33% of games set to 0. When ARIMA does not coverage, set prediction to average of previous 3 games.
+
+Feasibility
+Formulation 2 (running)
+Formulation 3
+
+______________________________
+
+TODO:
+- ARIMA but only for the “good” pairs?
+- moving average, Kalman filter? Goal is to find upward trending pairs
+https://stats.stackexchange.com/questions/87946/r-detect-increasing-decreasing-trend-of-time-series
+- Remove diagonal
+
+

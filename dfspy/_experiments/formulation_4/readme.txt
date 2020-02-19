@@ -1,0 +1,6 @@
+<bound method OptimizationProblem.add_overlap_constraint of <optimizer.OptimizationProblem object at 0x1188fff90>>,[4]
+<bound method OptimizationProblem.add_exposure_constraint of <optimizer.OptimizationProblem object at 0x1188fff90>>,[0.4, 0.4, 0.4, 0.4, 0.4, 150]
+<bound method OptimizationProblem.add_feasibility_constraint of <optimizer.OptimizationProblem object at 0x1188fff90>>,[9, 50000, 2, 2]
+<bound method OptimizationProblem.add_no_flex_constraint of <optimizer.OptimizationProblem object at 0x1188fff90>>,[False, False, True]
+<bound method OptimizationProblem.add_opp_dst_constraint of <optimizer.OptimizationProblem object at 0x1188fff90>>,[True, True, True, True]
+<bound method OptimizationProblem.add_qb_stack_constraint of <optimizer.OptimizationProblem object at 0x1188fff90>>,[1, 1, 0, 0]

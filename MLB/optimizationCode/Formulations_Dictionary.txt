@@ -1,0 +1,48 @@
+Formulations Dictionary:
+
+1. formulation_feasibility
+   - Basic Feasibility Constraints 
+
+2. formulation0_covar
+   - Optimization is max(projections + (lambda)*covariance)
+   - Consecutive Stacking 
+
+3. formulation1_covar
+   - Optimization is max(projections + (lambda)*covariance)
+   - Max exposure constraint
+
+4. formulation2_covar
+   - Optimization is max(projections + (lambda)*covariance)
+   - General Team Stacking 
+   - Max exposure constraint
+
+5. formulation3_covar 
+   - Optimization is max(projections + (lambda)*covariance)
+   - Consecutive Stacking  
+   - Max exposure constraint
+
+6. formulation4_covar (IN PROGRESS)
+   - Optimization is max(projections + (lambda)*covariance)
+   - General Team Stacking 
+      - Team + Pitcher Stacking
+   - Max exposure constraint
+
+7. formulation5_covar
+   - formulation3_covar with position-specific max exposure constraints
+
+8. formulation6_covar
+   - formulation4_covar with position-specific max exposure constraints
+
+9. formulation7_covar
+   - formulation5_covar with min_pitcher_exposure
+
+10. formulation8_covar
+   - formulation6_covar with min_pitcher_exposure
+
+11. formulation9_covar
+   - formulation5_covar with catcher salary <= 3200
+
+
+
+
+

@@ -1,0 +1,7 @@
+Player Name,Likes,Pos,Salary,Team,Opp,Vegas Odds Win,Vegas Odds RA,Vegas Odds K,Opponent wOBA,Opponent K%,Opponent RS,K%,SIERA,xFIP,Handedness,wOBA vs L,wOBA vs R,Park Factor,Temperature Factor,Wind Factor,L5 FP,L80 FP,S FP,Floor FP,Ceil FP,Proj FP,Proj Val,Actual FP,Actual Val
+Madison Bumgarner,10,SP,11200,SF,@ARI,59%,3.84,7,0.309,25.8%,,27.2%,3.19,3.28,L,0.229,0.284,-4%,0%,0%,0.0,0.0,0.0,0.0,0.0,23.5,2.1,28.1,2.5
+Jon Lester,6,SP,10600,CHC,@STL,55%,3.32,5.5,0.330,21.5%,,24.9%,3.40,3.27,L,0.283,0.279,1%,3%,0%,0.0,0.0,0.0,0.0,0.0,20.2,1.9,17.9,1.7
+Chris Archer,10,SP,9200,TB,NYY,47%,3.61,6.5,0.321,20.4%,,28.2%,3.29,3.20,R,0.295,0.297,1%,0%,0%,0.0,0.0,0.0,0.0,0.0,19.8,2.2,20.9,2.3
+Masahiro Tanaka,8,SP,8800,NYY,@TB,53%,3.39,5.5,0.324,23.5%,,21.5%,3.60,3.47,R,0.284,0.284,3%,0%,0%,0.0,0.0,0.0,0.0,0.0,19.0,2.2,-4.2,-0.5
+Carlos Martinez,3,SP,8300,STL,CHC,45%,3.68,5.5,0.318,25.0%,,22.9%,3.71,3.56,R,0.332,0.263,1%,2%,0%,0.0,0.0,0.0,0.0,0.0,20.6,2.5,34.4,4.1
+Zack Greinke,1,SP,7700,ARI,SF,41%,4.66,4.5,0.319,18.3%,,22.1%,3.64,3.54,R,0.287,0.273,-3%,0%,0%,0.0,0.0,0.0,0.0,0.0,14.4,1.9,11.7,1.5

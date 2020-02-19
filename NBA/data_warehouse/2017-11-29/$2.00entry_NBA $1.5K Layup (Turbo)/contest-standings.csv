@@ -1,0 +1,892 @@
+"Rank","EntryId","EntryName","TimeRemaining","Points","Lineup","X","Player","Roster.Position","X.Drafted","FPTS"
+1,936905139,"derikmoffett",0,287,"SG Courtney Lee UTIL Kyle O'Quinn G Tim Hardaway Jr. PF Enes Kanter C Dwight Howard PG Kyle Lowry F DeMar DeRozan SF Jeremy Lamb",NA,"Kristaps Porzingis","PF","92.03%",3.5
+1,937122634,"htwonjoe (16/20)",0,287,"SF Courtney Lee F Kyle O'Quinn G Tim Hardaway Jr. PF Enes Kanter C Dwight Howard PG Kyle Lowry SG DeMar DeRozan UTIL Jeremy Lamb",NA,"Kyle Lowry","PG","80.13%",55.75
+3,936881013,"perilous (5/20)",0,279,"G Dion Waiters PF Enes Kanter SG Tyler Johnson C Dwight Howard PG Kyle Lowry UTIL Serge Ibaka F Nicolas Batum SF DeMar DeRozan",NA,"Tim Hardaway Jr.","SG","69.02%",16.5
+4,937125228,"thiscandle",0,278.75,"SF Courtney Lee PF James Johnson UTIL Enes Kanter C Dwight Howard G Kyle Lowry SG Nicolas Batum F DeMar DeRozan PG Michael Carter-Williams",NA,"Dwight Howard","C","60.94%",42
+5,937242071,"nicktone88246 (5/10)",0,273.75,"SG Courtney Lee F Kelly Olynyk UTIL Enes Kanter PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF DeMar DeRozan G Michael Carter-Williams",NA,"Courtney Lee","F","42.42%",34.75
+5,937300318,"Hooligans (1/20)",0,273.75,"SF Courtney Lee F Kelly Olynyk PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan G Michael Carter-Williams",NA,"Jeremy Lamb","G","42.20%",30.75
+5,937300319,"Hooligans (2/20)",0,273.75,"SF Courtney Lee F Kelly Olynyk PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan G Michael Carter-Williams",NA,"DeMar DeRozan","SF","41.86%",43.5
+5,937300320,"Hooligans (3/20)",0,273.75,"SF Courtney Lee F Kelly Olynyk PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan G Michael Carter-Williams",NA,"Goran Dragic","PG","36.92%",13
+5,937300321,"Hooligans (4/20)",0,273.75,"SF Courtney Lee F Kelly Olynyk PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan G Michael Carter-Williams",NA,"Enes Kanter","PF","35.69%",44
+5,937300322,"Hooligans (5/20)",0,273.75,"SF Courtney Lee F Kelly Olynyk PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan G Michael Carter-Williams",NA,"Dion Waiters","SF","35.58%",27.25
+5,937300323,"Hooligans (6/20)",0,273.75,"SF Courtney Lee F Kelly Olynyk PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan G Michael Carter-Williams",NA,"Nicolas Batum","G","34.57%",19.75
+5,937300324,"Hooligans (7/20)",0,273.75,"SF Courtney Lee F Kelly Olynyk PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan G Michael Carter-Williams",NA,"Michael Carter-Williams","PG","34.34%",21.5
+5,937300325,"Hooligans (8/20)",0,273.75,"SF Courtney Lee F Kelly Olynyk PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan G Michael Carter-Williams",NA,"Bam Adebayo","UTIL","25.25%",18.75
+5,937300326,"Hooligans (9/20)",0,273.75,"SF Courtney Lee F Kelly Olynyk PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan G Michael Carter-Williams",NA,"Serge Ibaka","C","23.57%",22.5
+5,937300327,"Hooligans (10/20)",0,273.75,"SF Courtney Lee F Kelly Olynyk PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan G Michael Carter-Williams",NA,"James Johnson","PF","22.90%",17.5
+5,937300328,"Hooligans (11/20)",0,273.75,"SF Courtney Lee F Kelly Olynyk PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan G Michael Carter-Williams",NA,"Pascal Siakam","F","19.08%",15
+5,937300329,"Hooligans (12/20)",0,273.75,"SF Courtney Lee F Kelly Olynyk PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan G Michael Carter-Williams",NA,"Norman Powell","SF","15.82%",15.5
+5,937300330,"Hooligans (13/20)",0,273.75,"SF Courtney Lee F Kelly Olynyk PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan G Michael Carter-Williams",NA,"Kelly Olynyk","C","10.10%",28.75
+5,937300331,"Hooligans (14/20)",0,273.75,"SF Courtney Lee F Kelly Olynyk PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan G Michael Carter-Williams",NA,"Michael Kidd-Gilchrist","UTIL","10.10%",14.75
+5,937300332,"Hooligans (15/20)",0,273.75,"SF Courtney Lee F Kelly Olynyk PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan G Michael Carter-Williams",NA,"Jarrett Jack","PG","9.76%",17.75
+5,937300333,"Hooligans (16/20)",0,273.75,"SF Courtney Lee F Kelly Olynyk PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan G Michael Carter-Williams",NA,"Tyler Johnson","UTIL","8.53%",24.25
+5,937300334,"Hooligans (17/20)",0,273.75,"SF Courtney Lee F Kelly Olynyk PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan G Michael Carter-Williams",NA,"Marvin Williams","UTIL","7.74%",15.25
+5,937300335,"Hooligans (18/20)",0,273.75,"SF Courtney Lee F Kelly Olynyk PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan G Michael Carter-Williams",NA,"Hassan Whiteside","UTIL","6.17%",0
+5,937300336,"Hooligans (19/20)",0,273.75,"SF Courtney Lee F Kelly Olynyk PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan G Michael Carter-Williams",NA,"Jonas Valanciunas","UTIL","5.84%",20.25
+5,937300337,"Hooligans (20/20)",0,273.75,"SF Courtney Lee F Kelly Olynyk PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan G Michael Carter-Williams",NA,"Kyle O'Quinn","PF","5.72%",19.75
+26,937432976,"BosnianBlood (10/20)",0,272.5,"PF Kelly Olynyk G Tim Hardaway Jr. SF Dion Waiters C Enes Kanter UTIL Dwight Howard PG Kyle Lowry SG DeMar DeRozan F Michael Kidd-Gilchrist",NA,"Josh Richardson","SG","5.50%",26.25
+27,937432715,"BosnianBlood (6/20)",0,271,"PG Jarrett Jack SF Tim Hardaway Jr. F Dion Waiters PF Enes Kanter UTIL Tyler Johnson C Dwight Howard G Kyle Lowry SG DeMar DeRozan",NA,"Malik Monk","PG","2.47%",21
+28,937280996,"BobBrunk (11/15)",0,269,"G Courtney Lee PF James Johnson SF Tim Hardaway Jr. F Enes Kanter C Dwight Howard PG Kyle Lowry SG DeMar DeRozan UTIL Pascal Siakam",NA,"Fred VanVleet","PG","2.24%",23.75
+29,937122637,"htwonjoe (19/20)",0,268.75,"SF Courtney Lee F James Johnson G Tim Hardaway Jr. PF Enes Kanter C Dwight Howard PG Kyle Lowry SG DeMar DeRozan UTIL Michael Kidd-Gilchrist",NA,"Wayne Ellington","SF","1.46%",8.75
+30,936881026,"perilous (18/20)",0,268,"PF James Johnson UTIL Enes Kanter C Dwight Howard PG Kyle Lowry G Nicolas Batum SG DeMar DeRozan F Jeremy Lamb SF Michael Kidd-Gilchrist",NA,"Doug McDermott","PF","1.12%",17.5
+31,937242189,"nicktone88246 (10/10)",0,267,"F Courtney Lee G Goran Dragic SF Dion Waiters PF Enes Kanter UTIL Josh Richardson PG Kyle Lowry C Serge Ibaka SG DeMar DeRozan",NA,"OG Anunoby","UTIL","0.79%",5.25
+32,937281104,"BobBrunk (12/15)",0,265.5,"G Goran Dragic PF Enes Kanter C Dwight Howard PG Kyle Lowry SG DeMar DeRozan SF Jeremy Lamb UTIL Michael Carter-Williams F Pascal Siakam",NA,"Justise Winslow","SF","0.79%",16.75
+33,936998139,"Buck1949",0,264.75,"SF Courtney Lee UTIL Enes Kanter SG Josh Richardson F Kristaps Porzingis C Dwight Howard PG Kyle Lowry G DeMar DeRozan PF Pascal Siakam",NA,"Frank Kaminsky","F","0.67%",30.75
+34,937326548,"MisterJ5 (10/20)",0,262.75,"SG Courtney Lee F Enes Kanter G Tyler Johnson UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF DeMar DeRozan PF Pascal Siakam",NA,"Frank Ntilikina","G","0.56%",0
+34,937432671,"BosnianBlood (2/20)",0,262.75,"PG Jarrett Jack SF Courtney Lee F Enes Kanter PF Kristaps Porzingis C Dwight Howard G Kyle Lowry SG DeMar DeRozan UTIL Michael Carter-Williams",NA,"Cody Zeller","UTIL","0.56%",12
+36,937114978,"Miller421 (10/20)",0,261.25,"SG Courtney Lee F Enes Kanter UTIL Kristaps Porzingis C Dwight Howard SF Marvin Williams PG Kyle Lowry PF Serge Ibaka G DeMar DeRozan",NA,"Michael Beasley","SF","0.45%",14.75
+37,937148406,"nbello13",0,260.75,"SF Courtney Lee F Kelly Olynyk C Enes Kanter PF Kristaps Porzingis PG Kyle Lowry UTIL Nicolas Batum G DeMar DeRozan SG Jeremy Lamb",NA,"Kemba Walker","PG","0.34%",0
+37,937326557,"MisterJ5 (19/20)",0,260.75,"SG Courtney Lee PF Kelly Olynyk C Enes Kanter UTIL Kristaps Porzingis PG Kyle Lowry SF Nicolas Batum G DeMar DeRozan F Jeremy Lamb",NA,"Dwayne Bacon","F","0.22%",1.25
+39,937242106,"nicktone88246 (7/10)",0,260.5,"SG Courtney Lee F Kelly Olynyk PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF DeMar DeRozan UTIL Jeremy Lamb G Michael Carter-Williams",NA,"C.J. Miles","SF","0.11%",11
+40,937235159,"nicktone88246 (1/10)",0,260.25,"SG Courtney Lee UTIL Enes Kanter PF Kristaps Porzingis C Dwight Howard F Marvin Williams PG Kyle Lowry SF DeMar DeRozan G Michael Carter-Williams",NA,"Treveon Graham","G","0.11%",0
+41,937598118,"uku16 (1/3)",0,259.5,"G Jarrett Jack F James Johnson SF Tim Hardaway Jr. PF Enes Kanter C Dwight Howard PG Kyle Lowry UTIL Serge Ibaka SG DeMar DeRozan",NA,"","","",NA
+42,937280904,"BobBrunk (8/15)",0,259.25,"G Goran Dragic SF Dion Waiters PF Enes Kanter UTIL Bam Adebayo C Dwight Howard PG Kyle Lowry SG DeMar DeRozan F Pascal Siakam",NA,"","","",NA
+42,937565859,"therich2247 (1/20)",0,259.25,"PG Goran Dragic SG Dion Waiters UTIL Enes Kanter PF Bam Adebayo C Dwight Howard G Kyle Lowry SF DeMar DeRozan F Pascal Siakam",NA,"","","",NA
+44,936912086,"KyngMufasa (2/7)",0,258.75,"G Tim Hardaway Jr. PF Enes Kanter C Dwight Howard PG Kyle Lowry UTIL Serge Ibaka F Nicolas Batum SG DeMar DeRozan SF Michael Kidd-Gilchrist",NA,"","","",NA
+45,937326544,"MisterJ5 (6/20)",0,258.25,"SF Courtney Lee SG Dion Waiters PF Enes Kanter UTIL Kristaps Porzingis C Bam Adebayo PG Kyle Lowry F DeMar DeRozan G Jeremy Lamb",NA,"","","",NA
+46,937235372,"nicktone88246 (4/10)",0,258,"SG Courtney Lee F Josh Richardson PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF DeMar DeRozan UTIL Jeremy Lamb G Michael Carter-Williams",NA,"","","",NA
+47,937618510,"xtreme123 (4/5)",0,257.75,"SG Courtney Lee C Kelly Olynyk SF Dion Waiters PF Enes Kanter F Kristaps Porzingis PG Kyle Lowry G DeMar DeRozan UTIL Jonas Valanciunas",NA,"","","",NA
+48,937114908,"Miller421 (3/20)",0,257,"F Enes Kanter SG Tyler Johnson UTIL Kristaps Porzingis C Dwight Howard G Kyle Lowry PF Serge Ibaka SF DeMar DeRozan PG Michael Carter-Williams",NA,"","","",NA
+49,937518497,"Erntropolis (3/3)",0,256.5,"PG Jarrett Jack PF Kyle O'Quinn SF Dion Waiters C Dwight Howard G Kyle Lowry UTIL Nicolas Batum SG DeMar DeRozan F Jeremy Lamb",NA,"","","",NA
+50,936875253,"mykcorleone (1/2)",0,256.25,"F James Johnson SF Tim Hardaway Jr. SG Dion Waiters UTIL Enes Kanter C Dwight Howard PG Kyle Lowry PF Serge Ibaka G Jeremy Lamb",NA,"","","",NA
+51,936891662,"enaud1",0,256,"SF Courtney Lee F Kelly Olynyk G Tim Hardaway Jr. UTIL Enes Kanter PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG Jeremy Lamb",NA,"","","",NA
+52,937222038,"minniepearl74",0,255.5,"SF Courtney Lee UTIL Josh Richardson C Dwight Howard PG Kyle Lowry PF Serge Ibaka F DeMar DeRozan G Kemba Walker SG Jeremy Lamb",NA,"","","",NA
+53,937565870,"therich2247 (12/20)",0,255.25,"F Enes Kanter SG Josh Richardson UTIL Kristaps Porzingis PF Bam Adebayo C Dwight Howard G Kyle Lowry SF DeMar DeRozan PG Michael Carter-Williams",NA,"","","",NA
+54,936881023,"perilous (15/20)",0,255,"PF Kelly Olynyk SF Tim Hardaway Jr. F Dion Waiters C Dwight Howard PG Kyle Lowry UTIL Nicolas Batum SG DeMar DeRozan G Michael Carter-Williams",NA,"","","",NA
+55,937280973,"BobBrunk (10/15)",0,253.75,"F Enes Kanter PF Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard PG Kyle Lowry SG DeMar DeRozan SF Jeremy Lamb G Norman Powell",NA,"","","",NA
+56,936848173,"rwharton12",0,253,"G Tim Hardaway Jr. SG Dion Waiters C Dwight Howard PG Kyle Lowry PF Serge Ibaka SF DeMar DeRozan F Jeremy Lamb UTIL Michael Kidd-Gilchrist",NA,"","","",NA
+56,937565874,"therich2247 (16/20)",0,253,"F Enes Kanter UTIL Kristaps Porzingis PF Bam Adebayo C Dwight Howard PG Kyle Lowry G DeMar DeRozan SG Jeremy Lamb SF Michael Kidd-Gilchrist",NA,"","","",NA
+58,937336563,"rockstar1219 (1/2)",0,252.5,"SG Courtney Lee SF Tim Hardaway Jr. PF Enes Kanter C Kristaps Porzingis PG Kyle Lowry G DeMar DeRozan F Jeremy Lamb UTIL Fred VanVleet",NA,"","","",NA
+58,937343938,"rockstar1219 (2/2)",0,252.5,"SG Courtney Lee SF Tim Hardaway Jr. PF Enes Kanter C Kristaps Porzingis PG Kyle Lowry G DeMar DeRozan F Jeremy Lamb UTIL Fred VanVleet",NA,"","","",NA
+60,937123588,"Miller421 (16/20)",0,252.25,"F Enes Kanter SG Josh Richardson UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry PF Serge Ibaka G DeMar DeRozan SF Michael Kidd-Gilchrist",NA,"","","",NA
+60,937144949,"RememberSammyJenkins (13/18)",0,252.25,"UTIL Tim Hardaway Jr. C Dwight Howard PG Kyle Lowry PF Serge Ibaka SF Nicolas Batum F DeMar DeRozan SG Jeremy Lamb G Michael Carter-Williams",NA,"","","",NA
+62,937565863,"therich2247 (5/20)",0,251.75,"PG Goran Dragic UTIL Enes Kanter PF Bam Adebayo C Dwight Howard G Kyle Lowry SG Nicolas Batum SF DeMar DeRozan F Pascal Siakam",NA,"","","",NA
+63,937565871,"therich2247 (13/20)",0,251.5,"F Enes Kanter SG Josh Richardson UTIL Kristaps Porzingis C Dwight Howard G Kyle Lowry SF DeMar DeRozan PG Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+64,936986100,"Mr.geturmoneyup (1/2)",0,251,"F Tim Hardaway Jr. C Dwight Howard PG Kyle Lowry PF Serge Ibaka SF Nicolas Batum SG DeMar DeRozan G Jeremy Lamb UTIL Jonas Valanciunas",NA,"","","",NA
+64,937184227,"EasyDaysPay (2/3)",0,251,"G Tim Hardaway Jr. C Dwight Howard PG Kyle Lowry PF Serge Ibaka SF Nicolas Batum SG DeMar DeRozan F Jeremy Lamb UTIL Jonas Valanciunas",NA,"","","",NA
+64,937187704,"EasyDaysPay (3/3)",0,251,"F Enes Kanter PF Kristaps Porzingis C Bam Adebayo UTIL Dwight Howard PG Kyle Lowry SG Nicolas Batum SF DeMar DeRozan G Fred VanVleet",NA,"","","",NA
+64,937370521,"pwd9902 (2/2)",0,251,"PG Jarrett Jack G Goran Dragic PF Enes Kanter C Dwight Howard SF Marvin Williams UTIL Kyle Lowry SG Nicolas Batum F DeMar DeRozan",NA,"","","",NA
+68,936976709,"DesTroyer7679 (1/2)",0,250.25,"F Enes Kanter PF Kristaps Porzingis C Dwight Howard SF Marvin Williams PG Kyle Lowry UTIL DeMar DeRozan SG Jeremy Lamb G Norman Powell",NA,"","","",NA
+68,937114951,"Miller421 (8/20)",0,250.25,"F Enes Kanter PG Tyler Johnson UTIL Kristaps Porzingis C Dwight Howard G Kyle Lowry PF Serge Ibaka SG DeMar DeRozan SF Michael Kidd-Gilchrist",NA,"","","",NA
+68,937251934,"jay585 (17/17)",0,250.25,"F Enes Kanter PG Tyler Johnson PF Kristaps Porzingis C Dwight Howard G Kyle Lowry UTIL Serge Ibaka SG DeMar DeRozan SF Michael Kidd-Gilchrist",NA,"","","",NA
+68,937612618,"cobaby36",0,250.25,"UTIL Enes Kanter PF Kristaps Porzingis C Dwight Howard F Marvin Williams PG Kyle Lowry SG DeMar DeRozan SF Jeremy Lamb G Norman Powell",NA,"","","",NA
+72,937124594,"cowboys0921",0,250,"G Courtney Lee SF Dion Waiters PF Enes Kanter PG Tyler Johnson F Kristaps Porzingis C Dwight Howard UTIL DeMar DeRozan SG Jeremy Lamb",NA,"","","",NA
+73,937042628,"mikecent (11/18)",0,249.75,"PF James Johnson F Dion Waiters UTIL Dwight Howard G Kyle Lowry C Serge Ibaka SF Nicolas Batum SG DeMar DeRozan PG Michael Carter-Williams",NA,"","","",NA
+74,937144802,"RememberSammyJenkins (9/18)",0,249.5,"UTIL Jarrett Jack SG Courtney Lee PF Kristaps Porzingis C Dwight Howard G Kyle Lowry F DeMar DeRozan SF Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+74,937180024,"likenoah (20/20)",0,249.5,"F Courtney Lee UTIL Kelly Olynyk PF Kristaps Porzingis C Dwight Howard G Kyle Lowry SG Nicolas Batum SF DeMar DeRozan PG Michael Carter-Williams",NA,"","","",NA
+74,937242088,"nicktone88246 (6/10)",0,249.5,"SG Courtney Lee F Kelly Olynyk PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry UTIL Nicolas Batum SF DeMar DeRozan G Michael Carter-Williams",NA,"","","",NA
+74,937426711,"gfay63 (13/20)",0,249.5,"G Courtney Lee PF Kelly Olynyk F Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG Nicolas Batum SF DeMar DeRozan UTIL Michael Carter-Williams",NA,"","","",NA
+78,936887996,"Felixd77",0,248.75,"SF Courtney Lee UTIL Tim Hardaway Jr. F Enes Kanter PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG Jeremy Lamb G Michael Carter-Williams",NA,"","","",NA
+78,937002711,"jaybon",0,248.75,"G Courtney Lee SG Tim Hardaway Jr. F Enes Kanter PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Jeremy Lamb UTIL Michael Carter-Williams",NA,"","","",NA
+78,937093510,"Diamondjoon",0,248.75,"UTIL Courtney Lee SF Tim Hardaway Jr. PF Enes Kanter F Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG Jeremy Lamb G Michael Carter-Williams",NA,"","","",NA
+78,937096718,"B_Hughes94",0,248.75,"SF Courtney Lee SG Tim Hardaway Jr. F Enes Kanter PF Kristaps Porzingis C Dwight Howard G Kyle Lowry UTIL Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+78,937111243,"RJBoody",0,248.75,"UTIL Courtney Lee SF Tim Hardaway Jr. PF Enes Kanter F Kristaps Porzingis C Dwight Howard G Kyle Lowry SG Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+78,937496138,"drejohn (13/14)",0,248.75,"G Courtney Lee SG Tim Hardaway Jr. PF Enes Kanter F Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Jeremy Lamb UTIL Michael Carter-Williams",NA,"","","",NA
+78,937597422,"waltdeuce (3/20)",0,248.75,"F Courtney Lee SG Tim Hardaway Jr. UTIL Enes Kanter PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Jeremy Lamb G Michael Carter-Williams",NA,"","","",NA
+85,937432993,"BosnianBlood (11/20)",0,248.5,"F Courtney Lee PF Kelly Olynyk SF Tim Hardaway Jr. C Kristaps Porzingis UTIL Dwight Howard PG Kyle Lowry SG DeMar DeRozan G Fred VanVleet",NA,"","","",NA
+85,937463918,"redyimmy",0,248.5,"PG Tyler Johnson SG Josh Richardson F Kristaps Porzingis C Dwight Howard G Kyle Lowry PF Serge Ibaka UTIL DeMar DeRozan SF Jeremy Lamb",NA,"","","",NA
+87,937251867,"jay585 (15/17)",0,248,"F Enes Kanter PG Tyler Johnson PF Kristaps Porzingis C Dwight Howard G Kyle Lowry SG DeMar DeRozan UTIL Jonas Valanciunas SF Michael Kidd-Gilchrist",NA,"","","",NA
+88,937114911,"Miller421 (4/20)",0,247.5,"F Enes Kanter UTIL Kristaps Porzingis C Dwight Howard G Kyle Lowry PF Serge Ibaka SG DeMar DeRozan SF Michael Kidd-Gilchrist PG Michael Carter-Williams",NA,"","","",NA
+88,937255972,"drejohn (7/14)",0,247.5,"SF Courtney Lee UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry PF Serge Ibaka G DeMar DeRozan SG Jeremy Lamb F Michael Kidd-Gilchrist",NA,"","","",NA
+90,937189735,"alexk72",0,247.25,"SG Dion Waiters UTIL Enes Kanter PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry F Serge Ibaka SF Jeremy Lamb G Michael Carter-Williams",NA,"","","",NA
+90,937388590,"DesTroyer7679 (2/2)",0,247.25,"UTIL Courtney Lee PF Kristaps Porzingis C Dwight Howard G Kyle Lowry SG DeMar DeRozan SF Jeremy Lamb PG Michael Carter-Williams F Norman Powell",NA,"","","",NA
+90,937513421,"benalby",0,247.25,"UTIL Courtney Lee PF James Johnson G Goran Dragic SG Dion Waiters SF Josh Richardson C Dwight Howard PG Kyle Lowry F Jeremy Lamb",NA,"","","",NA
+93,936881019,"perilous (11/20)",0,247,"F Courtney Lee SF Dion Waiters PF Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard PG Kyle Lowry SG DeMar DeRozan G Michael Carter-Williams",NA,"","","",NA
+93,936903806,"deenice0033 (1/3)",0,247,"G Courtney Lee SF Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard PG Kyle Lowry SG DeMar DeRozan UTIL Michael Carter-Williams",NA,"","","",NA
+93,937235301,"nicktone88246 (3/10)",0,247,"SG Courtney Lee PF Kristaps Porzingis C Dwight Howard F Marvin Williams PG Kyle Lowry SF DeMar DeRozan UTIL Jeremy Lamb G Michael Carter-Williams",NA,"","","",NA
+96,937135969,"RememberSammyJenkins (2/18)",0,246.75,"F Kyle O'Quinn C Dwight Howard PG Kyle Lowry SF Nicolas Batum G DeMar DeRozan SG Jeremy Lamb UTIL Jonas Valanciunas PF Pascal Siakam",NA,"","","",NA
+96,937260795,"drejohn (8/14)",0,246.75,"F Courtney Lee G Goran Dragic SG Tim Hardaway Jr. C Bam Adebayo UTIL Dwight Howard PG Kyle Lowry PF Serge Ibaka SF DeMar DeRozan",NA,"","","",NA
+96,937463495,"PowerTron (6/20)",0,246.75,"SF Courtney Lee F Kelly Olynyk SG Tim Hardaway Jr. UTIL Enes Kanter PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry G Michael Carter-Williams",NA,"","","",NA
+99,937122628,"htwonjoe (10/20)",0,246.5,"UTIL Hassan Whiteside PF Enes Kanter C Dwight Howard PG Kyle Lowry SG DeMar DeRozan G Jeremy Lamb SF Norman Powell F Pascal Siakam",NA,"","","",NA
+99,937251661,"jay585 (14/17)",0,246.5,"F Enes Kanter PG Tyler Johnson PF Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard G Kyle Lowry SG DeMar DeRozan SF Michael Kidd-Gilchrist",NA,"","","",NA
+101,936847891,"sbroy410",0,246.25,"G Goran Dragic SG Dion Waiters PF Bam Adebayo C Dwight Howard UTIL Marvin Williams PG Kyle Lowry F DeMar DeRozan SF Jeremy Lamb",NA,"","","",NA
+101,937122631,"htwonjoe (13/20)",0,246.25,"F Courtney Lee SF Tim Hardaway Jr. PF Enes Kanter UTIL Doug McDermott C Kristaps Porzingis PG Kyle Lowry SG DeMar DeRozan G Jeremy Lamb",NA,"","","",NA
+103,937058055,"forrestkoba (11/20)",0,245.5,"SG Courtney Lee F Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum G Jeremy Lamb PF Pascal Siakam",NA,"","","",NA
+104,937150518,"beardzohan",0,245,"UTIL Jarrett Jack G Courtney Lee SG Tim Hardaway Jr. F Enes Kanter PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Jeremy Lamb",NA,"","","",NA
+104,937473657,"80s4ever",0,245,"PG Jarrett Jack F Courtney Lee SG Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis UTIL Dwight Howard G Kyle Lowry SF Jeremy Lamb",NA,"","","",NA
+106,937172100,"likenoah (3/20)",0,244.75,"SG Courtney Lee F Tim Hardaway Jr. C Enes Kanter PG Tyler Johnson PF Kristaps Porzingis G Kyle Lowry UTIL Serge Ibaka SF DeMar DeRozan",NA,"","","",NA
+107,937347650,"ski1990 (5/8)",0,244.5,"G Courtney Lee SF Tim Hardaway Jr. C Enes Kanter F Josh Richardson PF Kristaps Porzingis PG Kyle Lowry SG DeMar DeRozan UTIL Jonas Valanciunas",NA,"","","",NA
+107,937565876,"therich2247 (18/20)",0,244.5,"F Enes Kanter UTIL Kristaps Porzingis PF Bam Adebayo C Dwight Howard G Kyle Lowry SF DeMar DeRozan PG Michael Carter-Williams SG Norman Powell",NA,"","","",NA
+107,937612890,"j1997",0,244.5,"SG Courtney Lee PF James Johnson G Goran Dragic UTIL Dwight Howard PG Kyle Lowry C Serge Ibaka F DeMar DeRozan SF Norman Powell",NA,"","","",NA
+110,937555465,"NotoriousAD (1/6)",0,244.25,"F James Johnson G Goran Dragic PF Enes Kanter C Dwight Howard PG Kyle Lowry SF Nicolas Batum SG Jeremy Lamb UTIL Michael Carter-Williams",NA,"","","",NA
+110,937565873,"therich2247 (15/20)",0,244.25,"F Enes Kanter UTIL Kristaps Porzingis PF Bam Adebayo C Dwight Howard SF Marvin Williams G Kyle Lowry SG DeMar DeRozan PG Michael Carter-Williams",NA,"","","",NA
+112,937155302,"Robbrutto (1/4)",0,243.75,"G Courtney Lee F James Johnson C Enes Kanter PF Kristaps Porzingis UTIL Dwight Howard PG Kyle Lowry SG Jeremy Lamb SF Norman Powell",NA,"","","",NA
+112,937155315,"Robbrutto (2/4)",0,243.75,"G Courtney Lee F James Johnson C Enes Kanter PF Kristaps Porzingis UTIL Dwight Howard PG Kyle Lowry SG Jeremy Lamb SF Norman Powell",NA,"","","",NA
+112,937155320,"Robbrutto (3/4)",0,243.75,"G Courtney Lee F James Johnson C Enes Kanter PF Kristaps Porzingis UTIL Dwight Howard PG Kyle Lowry SG Jeremy Lamb SF Norman Powell",NA,"","","",NA
+112,937163459,"Robbrutto (4/4)",0,243.75,"G Courtney Lee F James Johnson C Enes Kanter PF Kristaps Porzingis UTIL Dwight Howard PG Kyle Lowry SG Jeremy Lamb SF Norman Powell",NA,"","","",NA
+112,937565875,"therich2247 (17/20)",0,243.75,"F Enes Kanter UTIL Kristaps Porzingis PF Bam Adebayo C Dwight Howard G Kyle Lowry SG DeMar DeRozan SF Michael Kidd-Gilchrist PG Michael Carter-Williams",NA,"","","",NA
+117,937216612,"Grand88 (1/2)",0,243.5,"G Courtney Lee UTIL Kelly Olynyk PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG Nicolas Batum SF DeMar DeRozan F Norman Powell",NA,"","","",NA
+117,937223061,"Grand88 (2/2)",0,243.5,"G Courtney Lee UTIL Kelly Olynyk PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG Nicolas Batum SF DeMar DeRozan F Norman Powell",NA,"","","",NA
+117,937326556,"MisterJ5 (18/20)",0,243.5,"SG Courtney Lee PF James Johnson PG Goran Dragic SF Dion Waiters C Dwight Howard G Kyle Lowry F Serge Ibaka UTIL Jeremy Lamb",NA,"","","",NA
+120,937564191,"ShortyMac (1/4)",0,243.25,"G Jarrett Jack UTIL Courtney Lee SG Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard PG Kyle Lowry SF DeMar DeRozan",NA,"","","",NA
+121,936881016,"perilous (8/20)",0,243,"G Courtney Lee UTIL Kelly Olynyk F Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum SG DeMar DeRozan PF Pascal Siakam",NA,"","","",NA
+121,937136502,"righteous_100",0,243,"PF James Johnson F Tim Hardaway Jr. C Dwight Howard UTIL Kyle Lowry SF DeMar DeRozan G Jeremy Lamb PG Michael Carter-Williams SG Norman Powell",NA,"","","",NA
+121,937146903,"RememberSammyJenkins (17/18)",0,243,"SG Courtney Lee F Kelly Olynyk UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum G DeMar DeRozan PF Pascal Siakam",NA,"","","",NA
+124,937565872,"therich2247 (14/20)",0,242.5,"F Enes Kanter UTIL Kristaps Porzingis PF Bam Adebayo C Dwight Howard SF Marvin Williams PG Kyle Lowry SG Nicolas Batum G DeMar DeRozan",NA,"","","",NA
+125,937000318,"justintroubleagain",0,242,"SG Courtney Lee SF Tim Hardaway Jr. PF Enes Kanter F Kristaps Porzingis UTIL Kyle Lowry C Serge Ibaka G DeMar DeRozan PG Michael Carter-Williams",NA,"","","",NA
+125,937172124,"likenoah (4/20)",0,242,"SG Courtney Lee F Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis G Kyle Lowry UTIL Serge Ibaka SF DeMar DeRozan PG Michael Carter-Williams",NA,"","","",NA
+125,937240485,"mikecent (16/18)",0,242,"PF Kyle O'Quinn SG Tyler Johnson UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry F Serge Ibaka G DeMar DeRozan SF Jeremy Lamb",NA,"","","",NA
+128,937048348,"Bigleo86",0,241.75,"F Dion Waiters C Enes Kanter PF Kristaps Porzingis G Kyle Lowry SF DeMar DeRozan UTIL Jeremy Lamb PG Michael Carter-Williams SG Norman Powell",NA,"","","",NA
+129,937639974,"guygrenouille12",0,241,"SG Courtney Lee G Dion Waiters PF Kristaps Porzingis C Bam Adebayo UTIL Dwight Howard PG Kyle Lowry F DeMar DeRozan SF Norman Powell",NA,"","","",NA
+130,937013088,"squirt9696 (2/5)",0,240.75,"UTIL Courtney Lee C Kelly Olynyk SF Tim Hardaway Jr. G Dion Waiters PF Kristaps Porzingis PG Kyle Lowry SG DeMar DeRozan F Frank Kaminsky",NA,"","","",NA
+131,937013134,"squirt9696 (3/5)",0,240.5,"UTIL Jarrett Jack F Kelly Olynyk SG Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis PG Kyle Lowry SF DeMar DeRozan G Jeremy Lamb",NA,"","","",NA
+131,937512033,"sloyd1885 (1/3)",0,240.5,"UTIL Jarrett Jack C Kelly Olynyk SF Tim Hardaway Jr. F Enes Kanter PF Kristaps Porzingis PG Kyle Lowry SG DeMar DeRozan G Jeremy Lamb",NA,"","","",NA
+131,937565877,"therich2247 (19/20)",0,240.5,"F Enes Kanter UTIL Kristaps Porzingis C Dwight Howard SF Marvin Williams G Kyle Lowry SG DeMar DeRozan PG Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+134,937462750,"letspick333",0,240,"G Goran Dragic SF Tim Hardaway Jr. F Dion Waiters C Enes Kanter UTIL Doug McDermott PG Kyle Lowry PF Serge Ibaka SG DeMar DeRozan",NA,"","","",NA
+134,937565878,"therich2247 (20/20)",0,240,"F Enes Kanter UTIL Kristaps Porzingis C Dwight Howard G Kyle Lowry SG DeMar DeRozan SF Michael Kidd-Gilchrist PG Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+136,936876146,"calibaybe",0,239.75,"G Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. SF Dion Waiters UTIL Enes Kanter PF Bam Adebayo C Dwight Howard F DeMar DeRozan",NA,"","","",NA
+136,937433011,"BosnianBlood (12/20)",0,239.75,"PF Kyle O'Quinn G Tim Hardaway Jr. SF Dion Waiters C Dwight Howard PG Kyle Lowry SG DeMar DeRozan UTIL Jonas Valanciunas F Michael Kidd-Gilchrist",NA,"","","",NA
+138,936920627,"Peppy1989",0,239.25,"SF Tim Hardaway Jr. UTIL Enes Kanter G Tyler Johnson PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry F Serge Ibaka SG Jeremy Lamb",NA,"","","",NA
+138,937597630,"waltdeuce (5/20)",0,239.25,"G Jarrett Jack SF Courtney Lee F James Johnson C Enes Kanter PF Kristaps Porzingis PG Kyle Lowry UTIL Serge Ibaka SG DeMar DeRozan",NA,"","","",NA
+140,937426714,"gfay63 (16/20)",0,239,"PF Kelly Olynyk SG Tyler Johnson UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry F Nicolas Batum SF DeMar DeRozan G Michael Carter-Williams",NA,"","","",NA
+141,937247510,"jay585 (5/17)",0,238.75,"SG Courtney Lee UTIL James Johnson PF Enes Kanter F Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum G Michael Carter-Williams",NA,"","","",NA
+141,937463505,"PowerTron (16/20)",0,238.75,"SF Courtney Lee F James Johnson UTIL Enes Kanter PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG Nicolas Batum G Michael Carter-Williams",NA,"","","",NA
+143,937171906,"likenoah (1/20)",0,238.25,"PG Jarrett Jack SG Courtney Lee F Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis G Kyle Lowry UTIL Serge Ibaka SF DeMar DeRozan",NA,"","","",NA
+143,937608227,"waltdeuce (17/20)",0,238.25,"SG Courtney Lee PF Kristaps Porzingis F Bam Adebayo C Dwight Howard PG Kyle Lowry SF Nicolas Batum G DeMar DeRozan UTIL Jonas Valanciunas",NA,"","","",NA
+145,937099323,"clarkgriswold",0,237.5,"SG Courtney Lee F James Johnson UTIL Enes Kanter PF Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SF Nicolas Batum G DeMar DeRozan",NA,"","","",NA
+145,937114967,"Miller421 (9/20)",0,237.5,"SG Dion Waiters PG Tyler Johnson UTIL Kristaps Porzingis PF Bam Adebayo C Dwight Howard G Kyle Lowry F Serge Ibaka SF DeMar DeRozan",NA,"","","",NA
+145,937597806,"waltdeuce (6/20)",0,237.5,"G Courtney Lee F James Johnson C Enes Kanter PF Kristaps Porzingis UTIL Bam Adebayo PG Kyle Lowry SF Nicolas Batum SG DeMar DeRozan",NA,"","","",NA
+148,936977221,"WCswami",0,237.25,"G Courtney Lee UTIL Dion Waiters F Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF DeMar DeRozan SG Norman Powell PF Pascal Siakam",NA,"","","",NA
+149,937326553,"MisterJ5 (15/20)",0,237,"PF Doug McDermott G Tyler Johnson UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum F DeMar DeRozan SG Jeremy Lamb",NA,"","","",NA
+150,937597153,"waltdeuce (1/20)",0,236.5,"SF Tim Hardaway Jr. UTIL Enes Kanter PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry F Serge Ibaka SG Jeremy Lamb G Michael Carter-Williams",NA,"","","",NA
+151,937122624,"htwonjoe (6/20)",0,236,"SF Courtney Lee SG Tim Hardaway Jr. PF Enes Kanter C Kristaps Porzingis PG Kyle Lowry UTIL Serge Ibaka G DeMar DeRozan F Norman Powell",NA,"","","",NA
+151,937235278,"nicktone88246 (2/10)",0,236,"SG Courtney Lee PF Kristaps Porzingis C Dwight Howard F Marvin Williams PG Kyle Lowry UTIL Nicolas Batum SF DeMar DeRozan G Michael Carter-Williams",NA,"","","",NA
+151,937608458,"waltdeuce (19/20)",0,236,"G Jarrett Jack PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry F Serge Ibaka SF DeMar DeRozan SG Jeremy Lamb UTIL Jonas Valanciunas",NA,"","","",NA
+154,937092461,"tamsuKi",0,235.75,"C Kelly Olynyk F Enes Kanter G Tyler Johnson UTIL Kristaps Porzingis PG Kyle Lowry SF DeMar DeRozan PF Pascal Siakam SG Malik Monk",NA,"","","",NA
+154,937187415,"TaylorMde2",0,235.75,"SG Courtney Lee F Kristaps Porzingis C Dwight Howard PG Kyle Lowry UTIL Nicolas Batum SF DeMar DeRozan G Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+154,937426706,"gfay63 (8/20)",0,235.75,"F Courtney Lee PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum SG DeMar DeRozan G Michael Carter-Williams UTIL Pascal Siakam",NA,"","","",NA
+154,937537082,"Dsypo412",0,235.75,"PF James Johnson G Tim Hardaway Jr. SG Dion Waiters F Josh Richardson C Dwight Howard PG Kyle Lowry UTIL Nicolas Batum SF Jeremy Lamb",NA,"","","",NA
+158,936858874,"Robert_JR",0,235.5,"G Courtney Lee SF Tim Hardaway Jr. PF Enes Kanter UTIL Kristaps Porzingis PG Kyle Lowry C Serge Ibaka SG DeMar DeRozan F Pascal Siakam",NA,"","","",NA
+158,937062497,"Willa1979",0,235.5,"G Jarrett Jack F Courtney Lee UTIL Kyle O'Quinn SG Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis PG Kyle Lowry SF DeMar DeRozan",NA,"","","",NA
+158,937572822,"Mrygt330 (2/2)",0,235.5,"UTIL Jarrett Jack SG Courtney Lee F Kyle O'Quinn SF Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis PG Kyle Lowry G DeMar DeRozan",NA,"","","",NA
+161,937133821,"railds1000",0,235.25,"G Dion Waiters PF Enes Kanter C Kristaps Porzingis PG Kyle Lowry SG DeMar DeRozan SF Jeremy Lamb UTIL Norman Powell F Pascal Siakam",NA,"","","",NA
+161,937326545,"MisterJ5 (7/20)",0,235.25,"PG Goran Dragic UTIL Enes Kanter F Kristaps Porzingis C Dwight Howard G Kyle Lowry SF Jeremy Lamb PF Frank Kaminsky SG Norman Powell",NA,"","","",NA
+161,937465126,"watsonM (1/3)",0,235.25,"SF Tim Hardaway Jr. F Enes Kanter C Kristaps Porzingis PG Kyle Lowry UTIL Nicolas Batum SG DeMar DeRozan PF Frank Kaminsky G Michael Carter-Williams",NA,"","","",NA
+164,936920255,"Tatewon",0,235,"G Courtney Lee UTIL Tim Hardaway Jr. SF Dion Waiters C Enes Kanter PF Kristaps Porzingis PG Kyle Lowry F Serge Ibaka SG Jeremy Lamb",NA,"","","",NA
+164,937075677,"kbrady71",0,235,"G Courtney Lee SG Tim Hardaway Jr. F Dion Waiters PF Enes Kanter C Kristaps Porzingis PG Kyle Lowry UTIL Serge Ibaka SF Jeremy Lamb",NA,"","","",NA
+164,937154179,"kaf1217 (1/2)",0,235,"SF Courtney Lee G Goran Dragic UTIL Tim Hardaway Jr. SG Dion Waiters C Dwight Howard PG Kyle Lowry F Jeremy Lamb PF Pascal Siakam",NA,"","","",NA
+164,937451547,"ntc101",0,235,"SG Courtney Lee G Tim Hardaway Jr. F Dion Waiters UTIL Enes Kanter C Kristaps Porzingis PG Kyle Lowry PF Serge Ibaka SF Jeremy Lamb",NA,"","","",NA
+164,937605417,"waltdeuce (13/20)",0,235,"G Courtney Lee SG Tim Hardaway Jr. F Enes Kanter PF Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard PG Kyle Lowry SF Nicolas Batum",NA,"","","",NA
+164,937638926,"cashtre",0,235,"SF Courtney Lee PF James Johnson SG Tim Hardaway Jr. C Enes Kanter F Kristaps Porzingis UTIL Dwight Howard G Kyle Lowry PG Malik Monk",NA,"","","",NA
+170,936967864,"Rdnf (1/3)",0,234.75,"F Tim Hardaway Jr. G Dion Waiters C Dwight Howard PG Kyle Lowry PF Serge Ibaka SG Nicolas Batum SF Jeremy Lamb UTIL Jonas Valanciunas",NA,"","","",NA
+170,937114919,"Miller421 (5/20)",0,234.75,"SG Dion Waiters UTIL Kristaps Porzingis PF Bam Adebayo C Dwight Howard G Kyle Lowry F Serge Ibaka SF DeMar DeRozan PG Michael Carter-Williams",NA,"","","",NA
+172,937432700,"BosnianBlood (5/20)",0,234.5,"SG Tim Hardaway Jr. PF Kristaps Porzingis F Bam Adebayo C Dwight Howard UTIL Kyle Lowry SF DeMar DeRozan G Jeremy Lamb PG Fred VanVleet",NA,"","","",NA
+173,937521193,"scocrazie",0,234.25,"SF Tim Hardaway Jr. UTIL Enes Kanter PF Kristaps Porzingis C Bam Adebayo G Kyle Lowry F DeMar DeRozan SG Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+174,937419079,"blkhorse",0,234,"UTIL Courtney Lee SF Tim Hardaway Jr. F Dion Waiters PF Enes Kanter C Kristaps Porzingis PG Kyle Lowry SG Jeremy Lamb G Michael Carter-Williams",NA,"","","",NA
+174,937563413,"NotoriousAD (6/6)",0,234,"G Goran Dragic F Enes Kanter SF Josh Richardson PF Kristaps Porzingis C Bam Adebayo UTIL Dwight Howard PG Kyle Lowry SG Jeremy Lamb",NA,"","","",NA
+174,937620658,"Tmagur10 (2/2)",0,234,"C Enes Kanter PF Kristaps Porzingis F Marvin Williams UTIL Kyle Lowry SG Nicolas Batum G DeMar DeRozan SF Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+177,937019623,"squirt9696 (5/5)",0,233.75,"G Courtney Lee SG Tim Hardaway Jr. UTIL Tyler Johnson F Josh Richardson PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Jeremy Lamb",NA,"","","",NA
+177,937156818,"jason2035",0,233.75,"PF Kyle O'Quinn SF Tim Hardaway Jr. F Enes Kanter UTIL Kristaps Porzingis C Dwight Howard G Kyle Lowry SG Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+177,937215003,"johneytimes",0,233.75,"PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry F Serge Ibaka SG DeMar DeRozan G Jeremy Lamb UTIL Jonas Valanciunas SF Norman Powell",NA,"","","",NA
+177,937500583,"chanki01 (5/9)",0,233.75,"PG Goran Dragic G Tim Hardaway Jr. C Enes Kanter PF Bam Adebayo UTIL Kyle Lowry F Serge Ibaka SG Nicolas Batum SF DeMar DeRozan",NA,"","","",NA
+181,937144830,"RememberSammyJenkins (10/18)",0,233.5,"UTIL Courtney Lee G Goran Dragic F Tim Hardaway Jr. SF Dion Waiters C Enes Kanter PG Kyle Lowry PF Serge Ibaka SG Nicolas Batum",NA,"","","",NA
+182,937191737,"ejette198220 (2/2)",0,233.25,"SF Tim Hardaway Jr. C Enes Kanter SG Tyler Johnson PF Kristaps Porzingis PG Kyle Lowry F DeMar DeRozan G Jeremy Lamb UTIL Pascal Siakam",NA,"","","",NA
+182,937268928,"hopeseattlebo",0,233.25,"F Kelly Olynyk SG Tim Hardaway Jr. SF Dion Waiters PF Enes Kanter C Kristaps Porzingis UTIL Dwight Howard PG Kyle Lowry G Norman Powell",NA,"","","",NA
+182,937439359,"BosnianBlood (16/20)",0,233.25,"PG Jarrett Jack SG Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis G Kyle Lowry SF DeMar DeRozan F Jeremy Lamb UTIL Michael Carter-Williams",NA,"","","",NA
+185,937326554,"MisterJ5 (16/20)",0,232.75,"SG Courtney Lee PG Goran Dragic PF Enes Kanter UTIL Tyler Johnson F Kristaps Porzingis C Dwight Howard G Kyle Lowry SF Norman Powell",NA,"","","",NA
+185,937347248,"ski1990 (2/8)",0,232.75,"PG Jarrett Jack SG Courtney Lee SF Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis UTIL Dwight Howard G DeMar DeRozan F Jeremy Lamb",NA,"","","",NA
+187,936881017,"perilous (9/20)",0,232.5,"PF James Johnson SF Tim Hardaway Jr. C Dwight Howard PG Kyle Lowry UTIL Serge Ibaka G Nicolas Batum SG DeMar DeRozan F Pascal Siakam",NA,"","","",NA
+187,937414536,"eaglesfly215",0,232.5,"PG Jarrett Jack SF Courtney Lee G Tim Hardaway Jr. PF Kristaps Porzingis F Bam Adebayo C Dwight Howard UTIL Kyle Lowry SG DeMar DeRozan",NA,"","","",NA
+187,937439361,"BosnianBlood (17/20)",0,232.5,"PG Jarrett Jack SG Courtney Lee UTIL Tim Hardaway Jr. PF Kristaps Porzingis F Bam Adebayo C Dwight Howard G Kyle Lowry SF DeMar DeRozan",NA,"","","",NA
+187,937565868,"therich2247 (10/20)",0,232.5,"SF Dion Waiters F Enes Kanter UTIL Kristaps Porzingis PF Bam Adebayo C Dwight Howard G Kyle Lowry SG Nicolas Batum PG Michael Carter-Williams",NA,"","","",NA
+191,937281153,"BobBrunk (15/15)",0,232,"PF James Johnson SF Tim Hardaway Jr. G Dion Waiters UTIL Dwight Howard PG Kyle Lowry C Serge Ibaka F Nicolas Batum SG Jeremy Lamb",NA,"","","",NA
+192,936881018,"perilous (10/20)",0,231.75,"G Jarrett Jack PF Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard PG Kyle Lowry SF Nicolas Batum SG DeMar DeRozan F Jeremy Lamb",NA,"","","",NA
+192,937179903,"likenoah (19/20)",0,231.75,"PG Jarrett Jack F Kristaps Porzingis PF Bam Adebayo C Dwight Howard G Kyle Lowry SG Nicolas Batum SF DeMar DeRozan UTIL Jeremy Lamb",NA,"","","",NA
+192,937276010,"BobBrunk (6/15)",0,231.75,"UTIL Kelly Olynyk SG Tim Hardaway Jr. F Enes Kanter PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum G Michael Carter-Williams",NA,"","","",NA
+195,937644784,"ChristoMeff",0,231.5,"UTIL Jarrett Jack SF Dion Waiters F Enes Kanter PF Kristaps Porzingis C Dwight Howard G Kyle Lowry SG Nicolas Batum PG Michael Carter-Williams",NA,"","","",NA
+196,936810908,"childishgip",0,231.25,"F Dion Waiters PF Kristaps Porzingis C Dwight Howard SF Marvin Williams G Kyle Lowry UTIL Serge Ibaka SG DeMar DeRozan PG Michael Carter-Williams",NA,"","","",NA
+196,937159663,"KlairVoyant (1/4)",0,231.25,"G Courtney Lee SF Tim Hardaway Jr. PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG Nicolas Batum F Pascal Siakam",NA,"","","",NA
+196,937159664,"KlairVoyant (2/4)",0,231.25,"G Courtney Lee SF Tim Hardaway Jr. PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG Nicolas Batum F Pascal Siakam",NA,"","","",NA
+196,937159665,"KlairVoyant (3/4)",0,231.25,"G Courtney Lee SF Tim Hardaway Jr. PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG Nicolas Batum F Pascal Siakam",NA,"","","",NA
+196,937159666,"KlairVoyant (4/4)",0,231.25,"G Courtney Lee SF Tim Hardaway Jr. PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG Nicolas Batum F Pascal Siakam",NA,"","","",NA
+196,937275902,"BobBrunk (4/15)",0,231.25,"G Courtney Lee SG Tim Hardaway Jr. F Enes Kanter PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum UTIL Pascal Siakam",NA,"","","",NA
+196,937415027,"hackartist",0,231.25,"SF Courtney Lee G Tim Hardaway Jr. PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG Nicolas Batum F Pascal Siakam",NA,"","","",NA
+196,937463504,"PowerTron (15/20)",0,231.25,"G Courtney Lee SG Tim Hardaway Jr. UTIL Enes Kanter PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum F Pascal Siakam",NA,"","","",NA
+204,937605187,"waltdeuce (11/20)",0,231,"G Courtney Lee SG Tim Hardaway Jr. F Enes Kanter PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry UTIL Nicolas Batum SF Michael Kidd-Gilchrist",NA,"","","",NA
+205,936993258,"xkeeper877",0,230.75,"UTIL Tim Hardaway Jr. F Enes Kanter PG Tyler Johnson G Josh Richardson PF Kristaps Porzingis C Dwight Howard SG DeMar DeRozan SF Jeremy Lamb",NA,"","","",NA
+206,936978505,"bosox15",0,230.5,"UTIL Kelly Olynyk G Tim Hardaway Jr. F Enes Kanter C Kristaps Porzingis PF Bam Adebayo PG Kyle Lowry SG Nicolas Batum SF DeMar DeRozan",NA,"","","",NA
+206,937367525,"TAlex21 (4/4)",0,230.5,"PF Kelly Olynyk G Tim Hardaway Jr. F Enes Kanter UTIL Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SF Nicolas Batum SG DeMar DeRozan",NA,"","","",NA
+206,937522848,"sbwolves16 (6/20)",0,230.5,"PF Kelly Olynyk SF Tim Hardaway Jr. UTIL Enes Kanter C Kristaps Porzingis F Bam Adebayo PG Kyle Lowry SG Nicolas Batum G DeMar DeRozan",NA,"","","",NA
+206,937648534,"Miller1785 (2/2)",0,230.5,"SF Tim Hardaway Jr. F Enes Kanter PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry UTIL Serge Ibaka SG Jeremy Lamb G Norman Powell",NA,"","","",NA
+210,936881011,"perilous (3/20)",0,230.25,"SF Dion Waiters UTIL Enes Kanter C Kristaps Porzingis PG Kyle Lowry F Nicolas Batum SG DeMar DeRozan G Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+210,937157457,"itzallaboutdapesos (1/3)",0,230.25,"F Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis PG Kyle Lowry SG DeMar DeRozan SF Jeremy Lamb UTIL Michael Kidd-Gilchrist G Michael Carter-Williams",NA,"","","",NA
+212,937617870,"MadAxes",0,230,"G Courtney Lee SG Tim Hardaway Jr. PG Tyler Johnson F Kristaps Porzingis C Dwight Howard UTIL Kyle Lowry PF Serge Ibaka SF Jeremy Lamb",NA,"","","",NA
+213,937058048,"forrestkoba (4/20)",0,229.75,"F Kelly Olynyk UTIL Kristaps Porzingis C Dwight Howard G Kyle Lowry SG Nicolas Batum SF DeMar DeRozan PG Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+213,937240200,"schunter4",0,229.75,"G Courtney Lee SG Tim Hardaway Jr. F Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard PG Kyle Lowry SF DeMar DeRozan PF Pascal Siakam",NA,"","","",NA
+213,937512101,"sloyd1885 (2/3)",0,229.75,"G Courtney Lee SF Tim Hardaway Jr. PF Kristaps Porzingis C Bam Adebayo UTIL Dwight Howard PG Kyle Lowry SG DeMar DeRozan F Pascal Siakam",NA,"","","",NA
+216,936862866,"Ferguson7 (1/2)",0,229.5,"G Courtney Lee SF Tim Hardaway Jr. PF Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard PG Kyle Lowry SG DeMar DeRozan F Michael Kidd-Gilchrist",NA,"","","",NA
+216,937115001,"Miller421 (12/20)",0,229.5,"SG Courtney Lee G Tim Hardaway Jr. F Kristaps Porzingis PF Bam Adebayo C Dwight Howard PG Kyle Lowry UTIL DeMar DeRozan SF Michael Kidd-Gilchrist",NA,"","","",NA
+216,937610888,"xtreme123 (2/5)",0,229.5,"F Tim Hardaway Jr. UTIL Enes Kanter PF Kristaps Porzingis C Dwight Howard G Kyle Lowry SF Jeremy Lamb PG Michael Carter-Williams SG Norman Powell",NA,"","","",NA
+219,936916848,"texasreddboi96",0,229.25,"SF Courtney Lee SG Tim Hardaway Jr. F Dion Waiters PF Kristaps Porzingis C Bam Adebayo UTIL Dwight Howard PG Kyle Lowry G Jeremy Lamb",NA,"","","",NA
+219,936970663,"romansmom92 (1/3)",0,229.25,"UTIL Jarrett Jack F Kelly Olynyk SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan G Michael Carter-Williams",NA,"","","",NA
+219,936971758,"Rdnf (3/3)",0,229.25,"G Courtney Lee PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry F Serge Ibaka SF Nicolas Batum SG Jeremy Lamb UTIL Jonas Valanciunas",NA,"","","",NA
+219,937052905,"karrybell23",0,229.25,"G Courtney Lee SG Tim Hardaway Jr. UTIL Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard PG Kyle Lowry SF Jeremy Lamb",NA,"","","",NA
+219,937328850,"Atrain81992",0,229.25,"UTIL Courtney Lee SG Tim Hardaway Jr. G Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard PG Kyle Lowry SF Jeremy Lamb",NA,"","","",NA
+219,937378802,"jel43",0,229.25,"PF James Johnson F Kyle O'Quinn SG Tim Hardaway Jr. UTIL Dion Waiters C Dwight Howard PG Kyle Lowry SF Nicolas Batum G Jeremy Lamb",NA,"","","",NA
+219,937408385,"willdmd70 (3/4)",0,229.25,"G Courtney Lee SG Tim Hardaway Jr. F Dion Waiters PF Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard PG Kyle Lowry SF Jeremy Lamb",NA,"","","",NA
+219,937461810,"vhjones12",0,229.25,"G Courtney Lee SF Tim Hardaway Jr. SG Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard PG Kyle Lowry UTIL Jeremy Lamb",NA,"","","",NA
+219,937498226,"datdude4sho (2/2)",0,229.25,"F Courtney Lee G Tim Hardaway Jr. SG Dion Waiters C Kristaps Porzingis PF Bam Adebayo UTIL Dwight Howard PG Kyle Lowry SF Jeremy Lamb",NA,"","","",NA
+219,937565864,"therich2247 (6/20)",0,229.25,"SF Tim Hardaway Jr. SG Dion Waiters F Enes Kanter UTIL Kristaps Porzingis PF Bam Adebayo C Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+219,937588121,"TXYancey",0,229.25,"UTIL Courtney Lee SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard PG Kyle Lowry G Jeremy Lamb",NA,"","","",NA
+219,937604973,"waltdeuce (9/20)",0,229.25,"SG Tim Hardaway Jr. SF Dion Waiters F Enes Kanter PF Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard PG Kyle Lowry G Michael Carter-Williams",NA,"","","",NA
+231,937058051,"forrestkoba (7/20)",0,229,"SF Tim Hardaway Jr. F Enes Kanter UTIL Kristaps Porzingis C Dwight Howard G Kyle Lowry SG Jeremy Lamb PG Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+232,937060427,"mikecent (14/18)",0,228.5,"UTIL Hassan Whiteside C Dwight Howard PF Marvin Williams G Kyle Lowry SF Nicolas Batum F DeMar DeRozan SG Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+232,937185405,"Chill1985",0,228.5,"SF Courtney Lee UTIL Kelly Olynyk SG Tim Hardaway Jr. C Kristaps Porzingis PG Kyle Lowry F DeMar DeRozan G Jeremy Lamb PF Pascal Siakam",NA,"","","",NA
+234,937026408,"nocontroln",0,228.25,"F Tim Hardaway Jr. SF Doug McDermott C Kristaps Porzingis PF Bam Adebayo UTIL Dwight Howard PG Kyle Lowry SG DeMar DeRozan G Jeremy Lamb",NA,"","","",NA
+234,937207194,"blangton69 (1/2)",0,228.25,"SF Courtney Lee UTIL James Johnson SG Dion Waiters F Justise Winslow PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry G Jeremy Lamb",NA,"","","",NA
+236,936918981,"KyngMufasa (6/7)",0,228,"UTIL Josh Richardson PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry F Serge Ibaka G Nicolas Batum SG DeMar DeRozan SF Michael Kidd-Gilchrist",NA,"","","",NA
+236,937123567,"Miller421 (15/20)",0,228,"SG Dion Waiters UTIL Kristaps Porzingis PF Bam Adebayo C Dwight Howard PG Kyle Lowry F Serge Ibaka G DeMar DeRozan SF Michael Kidd-Gilchrist",NA,"","","",NA
+238,937115017,"Miller421 (13/20)",0,227.75,"G Tim Hardaway Jr. SG Josh Richardson F Kristaps Porzingis PF Bam Adebayo C Dwight Howard UTIL Kyle Lowry SF DeMar DeRozan PG Michael Carter-Williams",NA,"","","",NA
+238,937432684,"BosnianBlood (3/20)",0,227.75,"UTIL Courtney Lee SF Tim Hardaway Jr. F Dion Waiters C Enes Kanter SG Josh Richardson PF Kristaps Porzingis PG Kyle Lowry G Nicolas Batum",NA,"","","",NA
+240,937565869,"therich2247 (11/20)",0,227.5,"G Dion Waiters UTIL Enes Kanter C Kristaps Porzingis PF Bam Adebayo PG Kyle Lowry SG Nicolas Batum SF DeMar DeRozan F Pascal Siakam",NA,"","","",NA
+241,937461683,"James13590",0,227,"G Tim Hardaway Jr. UTIL Enes Kanter PG Tyler Johnson PF Kristaps Porzingis C Dwight Howard F Serge Ibaka SG DeMar DeRozan SF Jeremy Lamb",NA,"","","",NA
+241,937500579,"chanki01 (1/9)",0,227,"G Courtney Lee PG Goran Dragic SF Dion Waiters F Enes Kanter SG Josh Richardson C Kristaps Porzingis UTIL Kyle Lowry PF Serge Ibaka",NA,"","","",NA
+243,936911302,"Prodigy1031",0,226.5,"SF Courtney Lee UTIL James Johnson G Dion Waiters F Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG Jeremy Lamb PF Pascal Siakam",NA,"","","",NA
+243,937125188,"jbeezy3333",0,226.5,"SF Courtney Lee PG Goran Dragic SG Tyler Johnson C Kristaps Porzingis UTIL Dwight Howard G Kyle Lowry PF Serge Ibaka F Jeremy Lamb",NA,"","","",NA
+243,937182875,"skyflyyy143",0,226.5,"F Courtney Lee G Tim Hardaway Jr. PF Kristaps Porzingis PG Kyle Lowry SG DeMar DeRozan SF Jeremy Lamb C Jonas Valanciunas UTIL Michael Carter-Williams",NA,"","","",NA
+243,937426701,"gfay63 (3/20)",0,226.5,"G Jarrett Jack UTIL Dion Waiters C Enes Kanter PF Kristaps Porzingis PG Kyle Lowry SG Nicolas Batum SF DeMar DeRozan F Pascal Siakam",NA,"","","",NA
+243,937506514,"Sect124 (1/3)",0,226.5,"F Courtney Lee SF Tim Hardaway Jr. G Dion Waiters SG Tyler Johnson PF Kristaps Porzingis UTIL Dwight Howard PG Kyle Lowry C Serge Ibaka",NA,"","","",NA
+248,937275887,"BobBrunk (3/15)",0,226.25,"F Kelly Olynyk SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan UTIL Michael Kidd-Gilchrist G Michael Carter-Williams",NA,"","","",NA
+248,937390236,"Jackson1030",0,226.25,"F James Johnson SG Dion Waiters PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard G Kyle Lowry SF Michael Kidd-Gilchrist PG Michael Carter-Williams",NA,"","","",NA
+248,937546776,"ratrilsz236",0,226.25,"SG Tim Hardaway Jr. F Kristaps Porzingis C Bam Adebayo UTIL Dwight Howard PG Kyle Lowry PF Serge Ibaka SF DeMar DeRozan G Fred VanVleet",NA,"","","",NA
+251,936868408,"dwc1980 (2/2)",0,226,"SF Tim Hardaway Jr. F Dion Waiters C Enes Kanter PF Kristaps Porzingis UTIL Dwight Howard G Kyle Lowry PG Michael Carter-Williams SG Norman Powell",NA,"","","",NA
+251,937038559,"mathi1",0,226,"G Courtney Lee SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry F Serge Ibaka SG Jeremy Lamb UTIL Jonas Valanciunas",NA,"","","",NA
+251,937209842,"blangton69 (2/2)",0,226,"SF Tim Hardaway Jr. F Dion Waiters UTIL Enes Kanter PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry G Michael Carter-Williams SG Norman Powell",NA,"","","",NA
+251,937281257,"jose__21",0,226,"SG Tim Hardaway Jr. SF Dion Waiters UTIL Enes Kanter PF Kristaps Porzingis C Dwight Howard G Kyle Lowry PG Michael Carter-Williams F Norman Powell",NA,"","","",NA
+251,937494947,"DaLaw007",0,226,"UTIL Kelly Olynyk SF Tim Hardaway Jr. SG Dion Waiters PF Kristaps Porzingis C Dwight Howard G Kyle Lowry F Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+251,937522853,"sbwolves16 (11/20)",0,226,"UTIL Tim Hardaway Jr. F Enes Kanter G Tyler Johnson C Kristaps Porzingis PF Bam Adebayo PG Kyle Lowry SF Nicolas Batum SG DeMar DeRozan",NA,"","","",NA
+257,936646953,"jordancaliff09",0,225.75,"G Courtney Lee SG Tim Hardaway Jr. F Dion Waiters PF Kristaps Porzingis C Dwight Howard UTIL Marvin Williams PG Kyle Lowry SF Jeremy Lamb",NA,"","","",NA
+257,937065879,"irishastros",0,225.75,"G Courtney Lee SG Tim Hardaway Jr. F Dion Waiters PF Kristaps Porzingis C Dwight Howard UTIL Marvin Williams PG Kyle Lowry SF Jeremy Lamb",NA,"","","",NA
+257,937114922,"Miller421 (6/20)",0,225.75,"SG Tim Hardaway Jr. G Tyler Johnson F Kristaps Porzingis PF Bam Adebayo C Dwight Howard UTIL Kyle Lowry SF DeMar DeRozan PG Michael Carter-Williams",NA,"","","",NA
+257,937384787,"jimmyt91",0,225.75,"F Courtney Lee SF Tim Hardaway Jr. G Dion Waiters PF Kristaps Porzingis C Dwight Howard UTIL Marvin Williams PG Kyle Lowry SG Jeremy Lamb",NA,"","","",NA
+261,937275810,"BobBrunk (2/15)",0,225.5,"SG Tim Hardaway Jr. SF Dion Waiters F Enes Kanter PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry G Michael Carter-Williams UTIL Pascal Siakam",NA,"","","",NA
+261,937421080,"jf1133 (2/2)",0,225.5,"SF Tim Hardaway Jr. SG Dion Waiters F Enes Kanter UTIL Kristaps Porzingis C Dwight Howard G Kyle Lowry PG Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+261,937433048,"BosnianBlood (13/20)",0,225.5,"SG Tim Hardaway Jr. SF Dion Waiters PF Enes Kanter F Kristaps Porzingis C Dwight Howard PG Kyle Lowry G Michael Carter-Williams UTIL Pascal Siakam",NA,"","","",NA
+261,937644970,"latonyamulllins24",0,225.5,"G Courtney Lee UTIL James Johnson SF Tim Hardaway Jr. SG Dion Waiters PF Enes Kanter F Josh Richardson C Kristaps Porzingis PG Kyle Lowry",NA,"","","",NA
+265,936881025,"perilous (17/20)",0,225.25,"SG Tim Hardaway Jr. F Dion Waiters UTIL Enes Kanter PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Michael Kidd-Gilchrist G Michael Carter-Williams",NA,"","","",NA
+265,937058054,"forrestkoba (10/20)",0,225.25,"SG Courtney Lee PF Kelly Olynyk G Tim Hardaway Jr. UTIL Tyler Johnson F Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum",NA,"","","",NA
+265,937123631,"Miller421 (20/20)",0,225.25,"PG Goran Dragic UTIL Enes Kanter SG Tyler Johnson C Kristaps Porzingis PF Bam Adebayo G Kyle Lowry F Serge Ibaka SF DeMar DeRozan",NA,"","","",NA
+265,937162726,"blackbears95",0,225.25,"G Goran Dragic PF Kyle O'Quinn SG Tim Hardaway Jr. F Dion Waiters C Dwight Howard PG Kyle Lowry SF Jeremy Lamb UTIL Jonas Valanciunas",NA,"","","",NA
+265,937275796,"BobBrunk (1/15)",0,225.25,"SG Tim Hardaway Jr. SF Dion Waiters F Enes Kanter PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry UTIL Michael Kidd-Gilchrist G Michael Carter-Williams",NA,"","","",NA
+265,937463501,"PowerTron (12/20)",0,225.25,"UTIL Tyler Johnson PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum SG DeMar DeRozan G Michael Carter-Williams F Pascal Siakam",NA,"","","",NA
+265,937598688,"NateDogg1221",0,225.25,"PG Goran Dragic UTIL Enes Kanter SG Tyler Johnson C Kristaps Porzingis PF Bam Adebayo G Kyle Lowry F Serge Ibaka SF DeMar DeRozan",NA,"","","",NA
+272,936881014,"perilous (6/20)",0,224.75,"G Dion Waiters F Kristaps Porzingis C Dwight Howard SF Marvin Williams PG Kyle Lowry UTIL Serge Ibaka SG DeMar DeRozan PF Pascal Siakam",NA,"","","",NA
+273,937055140,"kingofthahill1976",0,224.5,"F Courtney Lee SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard G Kyle Lowry UTIL Nicolas Batum SF Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+273,937091835,"keonip11",0,224.5,"F Courtney Lee SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard UTIL Kyle Lowry SF Nicolas Batum G Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+273,937350275,"dkillian84",0,224.5,"PF James Johnson SF Tim Hardaway Jr. G Dion Waiters C Dwight Howard PG Kyle Lowry F Nicolas Batum SG Jeremy Lamb UTIL Pascal Siakam",NA,"","","",NA
+273,937539428,"drejohn (14/14)",0,224.5,"UTIL Courtney Lee SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum F Jeremy Lamb G Michael Carter-Williams",NA,"","","",NA
+277,937565866,"therich2247 (8/20)",0,224.25,"G Tim Hardaway Jr. SG Dion Waiters UTIL Enes Kanter C Kristaps Porzingis PF Bam Adebayo PG Kyle Lowry SF DeMar DeRozan F Pascal Siakam",NA,"","","",NA
+278,936985996,"Cangamble",0,224,"SF Tim Hardaway Jr. PF Kristaps Porzingis C Bam Adebayo UTIL Dwight Howard G Kyle Lowry F Serge Ibaka SG DeMar DeRozan PG Michael Carter-Williams",NA,"","","",NA
+278,937114890,"Miller421 (1/20)",0,224,"SG Tim Hardaway Jr. UTIL Kristaps Porzingis PF Bam Adebayo C Dwight Howard G Kyle Lowry F Serge Ibaka SF DeMar DeRozan PG Michael Carter-Williams",NA,"","","",NA
+278,937438601,"bratsdad (2/2)",0,224,"C Kelly Olynyk SF Dion Waiters PF Kristaps Porzingis PG Kyle Lowry SG Nicolas Batum UTIL DeMar DeRozan G Jeremy Lamb F Michael Kidd-Gilchrist",NA,"","","",NA
+281,936875361,"Tnvols1972 (1/3)",0,223.75,"SG Courtney Lee UTIL Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry F Serge Ibaka G Michael Carter-Williams",NA,"","","",NA
+282,936927749,"corm12",0,223.5,"SF Courtney Lee PF James Johnson SG Tim Hardaway Jr. G Dion Waiters F Enes Kanter UTIL Tyler Johnson C Kristaps Porzingis PG Kyle Lowry",NA,"","","",NA
+283,936623352,"eddie22345",0,223.25,"G Goran Dragic F Enes Kanter PF Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard PG Kyle Lowry SF Jeremy Lamb SG Norman Powell",NA,"","","",NA
+283,936881010,"perilous (2/20)",0,223.25,"PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry UTIL Serge Ibaka F Nicolas Batum SG DeMar DeRozan SF Michael Kidd-Gilchrist G Michael Carter-Williams",NA,"","","",NA
+283,937007625,"Modobestia07 (1/4)",0,223.25,"G Goran Dragic F Enes Kanter PF Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard PG Kyle Lowry SG Jeremy Lamb SF Norman Powell",NA,"","","",NA
+283,937007716,"Modobestia07 (2/4)",0,223.25,"G Goran Dragic F Enes Kanter PF Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard PG Kyle Lowry SG Jeremy Lamb SF Norman Powell",NA,"","","",NA
+283,937007777,"Modobestia07 (3/4)",0,223.25,"G Goran Dragic F Enes Kanter PF Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard PG Kyle Lowry SG Jeremy Lamb SF Norman Powell",NA,"","","",NA
+283,937007815,"Modobestia07 (4/4)",0,223.25,"G Goran Dragic F Enes Kanter PF Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard PG Kyle Lowry SG Jeremy Lamb SF Norman Powell",NA,"","","",NA
+283,937522845,"sbwolves16 (3/20)",0,223.25,"UTIL Tim Hardaway Jr. PF Enes Kanter F Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SF Nicolas Batum SG DeMar DeRozan G Michael Carter-Williams",NA,"","","",NA
+283,937560842,"db_garcia",0,223.25,"G Tim Hardaway Jr. SG Dion Waiters UTIL Enes Kanter PF Kristaps Porzingis F Bam Adebayo C Dwight Howard PG Kyle Lowry SF Norman Powell",NA,"","","",NA
+283,937647270,"panarican77",0,223.25,"G Tim Hardaway Jr. F Enes Kanter C Kristaps Porzingis PF Bam Adebayo UTIL Kyle Lowry SG Nicolas Batum SF DeMar DeRozan PG Michael Carter-Williams",NA,"","","",NA
+292,936875270,"mykcorleone (2/2)",0,222.75,"PF James Johnson SG Dion Waiters C Enes Kanter UTIL Tyler Johnson F Kristaps Porzingis PG Kyle Lowry SF Nicolas Batum G Jeremy Lamb",NA,"","","",NA
+292,936912108,"KyngMufasa (4/7)",0,222.75,"G Tim Hardaway Jr. F Enes Kanter SF Justise Winslow PF Kristaps Porzingis PG Kyle Lowry UTIL Serge Ibaka SG DeMar DeRozan C Jonas Valanciunas",NA,"","","",NA
+292,937522862,"sbwolves16 (20/20)",0,222.75,"UTIL Tim Hardaway Jr. PF Enes Kanter F Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SG Nicolas Batum SF DeMar DeRozan G Malik Monk",NA,"","","",NA
+295,936881924,"erick545",0,222.5,"SG Tim Hardaway Jr. G Tyler Johnson PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry F DeMar DeRozan UTIL Michael Carter-Williams SF Norman Powell",NA,"","","",NA
+295,937432691,"BosnianBlood (4/20)",0,222.5,"G Courtney Lee PG Goran Dragic F Enes Kanter UTIL Josh Richardson PF Kristaps Porzingis C Dwight Howard SF DeMar DeRozan SG Norman Powell",NA,"","","",NA
+297,937599927,"jsalmonski9",0,222.25,"PG Jarrett Jack SF Tim Hardaway Jr. F Dion Waiters UTIL Enes Kanter PF Kristaps Porzingis C Dwight Howard G Kyle Lowry SG Norman Powell",NA,"","","",NA
+298,937281275,"billgrattan57",0,222,"G Courtney Lee F Kyle O'Quinn SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis UTIL Dwight Howard PG Kyle Lowry C Serge Ibaka",NA,"","","",NA
+298,937469255,"mykal15",0,222,"G Courtney Lee UTIL Kyle O'Quinn SF Tim Hardaway Jr. SG Dion Waiters PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry F Serge Ibaka",NA,"","","",NA
+300,936881009,"perilous (1/20)",0,221.75,"PF James Johnson C Enes Kanter F Kristaps Porzingis SF Marvin Williams PG Kyle Lowry UTIL Serge Ibaka G Nicolas Batum SG DeMar DeRozan",NA,"","","",NA
+300,937114988,"Miller421 (11/20)",0,221.75,"SG Tim Hardaway Jr. G Tyler Johnson PF Kristaps Porzingis C Dwight Howard UTIL Kyle Lowry F DeMar DeRozan SF Michael Kidd-Gilchrist PG Michael Carter-Williams",NA,"","","",NA
+300,937123595,"Miller421 (17/20)",0,221.75,"SG Tim Hardaway Jr. F Kristaps Porzingis PF Bam Adebayo UTIL Dwight Howard G Kyle Lowry SF DeMar DeRozan C Jonas Valanciunas PG Michael Carter-Williams",NA,"","","",NA
+300,937171940,"likenoah (2/20)",0,221.75,"G Jarrett Jack SG Tim Hardaway Jr. PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry F Serge Ibaka SF Nicolas Batum",NA,"","","",NA
+300,937276030,"BobBrunk (7/15)",0,221.75,"G Jarrett Jack SG Tim Hardaway Jr. SF Dion Waiters F Enes Kanter PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry UTIL Pascal Siakam",NA,"","","",NA
+300,937435938,"skeeta111",0,221.75,"G Courtney Lee SG Tim Hardaway Jr. PF Kristaps Porzingis C Bam Adebayo UTIL Dwight Howard PG Kyle Lowry SF Nicolas Batum F Jeremy Lamb",NA,"","","",NA
+300,937540558,"StJoe17",0,221.75,"SG Courtney Lee F James Johnson SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard UTIL Kyle Lowry G Jeremy Lamb PG Malik Monk",NA,"","","",NA
+300,937565865,"therich2247 (7/20)",0,221.75,"SF Tim Hardaway Jr. F Enes Kanter UTIL Kristaps Porzingis PF Bam Adebayo C Dwight Howard G Kyle Lowry SG Nicolas Batum PG Michael Carter-Williams",NA,"","","",NA
+300,937608386,"waltdeuce (18/20)",0,221.75,"SG Tim Hardaway Jr. PF Kristaps Porzingis F Bam Adebayo C Dwight Howard PG Kyle Lowry SF DeMar DeRozan UTIL Jonas Valanciunas G Michael Carter-Williams",NA,"","","",NA
+300,937643140,"1NationSteve",0,221.75,"F Courtney Lee PF James Johnson SG Tim Hardaway Jr. UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Jeremy Lamb G Malik Monk",NA,"","","",NA
+310,937123610,"Miller421 (18/20)",0,221,"F James Johnson UTIL Kristaps Porzingis C Dwight Howard G Kyle Lowry PF Serge Ibaka SG DeMar DeRozan SF Michael Kidd-Gilchrist PG Michael Carter-Williams",NA,"","","",NA
+310,937426715,"gfay63 (17/20)",0,221,"SF Courtney Lee F Dion Waiters C Kristaps Porzingis PG Kyle Lowry G Nicolas Batum SG DeMar DeRozan UTIL Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+312,937192540,"hondoe1",0,220.75,"G Courtney Lee SF Tim Hardaway Jr. UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry PF Serge Ibaka SG Jeremy Lamb F Pascal Siakam",NA,"","","",NA
+312,937295226,"zmanqb05",0,220.75,"UTIL James Johnson SG Dion Waiters PF Kristaps Porzingis C Dwight Howard G Kyle Lowry F Serge Ibaka SF Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+312,937649096,"perd",0,220.75,"SF Courtney Lee F James Johnson UTIL Tim Hardaway Jr. SG Dion Waiters PF Enes Kanter C Kristaps Porzingis G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+315,936881024,"perilous (16/20)",0,220.5,"UTIL Courtney Lee G Tim Hardaway Jr. SG Tyler Johnson PF Kristaps Porzingis PG Kyle Lowry C Serge Ibaka F Nicolas Batum SF DeMar DeRozan",NA,"","","",NA
+315,936881255,"JSchorr06 (2/4)",0,220.5,"G Courtney Lee SG Tim Hardaway Jr. UTIL Tyler Johnson PF Kristaps Porzingis PG Kyle Lowry C Serge Ibaka F Nicolas Batum SF DeMar DeRozan",NA,"","","",NA
+315,936918993,"KyngMufasa (7/7)",0,220.5,"PF Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard PG Kyle Lowry F Serge Ibaka G Nicolas Batum SG DeMar DeRozan SF Michael Kidd-Gilchrist",NA,"","","",NA
+315,936968038,"Rdnf (2/3)",0,220.5,"PG Goran Dragic F Tim Hardaway Jr. UTIL Dwight Howard G Kyle Lowry PF Serge Ibaka SG Nicolas Batum SF Jeremy Lamb C Jonas Valanciunas",NA,"","","",NA
+315,937059961,"pioss23",0,220.5,"G Courtney Lee SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry F Serge Ibaka SF Jeremy Lamb UTIL Michael Kidd-Gilchrist",NA,"","","",NA
+315,937463492,"PowerTron (3/20)",0,220.5,"G Tim Hardaway Jr. F Enes Kanter UTIL Tyler Johnson PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG Nicolas Batum SF Michael Kidd-Gilchrist",NA,"","","",NA
+321,937045943,"Fluke009",0,220.25,"SG Courtney Lee G Goran Dragic F Kristaps Porzingis PF Bam Adebayo PG Kyle Lowry UTIL DeMar DeRozan SF Jeremy Lamb C Jonas Valanciunas",NA,"","","",NA
+321,937058062,"forrestkoba (18/20)",0,220.25,"SG Tim Hardaway Jr. F Enes Kanter UTIL Kristaps Porzingis C Dwight Howard G Kyle Lowry SF Nicolas Batum PG Fred VanVleet PF Pascal Siakam",NA,"","","",NA
+323,937555696,"NotoriousAD (2/6)",0,220,"F James Johnson G Dion Waiters PF Enes Kanter C Kristaps Porzingis PG Kyle Lowry SF Nicolas Batum SG Jeremy Lamb UTIL Michael Carter-Williams",NA,"","","",NA
+324,936952086,"Teai",0,219.75,"G Courtney Lee F Kyle O'Quinn SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry UTIL Jonas Valanciunas",NA,"","","",NA
+324,936988493,"help123",0,219.75,"G Courtney Lee F Kyle O'Quinn SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry UTIL Jonas Valanciunas",NA,"","","",NA
+324,937463502,"PowerTron (13/20)",0,219.75,"SG Tim Hardaway Jr. F Enes Kanter UTIL Justise Winslow PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum G Michael Carter-Williams",NA,"","","",NA
+327,936882744,"derekgielarowski",0,219.5,"UTIL Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis PG Kyle Lowry SG Nicolas Batum SF DeMar DeRozan G Michael Carter-Williams F Pascal Siakam",NA,"","","",NA
+327,936920476,"Puerto615",0,219.5,"G Goran Dragic UTIL Enes Kanter PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG Jeremy Lamb SF Norman Powell F Pascal Siakam",NA,"","","",NA
+327,936970681,"romansmom92 (2/3)",0,219.5,"UTIL Kelly Olynyk G Tim Hardaway Jr. F Enes Kanter PF Kristaps Porzingis C Dwight Howard SF Nicolas Batum SG DeMar DeRozan PG Michael Carter-Williams",NA,"","","",NA
+327,937030410,"ballsdeep1234 (1/2)",0,219.5,"SG Tim Hardaway Jr. PF Enes Kanter C Kristaps Porzingis PG Kyle Lowry F Nicolas Batum SF DeMar DeRozan G Michael Carter-Williams UTIL Pascal Siakam",NA,"","","",NA
+327,937058056,"forrestkoba (12/20)",0,219.5,"SF Courtney Lee F Dion Waiters UTIL Kristaps Porzingis C Dwight Howard G Kyle Lowry SG Nicolas Batum PG Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+327,937275993,"BobBrunk (5/15)",0,219.5,"G Jarrett Jack SG Tim Hardaway Jr. F Enes Kanter PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum UTIL Jonas Valanciunas",NA,"","","",NA
+327,937421079,"jf1133 (1/2)",0,219.5,"G Tim Hardaway Jr. F Enes Kanter C Kristaps Porzingis UTIL Kyle Lowry SG Nicolas Batum SF DeMar DeRozan PG Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+327,937423051,"asianbarbie89",0,219.5,"F Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis PG Kyle Lowry SG Nicolas Batum SF DeMar DeRozan G Michael Carter-Williams UTIL Pascal Siakam",NA,"","","",NA
+327,937522851,"sbwolves16 (9/20)",0,219.5,"PG Jarrett Jack F Tim Hardaway Jr. PF Enes Kanter UTIL Kristaps Porzingis C Bam Adebayo G Kyle Lowry SG Nicolas Batum SF DeMar DeRozan",NA,"","","",NA
+327,937618371,"xtreme123 (3/5)",0,219.5,"G Goran Dragic UTIL Enes Kanter F Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG Jeremy Lamb SF Norman Powell PF Pascal Siakam",NA,"","","",NA
+327,937627302,"arivers2",0,219.5,"UTIL Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis G Kyle Lowry SF Nicolas Batum SG DeMar DeRozan PG Michael Carter-Williams F Pascal Siakam",NA,"","","",NA
+338,937183316,"DreadTheSpread (1/2)",0,219.25,"SF Tim Hardaway Jr. F Dion Waiters C Kristaps Porzingis UTIL Dwight Howard PG Kyle Lowry PF Serge Ibaka SG Jeremy Lamb G Malik Monk",NA,"","","",NA
+338,937568630,"DreadTheSpread (2/2)",0,219.25,"SF Tim Hardaway Jr. F Dion Waiters C Kristaps Porzingis UTIL Dwight Howard PG Kyle Lowry PF Serge Ibaka SG Jeremy Lamb G Malik Monk",NA,"","","",NA
+340,936961662,"thisistheyear1 (2/4)",0,219,"UTIL Wayne Ellington PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum G DeMar DeRozan SG Jeremy Lamb F Pascal Siakam",NA,"","","",NA
+340,937439232,"BosnianBlood (14/20)",0,219,"F Courtney Lee SG Tim Hardaway Jr. G Dion Waiters C Kristaps Porzingis PF Marvin Williams PG Kyle Lowry UTIL Serge Ibaka SF DeMar DeRozan",NA,"","","",NA
+342,936912078,"KyngMufasa (1/7)",0,218.75,"SG Tim Hardaway Jr. F Enes Kanter PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry UTIL Serge Ibaka G Nicolas Batum SF Michael Kidd-Gilchrist",NA,"","","",NA
+342,937347627,"ski1990 (4/8)",0,218.75,"G Goran Dragic F Tim Hardaway Jr. UTIL Dwight Howard PG Kyle Lowry PF Serge Ibaka SG DeMar DeRozan C Jonas Valanciunas SF OG Anunoby",NA,"","","",NA
+342,937610367,"Zobug",0,218.75,"G Courtney Lee PF James Johnson UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG Nicolas Batum SF Jeremy Lamb F Michael Kidd-Gilchrist",NA,"","","",NA
+345,936928044,"DATDUDEDAKING",0,218.5,"UTIL Courtney Lee SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry G Nicolas Batum SF Jeremy Lamb F Norman Powell",NA,"","","",NA
+345,937198726,"deridk (2/2)",0,218.5,"UTIL Courtney Lee SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry F Nicolas Batum SG Jeremy Lamb G Norman Powell",NA,"","","",NA
+345,937279611,"drejohn (10/14)",0,218.5,"PF James Johnson SG Dion Waiters F Kristaps Porzingis C Bam Adebayo G Kyle Lowry UTIL DeMar DeRozan SF Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+348,936847381,"NaeMoe",0,218,"F Courtney Lee SG Tim Hardaway Jr. UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry G Nicolas Batum SF Jeremy Lamb PF Pascal Siakam",NA,"","","",NA
+348,937143525,"ejette198220 (1/2)",0,218,"G Courtney Lee SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG Nicolas Batum F Jeremy Lamb UTIL Pascal Siakam",NA,"","","",NA
+348,937621458,"NYGiant212",0,218,"SF Courtney Lee PF James Johnson PG Goran Dragic F Enes Kanter UTIL Kristaps Porzingis C Bam Adebayo G Kyle Lowry SG Jeremy Lamb",NA,"","","",NA
+351,936894979,"BillyCorp69",0,217.75,"SF Courtney Lee UTIL Goran Dragic C Kristaps Porzingis G Kyle Lowry F DeMar DeRozan SG Jeremy Lamb PG Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+351,937019385,"Mr.geturmoneyup (2/2)",0,217.75,"G Courtney Lee SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry UTIL Nicolas Batum SG Jeremy Lamb F Michael Kidd-Gilchrist",NA,"","","",NA
+351,937031052,"phil83",0,217.75,"SF Courtney Lee G Goran Dragic PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry F Serge Ibaka SG Jeremy Lamb UTIL Norman Powell",NA,"","","",NA
+351,937144748,"RememberSammyJenkins (8/18)",0,217.75,"SG Courtney Lee UTIL Goran Dragic C Kristaps Porzingis G Kyle Lowry F DeMar DeRozan SF Jeremy Lamb PG Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+355,937058053,"forrestkoba (9/20)",0,217.5,"SF Courtney Lee C Kelly Olynyk F Tim Hardaway Jr. UTIL Kristaps Porzingis PG Kyle Lowry SG Nicolas Batum G DeMar DeRozan PF Pascal Siakam",NA,"","","",NA
+355,937058064,"forrestkoba (20/20)",0,217.5,"SG Courtney Lee F James Johnson SF Dion Waiters C Enes Kanter UTIL Kristaps Porzingis PG Kyle Lowry G Nicolas Batum PF Pascal Siakam",NA,"","","",NA
+355,937381864,"Miller1785 (1/2)",0,217.5,"SG Tim Hardaway Jr. F Dion Waiters UTIL Josh Richardson PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Jeremy Lamb G Norman Powell",NA,"","","",NA
+358,936918957,"KyngMufasa (5/7)",0,217.25,"G Tim Hardaway Jr. PF Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard PG Kyle Lowry F Serge Ibaka SG DeMar DeRozan SF Michael Kidd-Gilchrist",NA,"","","",NA
+358,937114900,"Miller421 (2/20)",0,217.25,"SG Tim Hardaway Jr. UTIL Kristaps Porzingis PF Bam Adebayo C Dwight Howard PG Kyle Lowry F Serge Ibaka G DeMar DeRozan SF Michael Kidd-Gilchrist",NA,"","","",NA
+358,937463491,"PowerTron (2/20)",0,217.25,"SF Courtney Lee F James Johnson PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry UTIL Serge Ibaka SG Nicolas Batum G Michael Carter-Williams",NA,"","","",NA
+358,937522041,"sbwolves16 (1/20)",0,217.25,"C Kelly Olynyk G Tim Hardaway Jr. PF Kristaps Porzingis UTIL Bam Adebayo PG Kyle Lowry SF Nicolas Batum SG DeMar DeRozan F Jeremy Lamb",NA,"","","",NA
+358,937522859,"sbwolves16 (17/20)",0,217.25,"G Tim Hardaway Jr. UTIL Enes Kanter PF Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SF Nicolas Batum SG DeMar DeRozan F Norman Powell",NA,"","","",NA
+358,937563293,"NotoriousAD (4/6)",0,217.25,"F James Johnson G Dion Waiters UTIL Enes Kanter PF Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SF Nicolas Batum SG Jeremy Lamb",NA,"","","",NA
+364,937072894,"deenice0033 (3/3)",0,217,"SF Courtney Lee G Goran Dragic SG Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis F Bam Adebayo PG Kyle Lowry UTIL Jeremy Lamb",NA,"","","",NA
+364,937173816,"alexiflorentino (1/2)",0,217,"SG Dion Waiters PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry UTIL Serge Ibaka G Nicolas Batum SF Jeremy Lamb F Norman Powell",NA,"","","",NA
+364,937497633,"cubs4lifebaby",0,217,"UTIL Goran Dragic PF Enes Kanter F Kristaps Porzingis C Bam Adebayo G Kyle Lowry SG DeMar DeRozan SF Michael Kidd-Gilchrist PG Fred VanVleet",NA,"","","",NA
+364,937572113,"themodsquad",0,217,"UTIL Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis F Bam Adebayo G Kyle Lowry SF Jeremy Lamb",NA,"","","",NA
+368,936995055,"jusbelieve88",0,216.75,"PG Jarrett Jack SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard UTIL Marvin Williams G Kyle Lowry F Serge Ibaka SG DeMar DeRozan",NA,"","","",NA
+368,937013033,"squirt9696 (1/5)",0,216.75,"G Jarrett Jack SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard F Marvin Williams PG Kyle Lowry UTIL Serge Ibaka SF DeMar DeRozan",NA,"","","",NA
+368,937248534,"JeffChamplin70",0,216.75,"F Courtney Lee G Goran Dragic PF Kristaps Porzingis C Dwight Howard UTIL Kyle Lowry SG Jeremy Lamb PG Michael Carter-Williams SF Norman Powell",NA,"","","",NA
+368,937522846,"sbwolves16 (4/20)",0,216.75,"SF Tim Hardaway Jr. UTIL Enes Kanter F Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SG Nicolas Batum G DeMar DeRozan PF Pascal Siakam",NA,"","","",NA
+368,937565867,"therich2247 (9/20)",0,216.75,"G Tim Hardaway Jr. UTIL Enes Kanter C Kristaps Porzingis PF Bam Adebayo PG Kyle Lowry SG Nicolas Batum SF DeMar DeRozan F Pascal Siakam",NA,"","","",NA
+368,937605789,"waltdeuce (15/20)",0,216.75,"PG Jarrett Jack SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard UTIL Marvin Williams G Kyle Lowry F Serge Ibaka SF DeMar DeRozan",NA,"","","",NA
+368,937608559,"waltdeuce (20/20)",0,216.75,"G Dion Waiters PF Kristaps Porzingis C Dwight Howard UTIL Marvin Williams PG Kyle Lowry F Serge Ibaka SG Nicolas Batum SF Jeremy Lamb",NA,"","","",NA
+375,936881015,"perilous (7/20)",0,216.5,"G Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis UTIL Bam Adebayo PG Kyle Lowry F Nicolas Batum SG DeMar DeRozan SF Michael Kidd-Gilchrist",NA,"","","",NA
+375,937522852,"sbwolves16 (10/20)",0,216.5,"G Tim Hardaway Jr. UTIL Enes Kanter C Kristaps Porzingis PF Bam Adebayo PG Kyle Lowry F Nicolas Batum SG DeMar DeRozan SF Michael Kidd-Gilchrist",NA,"","","",NA
+377,936354100,"Texas311",0,216.25,"SG Courtney Lee PF James Johnson G Tim Hardaway Jr. UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry F Jeremy Lamb SF Norman Powell",NA,"","","",NA
+377,936855430,"OrangeSwarm5",0,216.25,"SG Tim Hardaway Jr. F Dion Waiters UTIL Enes Kanter PF Kristaps Porzingis C Bam Adebayo PG Kyle Lowry G Nicolas Batum SF Jeremy Lamb",NA,"","","",NA
+377,936874588,"yankeestink",0,216.25,"SF Courtney Lee UTIL James Johnson F Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG Jeremy Lamb G Norman Powell",NA,"","","",NA
+377,936893585,"mclaughlin22",0,216.25,"G Courtney Lee UTIL James Johnson F Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG Jeremy Lamb SF Norman Powell",NA,"","","",NA
+377,937109920,"plytime22",0,216.25,"SF Courtney Lee UTIL James Johnson SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry G Jeremy Lamb F Norman Powell",NA,"","","",NA
+377,937522854,"sbwolves16 (12/20)",0,216.25,"G Tim Hardaway Jr. SG Dion Waiters PF Enes Kanter UTIL Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SF Nicolas Batum F Jeremy Lamb",NA,"","","",NA
+377,937626332,"artXD",0,216.25,"PF James Johnson SG Tim Hardaway Jr. F Enes Kanter C Kristaps Porzingis UTIL Dwight Howard G Kyle Lowry PG Michael Carter-Williams SF Norman Powell",NA,"","","",NA
+384,936957794,"mikecent (3/18)",0,216,"UTIL Jarrett Jack PF James Johnson G Goran Dragic SG Tim Hardaway Jr. SF Dion Waiters F Josh Richardson C Dwight Howard PG Kyle Lowry",NA,"","","",NA
+384,937048989,"FlashTiger21",0,216,"SG Tim Hardaway Jr. SF Dion Waiters F Kristaps Porzingis PF Bam Adebayo C Dwight Howard PG Kyle Lowry UTIL Jeremy Lamb G Michael Carter-Williams",NA,"","","",NA
+384,937326558,"MisterJ5 (20/20)",0,216,"G Jarrett Jack F Tim Hardaway Jr. PF Enes Kanter C Kristaps Porzingis SF Marvin Williams PG Kyle Lowry SG Nicolas Batum UTIL DeMar DeRozan",NA,"","","",NA
+384,937623529,"mrmines (4/4)",0,216,"SG Tim Hardaway Jr. F Dion Waiters PF Kristaps Porzingis C Bam Adebayo UTIL Dwight Howard G Kyle Lowry SF Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+388,936875458,"Dez31 (2/2)",0,215.75,"SG Courtney Lee F James Johnson SF Tim Hardaway Jr. UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry G Jeremy Lamb PF Pascal Siakam",NA,"","","",NA
+388,936946437,"Replacements2021",0,215.75,"SF Courtney Lee PF James Johnson G Tim Hardaway Jr. F Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG Jeremy Lamb UTIL Pascal Siakam",NA,"","","",NA
+388,937030549,"ballsdeep1234 (2/2)",0,215.75,"G Jarrett Jack UTIL Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis PG Kyle Lowry SF Nicolas Batum SG DeMar DeRozan F Pascal Siakam",NA,"","","",NA
+388,937400559,"drejohn (12/14)",0,215.75,"G Courtney Lee F James Johnson SG Tim Hardaway Jr. UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Jeremy Lamb PF Pascal Siakam",NA,"","","",NA
+388,937463496,"PowerTron (7/20)",0,215.75,"SF Courtney Lee F James Johnson SG Tim Hardaway Jr. UTIL Tyler Johnson PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry G Michael Carter-Williams",NA,"","","",NA
+393,936850595,"bratsdad (1/2)",0,215.5,"G Courtney Lee F James Johnson SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Jeremy Lamb UTIL Michael Kidd-Gilchrist",NA,"","","",NA
+393,937058057,"forrestkoba (13/20)",0,215.5,"G Tim Hardaway Jr. PF Enes Kanter F Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard SF Marvin Williams PG Kyle Lowry SG Nicolas Batum",NA,"","","",NA
+393,937426708,"gfay63 (10/20)",0,215.5,"G Jarrett Jack SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan UTIL Michael Carter-Williams F Pascal Siakam",NA,"","","",NA
+393,937454090,"nnam941 (1/3)",0,215.5,"SG Tim Hardaway Jr. F Dion Waiters UTIL Tyler Johnson PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Jeremy Lamb G Norman Powell",NA,"","","",NA
+393,937461849,"nnam941 (2/3)",0,215.5,"SG Tim Hardaway Jr. F Dion Waiters UTIL Tyler Johnson PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Jeremy Lamb G Norman Powell",NA,"","","",NA
+398,937311631,"dmb5810",0,215.25,"SG Courtney Lee F Tim Hardaway Jr. G Dion Waiters PF Kristaps Porzingis C Dwight Howard SF Marvin Williams PG Kyle Lowry UTIL Jonas Valanciunas",NA,"","","",NA
+398,937370520,"pwd9902 (1/2)",0,215.25,"PG Jarrett Jack G Goran Dragic F Enes Kanter C Kristaps Porzingis SF Marvin Williams UTIL Kyle Lowry PF Serge Ibaka SG DeMar DeRozan",NA,"","","",NA
+398,937426710,"gfay63 (12/20)",0,215.25,"G Jarrett Jack SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF DeMar DeRozan F Michael Kidd-Gilchrist UTIL Michael Carter-Williams",NA,"","","",NA
+401,936881022,"perilous (14/20)",0,215,"G Tim Hardaway Jr. UTIL Enes Kanter SG Tyler Johnson PF Kristaps Porzingis C Dwight Howard F Nicolas Batum SF DeMar DeRozan PG Michael Carter-Williams",NA,"","","",NA
+401,936966278,"mpm1279",0,215,"SF Tim Hardaway Jr. UTIL Tyler Johnson PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry F Serge Ibaka SG Nicolas Batum G Jeremy Lamb",NA,"","","",NA
+401,937326547,"MisterJ5 (9/20)",0,215,"F Tim Hardaway Jr. PF Enes Kanter G Tyler Johnson UTIL Kristaps Porzingis C Dwight Howard SF Nicolas Batum SG DeMar DeRozan PG Michael Carter-Williams",NA,"","","",NA
+401,937420774,"agillis5",0,215,"G Tim Hardaway Jr. PG Tyler Johnson PF Kristaps Porzingis C Dwight Howard UTIL Kyle Lowry F Serge Ibaka SF Nicolas Batum SG Jeremy Lamb",NA,"","","",NA
+401,937500587,"chanki01 (9/9)",0,215,"SG Courtney Lee UTIL Tim Hardaway Jr. C Kristaps Porzingis PF Bam Adebayo PG Kyle Lowry F Serge Ibaka G Nicolas Batum SF DeMar DeRozan",NA,"","","",NA
+401,937522855,"sbwolves16 (13/20)",0,215,"F Courtney Lee G Tim Hardaway Jr. UTIL Kristaps Porzingis C Bam Adebayo PG Kyle Lowry PF Serge Ibaka SF Nicolas Batum SG DeMar DeRozan",NA,"","","",NA
+407,937500582,"chanki01 (4/9)",0,214.75,"G Courtney Lee PG Goran Dragic UTIL Dion Waiters F Enes Kanter SG Josh Richardson C Kristaps Porzingis PF Serge Ibaka SF DeMar DeRozan",NA,"","","",NA
+408,937463499,"PowerTron (10/20)",0,214.5,"G Jarrett Jack SG Tim Hardaway Jr. F Enes Kanter PF Kristaps Porzingis C Dwight Howard UTIL Marvin Williams PG Kyle Lowry SF Nicolas Batum",NA,"","","",NA
+408,937498556,"chads1014",0,214.5,"F James Johnson SG Dion Waiters G Tyler Johnson C Kristaps Porzingis PG Kyle Lowry PF Serge Ibaka SF DeMar DeRozan UTIL Jonas Valanciunas",NA,"","","",NA
+410,937326552,"MisterJ5 (14/20)",0,214.25,"F Courtney Lee PG Goran Dragic PF Kelly Olynyk C Kristaps Porzingis SF Marvin Williams G Kyle Lowry UTIL Nicolas Batum SG DeMar DeRozan",NA,"","","",NA
+411,937394424,"alexiflorentino (2/2)",0,214,"C Kelly Olynyk SF Tim Hardaway Jr. SG Dion Waiters PF Kristaps Porzingis F Bam Adebayo UTIL Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+411,937463500,"PowerTron (11/20)",0,214,"SG Tim Hardaway Jr. UTIL Tyler Johnson PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum F Jeremy Lamb G Michael Carter-Williams",NA,"","","",NA
+411,937563366,"NotoriousAD (5/6)",0,214,"F James Johnson G Tim Hardaway Jr. SF Dion Waiters UTIL Enes Kanter PF Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SG Jeremy Lamb",NA,"","","",NA
+414,937114930,"Miller421 (7/20)",0,213.75,"SG Tim Hardaway Jr. UTIL Kristaps Porzingis C Dwight Howard SF Marvin Williams PG Kyle Lowry PF Serge Ibaka G DeMar DeRozan F Michael Kidd-Gilchrist",NA,"","","",NA
+414,937172276,"likenoah (6/20)",0,213.75,"G Jarrett Jack F Kyle O'Quinn SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan UTIL Pascal Siakam",NA,"","","",NA
+414,937172381,"likenoah (7/20)",0,213.75,"G Jarrett Jack F Kyle O'Quinn SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan UTIL Pascal Siakam",NA,"","","",NA
+414,937172417,"likenoah (8/20)",0,213.75,"G Jarrett Jack F Kyle O'Quinn SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan UTIL Pascal Siakam",NA,"","","",NA
+414,937172450,"likenoah (9/20)",0,213.75,"G Jarrett Jack F Kyle O'Quinn SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan UTIL Pascal Siakam",NA,"","","",NA
+414,937172480,"likenoah (10/20)",0,213.75,"G Jarrett Jack F Kyle O'Quinn SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan UTIL Pascal Siakam",NA,"","","",NA
+414,937172502,"likenoah (11/20)",0,213.75,"G Jarrett Jack F Kyle O'Quinn SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan UTIL Pascal Siakam",NA,"","","",NA
+414,937172603,"likenoah (12/20)",0,213.75,"G Jarrett Jack F Kyle O'Quinn SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan UTIL Pascal Siakam",NA,"","","",NA
+414,937172628,"likenoah (13/20)",0,213.75,"G Jarrett Jack F Kyle O'Quinn SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan UTIL Pascal Siakam",NA,"","","",NA
+414,937172651,"likenoah (14/20)",0,213.75,"G Jarrett Jack F Kyle O'Quinn SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan UTIL Pascal Siakam",NA,"","","",NA
+424,936796180,"gmosko",0,213.5,"SF Tim Hardaway Jr. G Dion Waiters PF Kristaps Porzingis C Dwight Howard UTIL Marvin Williams PG Kyle Lowry F Serge Ibaka SG Jeremy Lamb",NA,"","","",NA
+424,937058050,"forrestkoba (6/20)",0,213.5,"SG Courtney Lee G Tim Hardaway Jr. UTIL Kristaps Porzingis F Bam Adebayo C Dwight Howard PG Kyle Lowry PF Serge Ibaka SF Nicolas Batum",NA,"","","",NA
+424,937058063,"forrestkoba (19/20)",0,213.5,"SG Courtney Lee G Tim Hardaway Jr. SF Dion Waiters F Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard PG Kyle Lowry PF Pascal Siakam",NA,"","","",NA
+424,937251037,"jay585 (9/17)",0,213.5,"PG Goran Dragic F Enes Kanter PF Kristaps Porzingis UTIL Bam Adebayo G Kyle Lowry SG DeMar DeRozan C Jonas Valanciunas SF Michael Kidd-Gilchrist",NA,"","","",NA
+428,936816455,"Helen7311",0,213.25,"UTIL Courtney Lee G Goran Dragic SG Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis PG Kyle Lowry SF Jeremy Lamb F Pascal Siakam",NA,"","","",NA
+428,936837179,"Dez31 (1/2)",0,213.25,"G Tim Hardaway Jr. SF Dion Waiters UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry PF Serge Ibaka SG Jeremy Lamb F Pascal Siakam",NA,"","","",NA
+428,937091338,"GingerRedMen (2/2)",0,213.25,"PG Jarrett Jack SG Tim Hardaway Jr. G Dion Waiters UTIL Enes Kanter PF Kristaps Porzingis F Bam Adebayo C Dwight Howard SF DeMar DeRozan",NA,"","","",NA
+428,937112290,"jugernaught (1/2)",0,213.25,"SF Courtney Lee UTIL James Johnson SG Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis G Kyle Lowry F Nicolas Batum PG Michael Carter-Williams",NA,"","","",NA
+428,937310515,"nlevin1908",0,213.25,"F Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. UTIL Enes Kanter C Kristaps Porzingis G Kyle Lowry SF Jeremy Lamb PF Pascal Siakam",NA,"","","",NA
+428,937314237,"castel007",0,213.25,"F Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. UTIL Enes Kanter C Kristaps Porzingis G Kyle Lowry SF Jeremy Lamb PF Pascal Siakam",NA,"","","",NA
+428,937326541,"MisterJ5 (3/20)",0,213.25,"SF Courtney Lee PF James Johnson UTIL Tim Hardaway Jr. F Enes Kanter C Kristaps Porzingis G Kyle Lowry SG Nicolas Batum PG Michael Carter-Williams",NA,"","","",NA
+428,937326546,"MisterJ5 (8/20)",0,213.25,"SG Courtney Lee PG Goran Dragic UTIL Tyler Johnson PF Kristaps Porzingis C Bam Adebayo G Kyle Lowry SF Nicolas Batum F DeMar DeRozan",NA,"","","",NA
+428,937426702,"gfay63 (4/20)",0,213.25,"G Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis F Marvin Williams PG Kyle Lowry SG Nicolas Batum SF DeMar DeRozan UTIL Pascal Siakam",NA,"","","",NA
+428,937468473,"KDplus4",0,213.25,"SF Tim Hardaway Jr. SG Dion Waiters PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry F Serge Ibaka G Jeremy Lamb UTIL Pascal Siakam",NA,"","","",NA
+428,937503503,"adhdginger (2/2)",0,213.25,"SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard G Kyle Lowry SF DeMar DeRozan PG Michael Carter-Williams UTIL Norman Powell F Pascal Siakam",NA,"","","",NA
+428,937505662,"nnam941 (3/3)",0,213.25,"SF Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis PG Kyle Lowry F Nicolas Batum SG DeMar DeRozan UTIL Michael Kidd-Gilchrist G Norman Powell",NA,"","","",NA
+428,937571273,"KerrigansKrunchers",0,213.25,"F Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. UTIL Enes Kanter C Kristaps Porzingis G Kyle Lowry SF Jeremy Lamb PF Pascal Siakam",NA,"","","",NA
+428,937636287,"rneckar",0,213.25,"SG Courtney Lee PG Goran Dragic SF Tim Hardaway Jr. PF Enes Kanter C Kristaps Porzingis G Kyle Lowry UTIL Jeremy Lamb F Pascal Siakam",NA,"","","",NA
+442,936914813,"Ptownbeavers",0,213,"SF Courtney Lee G Goran Dragic F Kelly Olynyk SG Tim Hardaway Jr. PF Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard PG Kyle Lowry",NA,"","","",NA
+442,937160376,"lladnar33",0,213,"SF Tim Hardaway Jr. UTIL Dion Waiters PF Enes Kanter C Kristaps Porzingis PG Kyle Lowry G Nicolas Batum F Jeremy Lamb SG Norman Powell",NA,"","","",NA
+444,937124201,"harmoncm1",0,212.75,"SF Courtney Lee PG Goran Dragic SG Dion Waiters PF Kristaps Porzingis C Dwight Howard G Kyle Lowry UTIL Michael Carter-Williams F Pascal Siakam",NA,"","","",NA
+444,937305332,"woowoo304",0,212.75,"F Tim Hardaway Jr. G Dion Waiters PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG Jeremy Lamb UTIL Michael Carter-Williams SF Norman Powell",NA,"","","",NA
+444,937426699,"gfay63 (1/20)",0,212.75,"G Tim Hardaway Jr. PF Enes Kanter C Kristaps Porzingis PG Kyle Lowry SG Nicolas Batum SF DeMar DeRozan F Michael Kidd-Gilchrist UTIL Pascal Siakam",NA,"","","",NA
+447,937058047,"forrestkoba (3/20)",0,212.5,"SF Courtney Lee F Tim Hardaway Jr. UTIL Kristaps Porzingis PF Bam Adebayo C Dwight Howard G Kyle Lowry SG Nicolas Batum PG Michael Carter-Williams",NA,"","","",NA
+447,937123145,"StretchDogg74",0,212.5,"UTIL Kelly Olynyk SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum G Jeremy Lamb F Norman Powell",NA,"","","",NA
+449,936598177,"Subaruguru74",0,212.25,"UTIL Goran Dragic SG Dion Waiters C Enes Kanter F Kristaps Porzingis PG Kyle Lowry PF Serge Ibaka G Jeremy Lamb SF Norman Powell",NA,"","","",NA
+449,937212241,"darrickbd",0,212.25,"G Courtney Lee SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard SG Nicolas Batum UTIL DeMar DeRozan F Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+449,937321140,"sancho4 (3/3)",0,212.25,"SG Tim Hardaway Jr. PF Kristaps Porzingis UTIL Dwight Howard PG Kyle Lowry C Serge Ibaka SF Nicolas Batum F Jeremy Lamb G Michael Carter-Williams",NA,"","","",NA
+449,937518427,"Sect124 (3/3)",0,212.25,"UTIL Tim Hardaway Jr. F Kristaps Porzingis C Dwight Howard PG Kyle Lowry PF Serge Ibaka SG Nicolas Batum SF Jeremy Lamb G Michael Carter-Williams",NA,"","","",NA
+449,937597485,"waltdeuce (4/20)",0,212.25,"G Courtney Lee SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard F Nicolas Batum SG DeMar DeRozan UTIL Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+454,937058045,"forrestkoba (1/20)",0,212,"F Kelly Olynyk G Tim Hardaway Jr. UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG Nicolas Batum SF Jeremy Lamb PF Pascal Siakam",NA,"","","",NA
+454,937179573,"likenoah (16/20)",0,212,"UTIL James Johnson F Tim Hardaway Jr. C Enes Kanter PG Tyler Johnson PF Kristaps Porzingis G Kyle Lowry SG Nicolas Batum SF Jeremy Lamb",NA,"","","",NA
+454,937557334,"Mrygt330 (1/2)",0,212,"G Tim Hardaway Jr. F Kristaps Porzingis UTIL Dwight Howard PG Kyle Lowry SG DeMar DeRozan C Jonas Valanciunas SF Norman Powell PF Pascal Siakam",NA,"","","",NA
+454,937565860,"therich2247 (2/20)",0,212,"PG Goran Dragic F Enes Kanter UTIL Kristaps Porzingis PF Bam Adebayo C Dwight Howard SF Marvin Williams G Kyle Lowry SG Nicolas Batum",NA,"","","",NA
+458,936951667,"zendorian2012",0,211.75,"G Goran Dragic PF Kyle O'Quinn F Enes Kanter SF Justise Winslow C Kristaps Porzingis PG Kyle Lowry UTIL DeMar DeRozan SG Norman Powell",NA,"","","",NA
+459,937199814,"tombom75",0,211.5,"PG Goran Dragic SG Dion Waiters PF Kristaps Porzingis C Dwight Howard G Kyle Lowry SF Jeremy Lamb F Norman Powell UTIL Fred VanVleet",NA,"","","",NA
+459,937246803,"jay585 (2/17)",0,211.5,"PG Goran Dragic F Enes Kanter PF Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard G Kyle Lowry SG Nicolas Batum SF Michael Kidd-Gilchrist",NA,"","","",NA
+459,937276789,"drejohn (9/14)",0,211.5,"G Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SG DeMar DeRozan UTIL Jeremy Lamb F Norman Powell",NA,"","","",NA
+459,937364107,"ShoeLB50",0,211.5,"G Tim Hardaway Jr. F Dion Waiters PF Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SG DeMar DeRozan UTIL Jeremy Lamb SF Norman Powell",NA,"","","",NA
+459,937490588,"datdude4sho (1/2)",0,211.5,"G Tim Hardaway Jr. SG Dion Waiters C Kristaps Porzingis PF Bam Adebayo PG Kyle Lowry F DeMar DeRozan SF Jeremy Lamb UTIL Norman Powell",NA,"","","",NA
+459,937565861,"therich2247 (3/20)",0,211.5,"PG Goran Dragic F Enes Kanter UTIL Kristaps Porzingis PF Bam Adebayo C Dwight Howard G Kyle Lowry SG Nicolas Batum SF Michael Kidd-Gilchrist",NA,"","","",NA
+459,937632992,"wildwill7985",0,211.5,"SF Courtney Lee UTIL Goran Dragic PF Kristaps Porzingis C Dwight Howard F Serge Ibaka G DeMar DeRozan SG Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+466,937097791,"jeffylube",0,211.25,"F James Johnson UTIL Kelly Olynyk SF Tim Hardaway Jr. C Kristaps Porzingis PG Kyle Lowry SG DeMar DeRozan G Jeremy Lamb PF Pascal Siakam",NA,"","","",NA
+467,936862887,"Ferguson7 (2/2)",0,211,"SF Tim Hardaway Jr. G Dion Waiters PF Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SG DeMar DeRozan UTIL Jeremy Lamb F Pascal Siakam",NA,"","","",NA
+467,937519248,"sloyd1885 (3/3)",0,211,"SF Tim Hardaway Jr. UTIL Dion Waiters PF Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SG DeMar DeRozan G Jeremy Lamb F Pascal Siakam",NA,"","","",NA
+469,936915110,"JSchorr06 (3/4)",0,210.75,"F Courtney Lee SG Tim Hardaway Jr. G Dion Waiters C Kristaps Porzingis PG Kyle Lowry PF Serge Ibaka UTIL Nicolas Batum SF Jeremy Lamb",NA,"","","",NA
+469,936970889,"HogFanTampa",0,210.75,"F Kyle O'Quinn SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis C Dwight Howard UTIL Marvin Williams PG Kyle Lowry G Jeremy Lamb",NA,"","","",NA
+469,937426718,"gfay63 (20/20)",0,210.75,"G Jarrett Jack F James Johnson PF Kelly Olynyk UTIL Tyler Johnson C Kristaps Porzingis PG Kyle Lowry SF Nicolas Batum SG DeMar DeRozan",NA,"","","",NA
+472,936912495,"zazu760",0,210.5,"UTIL James Johnson SG Tim Hardaway Jr. G Dion Waiters C Enes Kanter PF Kristaps Porzingis SF Marvin Williams PG Kyle Lowry F Jeremy Lamb",NA,"","","",NA
+472,937091331,"ewharmby",0,210.5,"F Courtney Lee PG Goran Dragic PF Kristaps Porzingis C Bam Adebayo G Kyle Lowry SF Nicolas Batum SG DeMar DeRozan UTIL Michael Carter-Williams",NA,"","","",NA
+474,937058060,"forrestkoba (16/20)",0,210.25,"SG Courtney Lee PF James Johnson SF Tim Hardaway Jr. UTIL Kristaps Porzingis F Bam Adebayo C Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+474,937122633,"htwonjoe (15/20)",0,210.25,"UTIL Jarrett Jack PF James Johnson PG Goran Dragic F Tim Hardaway Jr. G Dion Waiters C Enes Kanter SF DeMar DeRozan SG Jeremy Lamb",NA,"","","",NA
+474,937136588,"kevmurf77",0,210.25,"UTIL Courtney Lee F Kelly Olynyk SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard SF Nicolas Batum G DeMar DeRozan PG Michael Carter-Williams",NA,"","","",NA
+474,937604853,"waltdeuce (8/20)",0,210.25,"SF Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. F Enes Kanter PF Kristaps Porzingis G Kyle Lowry UTIL Serge Ibaka C Jonas Valanciunas",NA,"","","",NA
+478,937207450,"rimas",0,210,"SG Tim Hardaway Jr. F Dion Waiters PF Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard PG Kyle Lowry G Jeremy Lamb SF Norman Powell",NA,"","","",NA
+478,937426713,"gfay63 (15/20)",0,210,"PG Goran Dragic PF Kelly Olynyk SG Tyler Johnson C Kristaps Porzingis G Kyle Lowry F Nicolas Batum SF DeMar DeRozan UTIL Michael Carter-Williams",NA,"","","",NA
+478,937522861,"sbwolves16 (19/20)",0,210,"F Tim Hardaway Jr. PF Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SF Nicolas Batum UTIL DeMar DeRozan SG Jeremy Lamb G Michael Carter-Williams",NA,"","","",NA
+481,937463497,"PowerTron (8/20)",0,209.75,"SF Courtney Lee F James Johnson PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG Nicolas Batum G Michael Carter-Williams UTIL Pascal Siakam",NA,"","","",NA
+482,936995776,"thisistheyear1 (4/4)",0,209.25,"SF Courtney Lee G Goran Dragic F Kelly Olynyk SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry UTIL Pascal Siakam",NA,"","","",NA
+482,937058061,"forrestkoba (17/20)",0,209.25,"SF Courtney Lee F Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard G Kyle Lowry UTIL Nicolas Batum PG Michael Carter-Williams SG Norman Powell",NA,"","","",NA
+482,937179606,"likenoah (17/20)",0,209.25,"UTIL James Johnson F Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis G Kyle Lowry SG Nicolas Batum SF Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+485,937033480,"gmonrykid25",0,209,"F Courtney Lee UTIL Goran Dragic SF Dion Waiters C Kristaps Porzingis G Kyle Lowry PF Serge Ibaka SG Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+485,937563673,"stevon23",0,209,"G Tim Hardaway Jr. SF Josh Richardson PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG DeMar DeRozan UTIL Jonas Valanciunas F Dwayne Bacon",NA,"","","",NA
+487,937188981,"tripdad2004",0,208.75,"C Kyle O'Quinn SF Tim Hardaway Jr. F Dion Waiters PF Kristaps Porzingis UTIL Kyle Lowry G DeMar DeRozan PG Michael Carter-Williams SG Malik Monk",NA,"","","",NA
+487,937197926,"cwagg22",0,208.75,"G Jarrett Jack SG Courtney Lee PG Goran Dragic SF Dion Waiters PF Kristaps Porzingis C Dwight Howard UTIL Kyle Lowry F Michael Kidd-Gilchrist",NA,"","","",NA
+487,937252418,"Sandman2442",0,208.75,"SF Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. F Enes Kanter UTIL Tyler Johnson PF Kristaps Porzingis C Dwight Howard G Jeremy Lamb",NA,"","","",NA
+490,936970700,"romansmom92 (3/3)",0,208.5,"G Jarrett Jack SF Tim Hardaway Jr. F Enes Kanter PF Kristaps Porzingis C Dwight Howard UTIL Nicolas Batum SG DeMar DeRozan PG Michael Carter-Williams",NA,"","","",NA
+490,937030099,"ollar23",0,208.5,"F Courtney Lee PF James Johnson SF Tim Hardaway Jr. SG Dion Waiters C Kristaps Porzingis PG Kyle Lowry UTIL Serge Ibaka G Jeremy Lamb",NA,"","","",NA
+490,937181713,"jonesdrew24",0,208.5,"G Courtney Lee C Hassan Whiteside SG Josh Richardson PF Kristaps Porzingis UTIL Dwight Howard PG Kyle Lowry F Jeremy Lamb SF Norman Powell",NA,"","","",NA
+490,937215165,"mrussell1982",0,208.5,"G Jarrett Jack SF Tim Hardaway Jr. F Enes Kanter PF Kristaps Porzingis C Dwight Howard UTIL Nicolas Batum SG DeMar DeRozan PG Michael Carter-Williams",NA,"","","",NA
+490,937270450,"cbaker30",0,208.5,"SG Courtney Lee PF James Johnson G Tim Hardaway Jr. F Dion Waiters C Kristaps Porzingis PG Kyle Lowry UTIL Serge Ibaka SF Jeremy Lamb",NA,"","","",NA
+490,937600194,"saints1102",0,208.5,"G Courtney Lee F James Johnson SG Tim Hardaway Jr. PF Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard PG Kyle Lowry SF Nicolas Batum",NA,"","","",NA
+496,937565862,"therich2247 (4/20)",0,208.25,"PG Goran Dragic UTIL Enes Kanter C Kristaps Porzingis PF Bam Adebayo G Kyle Lowry SG DeMar DeRozan SF Michael Kidd-Gilchrist F Pascal Siakam",NA,"","","",NA
+497,936881012,"perilous (4/20)",0,208,"G Goran Dragic UTIL Enes Kanter F Kristaps Porzingis C Dwight Howard PF Marvin Williams PG Kyle Lowry SG Nicolas Batum SF Michael Kidd-Gilchrist",NA,"","","",NA
+498,937136130,"RememberSammyJenkins (5/18)",0,207.75,"PF James Johnson SF Tim Hardaway Jr. F Dion Waiters PG Tyler Johnson C Kristaps Porzingis UTIL Dwight Howard G Kyle Lowry SG Malik Monk",NA,"","","",NA
+498,937595578,"paksidoodles",0,207.75,"F James Johnson SG Tim Hardaway Jr. PF Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SF DeMar DeRozan UTIL Jeremy Lamb G Michael Carter-Williams",NA,"","","",NA
+500,937606170,"uku16 (2/3)",0,207.25,"UTIL Goran Dragic PF Kelly Olynyk SF Tim Hardaway Jr. SG Josh Richardson F Kristaps Porzingis C Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+501,936881021,"perilous (13/20)",0,207,"F Courtney Lee G Goran Dragic C Kristaps Porzingis PF Marvin Williams PG Kyle Lowry SF Nicolas Batum SG DeMar DeRozan UTIL Michael Carter-Williams",NA,"","","",NA
+501,937247739,"jay585 (6/17)",0,207,"SF Courtney Lee PF James Johnson PG Goran Dragic UTIL Enes Kanter C Kristaps Porzingis F Bam Adebayo G Kyle Lowry SG Nicolas Batum",NA,"","","",NA
+501,937380909,"sasha1022",0,207,"SG Courtney Lee G Goran Dragic C Kristaps Porzingis PF Marvin Williams PG Kyle Lowry SF Nicolas Batum F DeMar DeRozan UTIL Michael Carter-Williams",NA,"","","",NA
+504,936881028,"perilous (20/20)",0,206.75,"SF Courtney Lee G Goran Dragic PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry UTIL Serge Ibaka SG Nicolas Batum F Norman Powell",NA,"","","",NA
+505,937123532,"Miller421 (14/20)",0,206.5,"PG Goran Dragic UTIL Kristaps Porzingis PF Bam Adebayo C Dwight Howard SF Marvin Williams G Kyle Lowry SG DeMar DeRozan F Michael Kidd-Gilchrist",NA,"","","",NA
+505,937326543,"MisterJ5 (5/20)",0,206.5,"F Wayne Ellington SG Tim Hardaway Jr. UTIL Kristaps Porzingis C Dwight Howard G Kyle Lowry SF DeMar DeRozan PG Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+507,937110925,"natedzfsu",0,206.25,"PG Jarrett Jack F James Johnson SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard G Kyle Lowry UTIL Serge Ibaka SF Jeremy Lamb",NA,"","","",NA
+507,937604241,"JoSaint (2/2)",0,206.25,"SG Tim Hardaway Jr. SF Dion Waiters C Kristaps Porzingis UTIL Dwight Howard PG Kyle Lowry G Jeremy Lamb F Norman Powell PF Pascal Siakam",NA,"","","",NA
+509,936836248,"charlievictor",0,206,"SF Wayne Ellington UTIL Tim Hardaway Jr. F Dion Waiters PF Kristaps Porzingis C Dwight Howard G Kyle Lowry SG Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+509,937038342,"pewterpants",0,206,"G Goran Dragic SF Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard PG Kyle Lowry SG Jeremy Lamb UTIL Pascal Siakam",NA,"","","",NA
+509,937115431,"drejohn (3/14)",0,206,"UTIL Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis G Kyle Lowry C Serge Ibaka F DeMar DeRozan PG Michael Carter-Williams SG Norman Powell",NA,"","","",NA
+509,937286571,"Mansoor77",0,206,"G Goran Dragic SG Dion Waiters F Kristaps Porzingis PF Bam Adebayo C Dwight Howard PG Kyle Lowry SF Jeremy Lamb UTIL Pascal Siakam",NA,"","","",NA
+509,937610734,"xtreme123 (1/5)",0,206,"SF Courtney Lee G Goran Dragic UTIL Tim Hardaway Jr. PF Enes Kanter F Kristaps Porzingis C Dwight Howard SG Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+514,936994542,"ladyfingers",0,205.75,"SF Tim Hardaway Jr. C Kristaps Porzingis UTIL Dwight Howard PG Kyle Lowry PF Serge Ibaka SG Nicolas Batum G Jeremy Lamb F Pascal Siakam",NA,"","","",NA
+514,937004900,"cnuke78",0,205.75,"SF Courtney Lee G Goran Dragic SG Tim Hardaway Jr. PF Kristaps Porzingis F Bam Adebayo C Dwight Howard UTIL Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+514,937327722,"zackreinholtz95",0,205.75,"SG Courtney Lee G Goran Dragic SF Tim Hardaway Jr. PF Kristaps Porzingis F Bam Adebayo C Dwight Howard UTIL Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+514,937602982,"draftastic27",0,205.75,"SF Courtney Lee UTIL James Johnson C Kyle O'Quinn G Tim Hardaway Jr. F Dion Waiters PF Kristaps Porzingis PG Kyle Lowry SG Jeremy Lamb",NA,"","","",NA
+518,936831113,"pkkp12 (1/2)",0,205.5,"G Courtney Lee PG Goran Dragic C Kelly Olynyk SF Tim Hardaway Jr. PF Kristaps Porzingis UTIL Kyle Lowry F Serge Ibaka SG Jeremy Lamb",NA,"","","",NA
+518,936831410,"pkkp12 (2/2)",0,205.5,"G Courtney Lee PG Goran Dragic C Kelly Olynyk SF Tim Hardaway Jr. PF Kristaps Porzingis UTIL Kyle Lowry F Serge Ibaka SG Jeremy Lamb",NA,"","","",NA
+518,937531358,"larrywatters",0,205.5,"UTIL Courtney Lee PG Goran Dragic C Kelly Olynyk SG Tim Hardaway Jr. F Kristaps Porzingis G Kyle Lowry PF Serge Ibaka SF Jeremy Lamb",NA,"","","",NA
+521,937265017,"enzell",0,205.25,"SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry G Nicolas Batum SF Jeremy Lamb UTIL Michael Carter-Williams F Norman Powell",NA,"","","",NA
+521,937463507,"PowerTron (18/20)",0,205.25,"F James Johnson UTIL Kelly Olynyk SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum G Michael Carter-Williams",NA,"","","",NA
+523,936850724,"myheather1210",0,205,"SG Courtney Lee UTIL Goran Dragic SF Tim Hardaway Jr. G Tyler Johnson PF Kristaps Porzingis C Dwight Howard F Marvin Williams PG Kyle Lowry",NA,"","","",NA
+523,936881027,"perilous (19/20)",0,205,"F Courtney Lee PF James Johnson SG Tim Hardaway Jr. UTIL Kristaps Porzingis C Dwight Howard SF Marvin Williams PG Kyle Lowry G Nicolas Batum",NA,"","","",NA
+523,936883703,"Tnvols1972 (2/3)",0,205,"SF Tim Hardaway Jr. SG Dion Waiters PF Kristaps Porzingis C Bam Adebayo UTIL Dwight Howard PG Kyle Lowry F Nicolas Batum G Michael Carter-Williams",NA,"","","",NA
+523,937122629,"htwonjoe (11/20)",0,205,"SG Courtney Lee PF James Johnson PG Goran Dragic UTIL Enes Kanter G Josh Richardson C Kristaps Porzingis F Serge Ibaka SF DeMar DeRozan",NA,"","","",NA
+527,937155239,"Reese219",0,204.75,"SF Courtney Lee UTIL James Johnson G Tim Hardaway Jr. SG Dion Waiters PF Kristaps Porzingis C Bam Adebayo PG Kyle Lowry F Jeremy Lamb",NA,"","","",NA
+527,937361443,"drejohn (11/14)",0,204.75,"G Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. C Enes Kanter F Kristaps Porzingis PF Bam Adebayo UTIL DeMar DeRozan SF Jeremy Lamb",NA,"","","",NA
+527,937432617,"BosnianBlood (1/20)",0,204.75,"G Jarrett Jack SG Courtney Lee UTIL James Johnson PG Goran Dragic PF Enes Kanter C Kristaps Porzingis F DeMar DeRozan SF Jeremy Lamb",NA,"","","",NA
+527,937537564,"JuniorJV",0,204.75,"F Courtney Lee PG Goran Dragic C Enes Kanter PF Kristaps Porzingis UTIL Nicolas Batum SG DeMar DeRozan G Jeremy Lamb SF Norman Powell",NA,"","","",NA
+531,937122638,"htwonjoe (20/20)",0,204.5,"PG Goran Dragic G Tim Hardaway Jr. C Enes Kanter F Kristaps Porzingis PF Serge Ibaka SG DeMar DeRozan SF Jeremy Lamb UTIL Frank Kaminsky",NA,"","","",NA
+531,937251076,"jay585 (10/17)",0,204.5,"UTIL Courtney Lee G Goran Dragic PF Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SF Nicolas Batum SG DeMar DeRozan F Norman Powell",NA,"","","",NA
+533,936968922,"mannyz1",0,204.25,"PF James Johnson SG Tim Hardaway Jr. PG Tyler Johnson SF Josh Richardson C Kristaps Porzingis UTIL Dwight Howard G DeMar DeRozan F Jeremy Lamb",NA,"","","",NA
+533,937347662,"ski1990 (6/8)",0,204.25,"PF James Johnson PG Goran Dragic SG Dion Waiters UTIL Bam Adebayo C Dwight Howard F Serge Ibaka SF Nicolas Batum G DeMar DeRozan",NA,"","","",NA
+535,936881020,"perilous (12/20)",0,204,"SF Tim Hardaway Jr. G Dion Waiters SG Tyler Johnson UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry F Nicolas Batum PF Pascal Siakam",NA,"","","",NA
+535,937564192,"ShortyMac (2/4)",0,204,"PF James Johnson SG Tim Hardaway Jr. C Kristaps Porzingis PG Kyle Lowry G DeMar DeRozan SF Jeremy Lamb UTIL Michael Carter-Williams F Pascal Siakam",NA,"","","",NA
+537,937216872,"jurob58",0,203.75,"SG Courtney Lee C Hassan Whiteside G Dion Waiters F Enes Kanter PF Kristaps Porzingis UTIL Dwight Howard SF Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+537,937326540,"MisterJ5 (2/20)",0,203.75,"PF James Johnson F Kelly Olynyk G Dion Waiters UTIL Kristaps Porzingis C Dwight Howard SG Nicolas Batum SF DeMar DeRozan PG Michael Carter-Williams",NA,"","","",NA
+537,937326542,"MisterJ5 (4/20)",0,203.75,"UTIL Tim Hardaway Jr. SG Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard SF DeMar DeRozan G Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+537,937409576,"willdmd70 (4/4)",0,203.75,"SG Tim Hardaway Jr. G Dion Waiters PF Kristaps Porzingis F Bam Adebayo UTIL Dwight Howard PG Kyle Lowry SF Nicolas Batum C Jonas Valanciunas",NA,"","","",NA
+541,936864116,"UglyWin",0,203.5,"PF Kyle O'Quinn SF Tim Hardaway Jr. C Kristaps Porzingis UTIL Dwight Howard PG Kyle Lowry F Nicolas Batum SG Jeremy Lamb G Norman Powell",NA,"","","",NA
+541,937089601,"Nycsourdiesel",0,203.5,"SF Courtney Lee PF James Johnson UTIL Goran Dragic F Kristaps Porzingis C Dwight Howard G Kyle Lowry PG Michael Carter-Williams SG Norman Powell",NA,"","","",NA
+541,937522857,"sbwolves16 (15/20)",0,203.5,"G Tim Hardaway Jr. UTIL Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SF Nicolas Batum F DeMar DeRozan SG Jeremy Lamb PF Pascal Siakam",NA,"","","",NA
+544,937058052,"forrestkoba (8/20)",0,203.25,"F Tim Hardaway Jr. SG Dion Waiters UTIL Enes Kanter C Kristaps Porzingis G Kyle Lowry SF Nicolas Batum PG Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+545,937235805,"jer4940",0,203,"UTIL Jarrett Jack F Courtney Lee PG Goran Dragic C Kristaps Porzingis G Kyle Lowry SG Nicolas Batum SF DeMar DeRozan PF Pascal Siakam",NA,"","","",NA
+545,937439431,"BosnianBlood (18/20)",0,203,"UTIL James Johnson SF Tim Hardaway Jr. SG Dion Waiters PF Enes Kanter F Kristaps Porzingis C Dwight Howard G Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+545,937567435,"peschi41",0,203,"PF James Johnson SG Tim Hardaway Jr. G Dion Waiters F Enes Kanter C Kristaps Porzingis UTIL Dwight Howard SF Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+548,937058058,"forrestkoba (14/20)",0,202.75,"SF Courtney Lee G Tim Hardaway Jr. UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry F Nicolas Batum SG Norman Powell PF Pascal Siakam",NA,"","","",NA
+548,937495865,"DanDePo (1/20)",0,202.75,"UTIL James Johnson SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+548,937495866,"DanDePo (2/20)",0,202.75,"UTIL James Johnson SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+548,937495867,"DanDePo (3/20)",0,202.75,"UTIL James Johnson SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+548,937495868,"DanDePo (4/20)",0,202.75,"UTIL James Johnson SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+548,937495869,"DanDePo (5/20)",0,202.75,"UTIL James Johnson SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+548,937495870,"DanDePo (6/20)",0,202.75,"UTIL James Johnson SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+548,937495871,"DanDePo (7/20)",0,202.75,"UTIL James Johnson SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+548,937495872,"DanDePo (8/20)",0,202.75,"UTIL James Johnson SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+548,937495873,"DanDePo (9/20)",0,202.75,"UTIL James Johnson SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+548,937495874,"DanDePo (10/20)",0,202.75,"UTIL James Johnson SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+548,937495875,"DanDePo (11/20)",0,202.75,"UTIL James Johnson SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+548,937495876,"DanDePo (12/20)",0,202.75,"UTIL James Johnson SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+548,937495877,"DanDePo (13/20)",0,202.75,"UTIL James Johnson SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+548,937495878,"DanDePo (14/20)",0,202.75,"UTIL James Johnson SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+548,937495879,"DanDePo (15/20)",0,202.75,"UTIL James Johnson SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+548,937495880,"DanDePo (16/20)",0,202.75,"UTIL James Johnson SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+548,937495881,"DanDePo (17/20)",0,202.75,"UTIL James Johnson SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+548,937495882,"DanDePo (18/20)",0,202.75,"UTIL James Johnson SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+548,937495883,"DanDePo (19/20)",0,202.75,"UTIL James Johnson SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+548,937495884,"DanDePo (20/20)",0,202.75,"UTIL James Johnson SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+548,937564194,"ShortyMac (4/4)",0,202.75,"UTIL James Johnson SG Tim Hardaway Jr. SF Dion Waiters F Kristaps Porzingis PF Bam Adebayo C Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+548,937636659,"BAMBAM9001",0,202.75,"F James Johnson SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis C Bam Adebayo UTIL Dwight Howard PG Kyle Lowry G Michael Carter-Williams",NA,"","","",NA
+571,936921325,"TAlex21 (3/4)",0,202,"SF Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard UTIL Kyle Lowry G Michael Carter-Williams F Pascal Siakam",NA,"","","",NA
+571,937018595,"Cmasakayan",0,202,"G Courtney Lee F Kyle O'Quinn UTIL Hassan Whiteside PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Jeremy Lamb SG Norman Powell",NA,"","","",NA
+571,937104563,"snippinhammer",0,202,"SF Courtney Lee UTIL Goran Dragic SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard G Kyle Lowry PG Michael Carter-Williams F Pascal Siakam",NA,"","","",NA
+571,937104724,"DjCas1991",0,202,"SG Courtney Lee G Goran Dragic SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry UTIL Michael Carter-Williams F Pascal Siakam",NA,"","","",NA
+571,937301045,"jaydog27",0,202,"SF Courtney Lee G Goran Dragic SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard UTIL Kyle Lowry PG Michael Carter-Williams F Pascal Siakam",NA,"","","",NA
+571,937487064,"FalconsFan1985",0,202,"SF Courtney Lee UTIL Goran Dragic SG Tim Hardaway Jr. F Kristaps Porzingis C Dwight Howard G Kyle Lowry PG Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+577,936912092,"KyngMufasa (3/7)",0,201.5,"G Goran Dragic UTIL Josh Richardson SF Justise Winslow PF Kristaps Porzingis PG Kyle Lowry F Serge Ibaka SG DeMar DeRozan C Jonas Valanciunas",NA,"","","",NA
+577,937519525,"jstocks7388",0,201.5,"F Courtney Lee PF James Johnson PG Goran Dragic UTIL Tim Hardaway Jr. SG Dion Waiters C Dwight Howard G Nicolas Batum SF Jeremy Lamb",NA,"","","",NA
+579,937006218,"jconn67",0,201.25,"UTIL Jarrett Jack F James Johnson G Goran Dragic PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Jeremy Lamb SG Malik Monk",NA,"","","",NA
+579,937037525,"mikecent (10/18)",0,201.25,"UTIL Goran Dragic F Kristaps Porzingis C Dwight Howard G Kyle Lowry SG Nicolas Batum SF Jeremy Lamb PG Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+579,937044836,"mikecent (12/18)",0,201.25,"UTIL Goran Dragic F Kristaps Porzingis C Dwight Howard G Kyle Lowry SG Nicolas Batum SF Jeremy Lamb PG Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+579,937426703,"gfay63 (5/20)",0,201.25,"G Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SG Nicolas Batum UTIL Michael Carter-Williams F Pascal Siakam",NA,"","","",NA
+579,937463509,"PowerTron (20/20)",0,201.25,"SG Tim Hardaway Jr. UTIL Dion Waiters PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum G Michael Carter-Williams F Pascal Siakam",NA,"","","",NA
+579,937564193,"ShortyMac (3/4)",0,201.25,"F Courtney Lee UTIL James Johnson G Goran Dragic SG Dion Waiters PF Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SF Jeremy Lamb",NA,"","","",NA
+585,936979524,"ODAAT",0,201,"F Courtney Lee PF James Johnson SG Tim Hardaway Jr. G Dion Waiters C Kristaps Porzingis PG Kyle Lowry SF Jeremy Lamb UTIL Pascal Siakam",NA,"","","",NA
+585,937463498,"PowerTron (9/20)",0,201,"G Jarrett Jack SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum UTIL Jeremy Lamb F Pascal Siakam",NA,"","","",NA
+585,937560991,"5ick5",0,201,"UTIL Courtney Lee F James Johnson SG Tim Hardaway Jr. PF Kristaps Porzingis PG Kyle Lowry C Serge Ibaka SF Nicolas Batum G Jeremy Lamb",NA,"","","",NA
+588,937033221,"pabloescobar301 (2/4)",0,200.75,"PG Goran Dragic SF Josh Richardson F Kristaps Porzingis PF Bam Adebayo G Kyle Lowry UTIL Nicolas Batum SG DeMar DeRozan C Jonas Valanciunas",NA,"","","",NA
+588,937204968,"gohanisrce77",0,200.75,"G Courtney Lee C Hassan Whiteside SG Dion Waiters UTIL Josh Richardson PF Kristaps Porzingis PG Kyle Lowry F Serge Ibaka SF Jeremy Lamb",NA,"","","",NA
+590,937124626,"dashiznit187",0,200.5,"G Goran Dragic SG Tim Hardaway Jr. F Kristaps Porzingis C Dwight Howard PF Marvin Williams PG Kyle Lowry SF Jeremy Lamb UTIL Fred VanVleet",NA,"","","",NA
+590,937285559,"gqdaddy38",0,200.5,"G Goran Dragic SG Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis PG Kyle Lowry SF Jeremy Lamb UTIL Michael Carter-Williams F Norman Powell",NA,"","","",NA
+592,937082071,"johnnyepps",0,200.25,"G Goran Dragic SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Jeremy Lamb UTIL Fred VanVleet F Pascal Siakam",NA,"","","",NA
+592,937463490,"PowerTron (1/20)",0,200.25,"F James Johnson SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum G Michael Carter-Williams UTIL Fred VanVleet",NA,"","","",NA
+592,937629677,"S4fuzz",0,200.25,"PG Goran Dragic SF Justise Winslow PF Kristaps Porzingis C Bam Adebayo UTIL Dwight Howard G Kyle Lowry SG Nicolas Batum F Jeremy Lamb",NA,"","","",NA
+595,937173148,"aconley (1/2)",0,200,"F Courtney Lee PG Goran Dragic G Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis UTIL Dwight Howard SF Jeremy Lamb SG Norman Powell",NA,"","","",NA
+595,937426705,"gfay63 (7/20)",0,200,"G Tim Hardaway Jr. UTIL Dion Waiters PF Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SF Nicolas Batum SG DeMar DeRozan F Pascal Siakam",NA,"","","",NA
+595,937522844,"sbwolves16 (2/20)",0,200,"F Tim Hardaway Jr. SF Dion Waiters UTIL Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SG Nicolas Batum G DeMar DeRozan PF Pascal Siakam",NA,"","","",NA
+595,937522856,"sbwolves16 (14/20)",0,200,"PG Goran Dragic C Kelly Olynyk SG Tim Hardaway Jr. PF Enes Kanter F Kristaps Porzingis UTIL Bam Adebayo G Kyle Lowry SF Nicolas Batum",NA,"","","",NA
+595,937614500,"adrianjeromeoy",0,200,"SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard UTIL Serge Ibaka G Nicolas Batum SG DeMar DeRozan F Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+600,936887758,"comeforyall",0,199.75,"F Courtney Lee SF Wayne Ellington C Hassan Whiteside G Tyler Johnson PF Kristaps Porzingis UTIL Dwight Howard PG Kyle Lowry SG Jeremy Lamb",NA,"","","",NA
+600,937058049,"forrestkoba (5/20)",0,199.75,"SG Courtney Lee F James Johnson G Tim Hardaway Jr. UTIL Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Michael Kidd-Gilchrist PF Pascal Siakam",NA,"","","",NA
+600,937165598,"itzallaboutdapesos (3/3)",0,199.75,"F Tim Hardaway Jr. UTIL Dion Waiters PF Kristaps Porzingis C Dwight Howard SG DeMar DeRozan G Jeremy Lamb SF Michael Kidd-Gilchrist PG Michael Carter-Williams",NA,"","","",NA
+600,937242120,"nicktone88246 (8/10)",0,199.75,"G Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. SF Dion Waiters C Enes Kanter PF Kristaps Porzingis F Bam Adebayo UTIL Dwight Howard",NA,"","","",NA
+600,937597217,"waltdeuce (2/20)",0,199.75,"G Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. SF Dion Waiters UTIL Enes Kanter PF Kristaps Porzingis F Bam Adebayo C Dwight Howard",NA,"","","",NA
+600,937605028,"waltdeuce (10/20)",0,199.75,"G Courtney Lee PG Goran Dragic SF Tim Hardaway Jr. SG Dion Waiters F Enes Kanter PF Kristaps Porzingis C Bam Adebayo UTIL Dwight Howard",NA,"","","",NA
+606,937463494,"PowerTron (5/20)",0,199.5,"G Courtney Lee F James Johnson SG Tim Hardaway Jr. UTIL Enes Kanter PF Kristaps Porzingis C Dwight Howard SF Nicolas Batum PG Michael Carter-Williams",NA,"","","",NA
+607,936898844,"dyoboy69",0,199.25,"SF Courtney Lee G Goran Dragic SG Tim Hardaway Jr. C Kristaps Porzingis F Bam Adebayo UTIL Dwight Howard PG Kyle Lowry PF Pascal Siakam",NA,"","","",NA
+607,937180191,"EasyDaysPay (1/3)",0,199.25,"G Goran Dragic SG Dion Waiters F Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Jeremy Lamb UTIL Cody Zeller PF Pascal Siakam",NA,"","","",NA
+607,937246737,"jay585 (1/17)",0,199.25,"PG Goran Dragic F Enes Kanter PF Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard G Nicolas Batum SG DeMar DeRozan SF Michael Kidd-Gilchrist",NA,"","","",NA
+607,937580032,"sucram22",0,199.25,"SF Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. PF Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard G Kyle Lowry F Pascal Siakam",NA,"","","",NA
+611,937326550,"MisterJ5 (12/20)",0,198.75,"SF Courtney Lee PF James Johnson F Tim Hardaway Jr. UTIL Kristaps Porzingis PG Kyle Lowry SG Nicolas Batum G Jeremy Lamb C Jonas Valanciunas",NA,"","","",NA
+612,937554963,"jcelestin22",0,198.5,"G Goran Dragic SG Tim Hardaway Jr. PF Enes Kanter C Kristaps Porzingis PG Kyle Lowry SF Jeremy Lamb UTIL Jonas Valanciunas F Michael Kidd-Gilchrist",NA,"","","",NA
+613,936952544,"rjeremy7",0,198.25,"UTIL Jarrett Jack SF Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. F Kristaps Porzingis C Dwight Howard G Kyle Lowry PF Pascal Siakam",NA,"","","",NA
+613,937439489,"BosnianBlood (20/20)",0,198.25,"UTIL Jarrett Jack SF Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard G Kyle Lowry F Pascal Siakam",NA,"","","",NA
+615,937631707,"Timmyericka416",0,198,"SF Courtney Lee UTIL James Johnson F Tim Hardaway Jr. G Dion Waiters PF Kristaps Porzingis PG Kyle Lowry SG Jeremy Lamb C Cody Zeller",NA,"","","",NA
+616,937179870,"likenoah (18/20)",0,197,"UTIL James Johnson F Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis SG Nicolas Batum G DeMar DeRozan SF Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+616,937277493,"mikecent (17/18)",0,197,"G Jarrett Jack C Hassan Whiteside SG Tyler Johnson PF Kristaps Porzingis UTIL Kyle Lowry SF DeMar DeRozan F Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+616,937426716,"gfay63 (18/20)",0,197,"PF James Johnson F Dion Waiters C Kristaps Porzingis PG Kyle Lowry G Nicolas Batum SG DeMar DeRozan SF Michael Kidd-Gilchrist UTIL Pascal Siakam",NA,"","","",NA
+616,937605572,"waltdeuce (14/20)",0,197,"SF Tim Hardaway Jr. PF Kristaps Porzingis UTIL Marvin Williams PG Kyle Lowry F Serge Ibaka G Nicolas Batum SG DeMar DeRozan C Jonas Valanciunas",NA,"","","",NA
+616,937646227,"Hoddle2.0",0,197,"F Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. PF Kristaps Porzingis G Kyle Lowry C Serge Ibaka SF Jeremy Lamb UTIL Jonas Valanciunas",NA,"","","",NA
+621,937144846,"RememberSammyJenkins (11/18)",0,196.75,"PF James Johnson PG Goran Dragic SF Tim Hardaway Jr. F Dion Waiters C Dwight Howard UTIL DeMar DeRozan G Michael Carter-Williams SG Norman Powell",NA,"","","",NA
+621,937435828,"grimegc80",0,196.75,"UTIL Courtney Lee PG Goran Dragic SF Dion Waiters PF Kristaps Porzingis G Kyle Lowry F Serge Ibaka SG Nicolas Batum C Jonas Valanciunas",NA,"","","",NA
+621,937466213,"watsonM (2/3)",0,196.75,"SG Courtney Lee PG Goran Dragic SF Dion Waiters F Kristaps Porzingis G Kyle Lowry PF Serge Ibaka UTIL Nicolas Batum C Jonas Valanciunas",NA,"","","",NA
+621,937467845,"bobbyb2",0,196.75,"PG Goran Dragic PF Kyle O'Quinn SG Dion Waiters F Kristaps Porzingis UTIL Dwight Howard SF Marvin Williams G Kyle Lowry C Jonas Valanciunas",NA,"","","",NA
+625,937172148,"likenoah (5/20)",0,196.5,"PG Goran Dragic F Kelly Olynyk SG Tim Hardaway Jr. SF Dion Waiters PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard G Michael Carter-Williams",NA,"","","",NA
+625,937644615,"crashep",0,196.5,"PG Jarrett Jack UTIL Goran Dragic SG Tim Hardaway Jr. SF Dion Waiters C Enes Kanter PF Kristaps Porzingis F Bam Adebayo G Kyle Lowry",NA,"","","",NA
+627,937426712,"gfay63 (14/20)",0,196.25,"PG Goran Dragic SG Tyler Johnson C Kristaps Porzingis G Kyle Lowry F Nicolas Batum SF DeMar DeRozan UTIL Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+628,937165580,"gamblers444",0,196,"G Courtney Lee UTIL Goran Dragic SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Norman Powell F Pascal Siakam",NA,"","","",NA
+628,937181174,"JJWATTSUP",0,196,"SG Courtney Lee F James Johnson PG Goran Dragic C Enes Kanter PF Kristaps Porzingis UTIL Dwight Howard SF Nicolas Batum G Michael Carter-Williams",NA,"","","",NA
+630,937145757,"ericdwman1",0,195.75,"SG Courtney Lee G Goran Dragic SF Tim Hardaway Jr. C Kristaps Porzingis UTIL Dwight Howard PF Marvin Williams PG Kyle Lowry F Pascal Siakam",NA,"","","",NA
+630,937165876,"jeffd22",0,195.75,"UTIL Courtney Lee G Goran Dragic SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry F Michael Kidd-Gilchrist SG Norman Powell",NA,"","","",NA
+632,937042066,"slippman",0,195.5,"G Goran Dragic SG Tim Hardaway Jr. C Kristaps Porzingis F Bam Adebayo UTIL Dwight Howard PF Marvin Williams PG Kyle Lowry SF Jeremy Lamb",NA,"","","",NA
+632,937161751,"ThaGuz08",0,195.5,"G Goran Dragic SG Tim Hardaway Jr. PF Kristaps Porzingis F Bam Adebayo C Dwight Howard UTIL Marvin Williams PG Kyle Lowry SF Jeremy Lamb",NA,"","","",NA
+632,937165594,"itzallaboutdapesos (2/3)",0,195.5,"F James Johnson PG Goran Dragic PF Kristaps Porzingis C Dwight Howard SG DeMar DeRozan SF Jeremy Lamb G Michael Carter-Williams UTIL Fred VanVleet",NA,"","","",NA
+632,937350500,"ski1990 (8/8)",0,195.5,"UTIL Goran Dragic SG Tim Hardaway Jr. F Kristaps Porzingis PF Bam Adebayo C Dwight Howard SF Marvin Williams PG Kyle Lowry G Jeremy Lamb",NA,"","","",NA
+632,937508957,"Erntropolis (1/3)",0,195.5,"G Courtney Lee PG Goran Dragic PF Kristaps Porzingis UTIL Kyle Lowry C Serge Ibaka SG Nicolas Batum SF Jeremy Lamb F Norman Powell",NA,"","","",NA
+632,937586118,"lakeforest78",0,195.5,"F Courtney Lee PG Goran Dragic C Kyle O'Quinn SF Tim Hardaway Jr. PF Kristaps Porzingis UTIL Kyle Lowry SG Jeremy Lamb G Michael Carter-Williams",NA,"","","",NA
+638,937135848,"drejohn (5/14)",0,195.25,"F Courtney Lee PF James Johnson UTIL Tim Hardaway Jr. SF Dion Waiters C Kristaps Porzingis SG DeMar DeRozan G Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+639,937618734,"xtreme123 (5/5)",0,195,"G Goran Dragic PF Kyle O'Quinn F Kristaps Porzingis C Dwight Howard PG Kyle Lowry UTIL Jeremy Lamb SF Michael Kidd-Gilchrist SG Norman Powell",NA,"","","",NA
+640,937238482,"ponic",0,194.5,"PG Goran Dragic SF Tim Hardaway Jr. UTIL Doug McDermott PF Kristaps Porzingis C Dwight Howard G Kyle Lowry F Jeremy Lamb SG Norman Powell",NA,"","","",NA
+641,937391580,"mraviv",0,194.25,"F Courtney Lee UTIL Goran Dragic SG Tim Hardaway Jr. SF Dion Waiters C Kristaps Porzingis G Kyle Lowry PF Serge Ibaka PG Malik Monk",NA,"","","",NA
+641,937463506,"PowerTron (17/20)",0,194.25,"UTIL Jarrett Jack F James Johnson SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum G Michael Carter-Williams",NA,"","","",NA
+641,937576831,"DudeK-9",0,194.25,"PG Goran Dragic UTIL Kelly Olynyk SF Tim Hardaway Jr. F Dion Waiters PF Kristaps Porzingis C Bam Adebayo G Kyle Lowry SG Jeremy Lamb",NA,"","","",NA
+644,937017477,"mikecent (5/18)",0,193.75,"SF Wayne Ellington G Goran Dragic C Hassan Whiteside UTIL Dwight Howard PF Marvin Williams PG Kyle Lowry SG DeMar DeRozan F Norman Powell",NA,"","","",NA
+644,937336802,"ski1990 (1/8)",0,193.75,"F James Johnson PG Goran Dragic SG Dion Waiters PF Enes Kanter SF Josh Richardson UTIL Kristaps Porzingis C Bam Adebayo G DeMar DeRozan",NA,"","","",NA
+646,936986539,"deenice0033 (2/3)",0,193.5,"F Courtney Lee G Goran Dragic SG Tim Hardaway Jr. PF Kristaps Porzingis C Bam Adebayo UTIL Dwight Howard SF DeMar DeRozan PG Michael Carter-Williams",NA,"","","",NA
+646,937058046,"forrestkoba (2/20)",0,193.5,"F James Johnson SF Tim Hardaway Jr. C Enes Kanter UTIL Kristaps Porzingis G Kyle Lowry SG Nicolas Batum PG Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+646,937527618,"footay28",0,193.5,"SF Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. F Kristaps Porzingis PF Bam Adebayo C Dwight Howard G DeMar DeRozan UTIL Michael Carter-Williams",NA,"","","",NA
+646,937617894,"pizzaguy64",0,193.5,"UTIL Goran Dragic F Kelly Olynyk SF Tim Hardaway Jr. SG Dion Waiters G Josh Richardson PF Kristaps Porzingis PG Kyle Lowry C Serge Ibaka",NA,"","","",NA
+650,937071314,"agentansel",0,193.25,"UTIL James Johnson G Goran Dragic PF Kristaps Porzingis C Dwight Howard F Marvin Williams PG Kyle Lowry SG Jeremy Lamb SF Norman Powell",NA,"","","",NA
+650,937179449,"likenoah (15/20)",0,193.25,"PG Jarrett Jack UTIL James Johnson F Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis SG Nicolas Batum G DeMar DeRozan SF Jeremy Lamb",NA,"","","",NA
+650,937347612,"ski1990 (3/8)",0,193.25,"SF Courtney Lee G Goran Dragic UTIL Kristaps Porzingis C Dwight Howard PF Marvin Williams SG Nicolas Batum F DeMar DeRozan PG Michael Carter-Williams",NA,"","","",NA
+653,936923395,"Jric21",0,193,"G Jarrett Jack UTIL James Johnson SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard SG DeMar DeRozan F Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+653,937044596,"pineapple85",0,193,"G Goran Dragic UTIL Tim Hardaway Jr. SF Dion Waiters C Kristaps Porzingis PG Kyle Lowry SG Jeremy Lamb PF Frank Kaminsky F Norman Powell",NA,"","","",NA
+655,937522850,"sbwolves16 (8/20)",0,192.75,"PG Goran Dragic SG Tim Hardaway Jr. PF Enes Kanter F Kristaps Porzingis C Bam Adebayo G Kyle Lowry SF Nicolas Batum UTIL Michael Carter-Williams",NA,"","","",NA
+656,936998877,"srfish",0,192.25,"G Courtney Lee PG Goran Dragic F Tim Hardaway Jr. SF Dion Waiters C Enes Kanter PF Kristaps Porzingis UTIL Serge Ibaka SG Jeremy Lamb",NA,"","","",NA
+656,937247342,"sancho4 (2/3)",0,192.25,"UTIL Courtney Lee G Goran Dragic SG Tim Hardaway Jr. PF Kristaps Porzingis PG Kyle Lowry C Serge Ibaka F Jeremy Lamb SF Norman Powell",NA,"","","",NA
+656,937422974,"TEXASHEAT75",0,192.25,"G Goran Dragic C Kelly Olynyk SG Tim Hardaway Jr. UTIL Tyler Johnson PF Kristaps Porzingis PG Kyle Lowry F Nicolas Batum SF Jeremy Lamb",NA,"","","",NA
+659,936957810,"Holidaydirekter (1/2)",0,192,"G Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis C Bam Adebayo UTIL Kyle Lowry F Serge Ibaka",NA,"","","",NA
+659,936964012,"Holidaydirekter (2/2)",0,192,"G Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis C Bam Adebayo UTIL Kyle Lowry F Serge Ibaka",NA,"","","",NA
+659,937035268,"LisaRushton (1/4)",0,192,"UTIL Courtney Lee G Goran Dragic F Tim Hardaway Jr. SG Josh Richardson C Kristaps Porzingis PG Kyle Lowry PF Serge Ibaka SF Nicolas Batum",NA,"","","",NA
+659,937035318,"LisaRushton (2/4)",0,192,"UTIL Courtney Lee G Goran Dragic F Tim Hardaway Jr. SG Josh Richardson C Kristaps Porzingis PG Kyle Lowry PF Serge Ibaka SF Nicolas Batum",NA,"","","",NA
+659,937035330,"LisaRushton (3/4)",0,192,"UTIL Courtney Lee G Goran Dragic F Tim Hardaway Jr. SG Josh Richardson C Kristaps Porzingis PG Kyle Lowry PF Serge Ibaka SF Nicolas Batum",NA,"","","",NA
+659,937042112,"LisaRushton (4/4)",0,192,"UTIL Courtney Lee G Goran Dragic F Tim Hardaway Jr. SG Josh Richardson C Kristaps Porzingis PG Kyle Lowry PF Serge Ibaka SF Nicolas Batum",NA,"","","",NA
+659,937500581,"chanki01 (3/9)",0,192,"SG Courtney Lee PG Goran Dragic SF Tim Hardaway Jr. G Dion Waiters C Kristaps Porzingis PF Bam Adebayo UTIL Kyle Lowry F Serge Ibaka",NA,"","","",NA
+659,937511775,"ray1sh",0,192,"F James Johnson SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard G Kyle Lowry SG Nicolas Batum PG Michael Carter-Williams UTIL Norman Powell",NA,"","","",NA
+667,937020776,"GiantManzo",0,191.75,"SG Courtney Lee F James Johnson G Goran Dragic C Kyle O'Quinn SF Dion Waiters PF Kristaps Porzingis PG Kyle Lowry UTIL Jonas Valanciunas",NA,"","","",NA
+667,937063010,"bigbtime3350",0,191.75,"PG Goran Dragic SG Tim Hardaway Jr. C Kristaps Porzingis PF Bam Adebayo UTIL Dwight Howard F DeMar DeRozan SF Jeremy Lamb G Fred VanVleet",NA,"","","",NA
+667,937117323,"drejohn (4/14)",0,191.75,"PG Goran Dragic SF Tim Hardaway Jr. SG Dion Waiters F Josh Richardson PF Kristaps Porzingis C Bam Adebayo UTIL Kyle Lowry G Jeremy Lamb",NA,"","","",NA
+670,936952319,"FlipMode45",0,191.5,"SG Courtney Lee UTIL Hassan Whiteside SF Tim Hardaway Jr. PF Doug McDermott F Kristaps Porzingis C Dwight Howard G Kyle Lowry PG Michael Carter-Williams",NA,"","","",NA
+670,937033447,"pabloescobar301 (3/4)",0,191.5,"F James Johnson G Tim Hardaway Jr. SF Dion Waiters C Enes Kanter PF Kristaps Porzingis UTIL Dwight Howard SG Nicolas Batum PG Malik Monk",NA,"","","",NA
+670,937280953,"BobBrunk (9/15)",0,191.5,"G Goran Dragic SG Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis F Bam Adebayo PG Kyle Lowry SF Nicolas Batum UTIL Jonas Valanciunas",NA,"","","",NA
+670,937404786,"ipickwinnersfoo",0,191.5,"PF James Johnson SF Tim Hardaway Jr. F Dion Waiters UTIL Kristaps Porzingis C Bam Adebayo G Kyle Lowry SG Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+670,937463503,"PowerTron (14/20)",0,191.5,"F James Johnson SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum G Michael Carter-Williams UTIL Pascal Siakam",NA,"","","",NA
+670,937605230,"waltdeuce (12/20)",0,191.5,"PG Goran Dragic PF Kristaps Porzingis UTIL Bam Adebayo G Kyle Lowry C Serge Ibaka F Nicolas Batum SG DeMar DeRozan SF Michael Kidd-Gilchrist",NA,"","","",NA
+670,937628255,"tarhokie3",0,191.5,"UTIL James Johnson SG Tim Hardaway Jr. F Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum G Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+677,937463508,"PowerTron (19/20)",0,191.25,"F James Johnson SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum UTIL Michael Kidd-Gilchrist G Michael Carter-Williams",NA,"","","",NA
+678,937141599,"drejohn (6/14)",0,191,"G Courtney Lee UTIL Goran Dragic SG Tim Hardaway Jr. F Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SF DeMar DeRozan PF OG Anunoby",NA,"","","",NA
+679,937413800,"JnBnInvestments",0,190.5,"PG Goran Dragic F Kelly Olynyk SF Tim Hardaway Jr. UTIL Dion Waiters C Kristaps Porzingis G Kyle Lowry SG Jeremy Lamb PF Pascal Siakam",NA,"","","",NA
+679,937499853,"swannbee1",0,190.5,"F James Johnson C Kelly Olynyk SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis PG Kyle Lowry G Nicolas Batum UTIL Michael Carter-Williams",NA,"","","",NA
+681,937331010,"pabloescobar301 (4/4)",0,190.25,"PG Jarrett Jack F James Johnson PF Kristaps Porzingis C Dwight Howard UTIL Nicolas Batum G DeMar DeRozan SG Jeremy Lamb SF Norman Powell",NA,"","","",NA
+682,936922380,"JSchorr06 (4/4)",0,190,"SF Courtney Lee G Goran Dragic F Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard UTIL Marvin Williams SG DeMar DeRozan PG Michael Carter-Williams",NA,"","","",NA
+682,936961665,"thisistheyear1 (3/4)",0,190,"SF Wayne Ellington F James Johnson SG Tim Hardaway Jr. G Dion Waiters C Kristaps Porzingis PF Bam Adebayo UTIL Dwight Howard PG Kyle Lowry",NA,"","","",NA
+684,937439470,"BosnianBlood (19/20)",0,189.75,"SF Courtney Lee UTIL Wayne Ellington PG Goran Dragic SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard G Kyle Lowry F Norman Powell",NA,"","","",NA
+684,937458038,"SgtBrown (1/2)",0,189.75,"F James Johnson UTIL Tim Hardaway Jr. G Dion Waiters PF Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SF Nicolas Batum SG Jeremy Lamb",NA,"","","",NA
+684,937466829,"SgtBrown (2/2)",0,189.75,"F James Johnson UTIL Tim Hardaway Jr. G Dion Waiters PF Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SF Nicolas Batum SG Jeremy Lamb",NA,"","","",NA
+687,937522539,"AvaryR29",0,189.5,"UTIL Goran Dragic C Kelly Olynyk F Tim Hardaway Jr. PF Kristaps Porzingis G Kyle Lowry SF Nicolas Batum SG Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+688,937034962,"mikecent (9/18)",0,189.25,"G Goran Dragic C Kristaps Porzingis UTIL Dwight Howard PF Marvin Williams F Nicolas Batum SF DeMar DeRozan SG Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+688,937060169,"mikecent (13/18)",0,189.25,"UTIL Goran Dragic F Kristaps Porzingis C Dwight Howard PF Marvin Williams SF Nicolas Batum G DeMar DeRozan SG Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+688,937432947,"BosnianBlood (9/20)",0,189.25,"G Jarrett Jack PG Goran Dragic SG Tim Hardaway Jr. SF Dion Waiters PF Enes Kanter C Kristaps Porzingis F DeMar DeRozan UTIL Fred VanVleet",NA,"","","",NA
+688,937496062,"5sultans5",0,189.25,"UTIL James Johnson SG Tim Hardaway Jr. G Dion Waiters F Doug McDermott PF Kristaps Porzingis C Dwight Howard SF DeMar DeRozan PG Michael Carter-Williams",NA,"","","",NA
+692,936968005,"UNGABUNGA",0,189,"SF Tim Hardaway Jr. SG Dion Waiters PF Kristaps Porzingis C Dwight Howard F Nicolas Batum G DeMar DeRozan PG Michael Carter-Williams UTIL Pascal Siakam",NA,"","","",NA
+692,937057885,"Thyde1219",0,189,"PF James Johnson PG Goran Dragic SG Dion Waiters F Kristaps Porzingis G Kyle Lowry SF Jeremy Lamb C Jonas Valanciunas UTIL Malik Monk",NA,"","","",NA
+692,937171865,"Diddyv21",0,189,"SF Courtney Lee PG Goran Dragic G Tim Hardaway Jr. C Kristaps Porzingis UTIL Kyle Lowry F Nicolas Batum SG Jeremy Lamb PF Pascal Siakam",NA,"","","",NA
+692,937281118,"BobBrunk (13/15)",0,189,"F James Johnson G Goran Dragic SG Dion Waiters PF Kristaps Porzingis UTIL Bam Adebayo PG Kyle Lowry C Serge Ibaka SF Jeremy Lamb",NA,"","","",NA
+692,937326549,"MisterJ5 (11/20)",0,189,"PG Goran Dragic F Tim Hardaway Jr. PF Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard SF DeMar DeRozan SG Jeremy Lamb G Malik Monk",NA,"","","",NA
+697,936298995,"hdub23",0,188.75,"F Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. UTIL Tyler Johnson PF Kristaps Porzingis C Serge Ibaka SF DeMar DeRozan G Jeremy Lamb",NA,"","","",NA
+697,936933947,"Setzer40",0,188.75,"SF Courtney Lee G Goran Dragic UTIL Tim Hardaway Jr. SG Dion Waiters PF Kristaps Porzingis PG Kyle Lowry C Serge Ibaka F Norman Powell",NA,"","","",NA
+697,937101534,"drejohn (2/14)",0,188.75,"SF Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. UTIL Dion Waiters C Kristaps Porzingis G Kyle Lowry PF Serge Ibaka F Norman Powell",NA,"","","",NA
+697,937123623,"Miller421 (19/20)",0,188.75,"PG Goran Dragic SG Tim Hardaway Jr. C Kristaps Porzingis PF Bam Adebayo SF Marvin Williams G Kyle Lowry F Serge Ibaka UTIL DeMar DeRozan",NA,"","","",NA
+701,937247888,"jay585 (8/17)",0,188.5,"PF James Johnson PG Goran Dragic F Enes Kanter C Kristaps Porzingis G Kyle Lowry SG Nicolas Batum UTIL Jonas Valanciunas SF Michael Kidd-Gilchrist",NA,"","","",NA
+701,937463493,"PowerTron (4/20)",0,188.5,"F James Johnson SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry SF Nicolas Batum UTIL Cody Zeller G Michael Carter-Williams",NA,"","","",NA
+703,937144989,"RememberSammyJenkins (15/18)",0,188,"UTIL Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. F Dion Waiters C Kristaps Porzingis G Kyle Lowry PF Serge Ibaka SF Michael Kidd-Gilchrist",NA,"","","",NA
+704,937028005,"melly11",0,187.5,"C Hassan Whiteside F Tim Hardaway Jr. UTIL Enes Kanter PF Kristaps Porzingis G Kyle Lowry SG Jeremy Lamb PG Michael Carter-Williams SF Norman Powell",NA,"","","",NA
+704,937426704,"gfay63 (6/20)",0,187.5,"PG Goran Dragic G Dion Waiters C Enes Kanter PF Kristaps Porzingis SG Nicolas Batum SF DeMar DeRozan UTIL Michael Carter-Williams F Pascal Siakam",NA,"","","",NA
+706,937120744,"jugernaught (2/2)",0,187.25,"F Courtney Lee G Goran Dragic SG Tim Hardaway Jr. PF Kristaps Porzingis PG Kyle Lowry C Serge Ibaka SF Nicolas Batum UTIL Michael Carter-Williams",NA,"","","",NA
+707,936914413,"TAlex21 (1/4)",0,187,"G Goran Dragic SF Tim Hardaway Jr. F Dion Waiters C Kristaps Porzingis PF Bam Adebayo PG Kyle Lowry SG Jeremy Lamb UTIL Michael Carter-Williams",NA,"","","",NA
+707,937135955,"RememberSammyJenkins (1/18)",0,187,"G Goran Dragic F Kelly Olynyk SG Tim Hardaway Jr. PF Enes Kanter UTIL Kristaps Porzingis C Dwight Howard SF Norman Powell PG Fred VanVleet",NA,"","","",NA
+707,937247851,"jay585 (7/17)",0,187,"PF James Johnson PG Goran Dragic UTIL Enes Kanter C Kristaps Porzingis F Bam Adebayo G Kyle Lowry SG Nicolas Batum SF Michael Kidd-Gilchrist",NA,"","","",NA
+710,937056850,"eeescobar",0,186.75,"F James Johnson G Tim Hardaway Jr. SG Dion Waiters UTIL Josh Richardson PF Kristaps Porzingis PG Kyle Lowry SF Nicolas Batum C Jonas Valanciunas",NA,"","","",NA
+710,937091313,"GingerRedMen (1/2)",0,186.75,"PG Jarrett Jack UTIL James Johnson SG Tim Hardaway Jr. G Dion Waiters PF Kristaps Porzingis F Bam Adebayo C Dwight Howard SF DeMar DeRozan",NA,"","","",NA
+710,937174581,"mikecent (15/18)",0,186.75,"C Hassan Whiteside SG Tim Hardaway Jr. UTIL Enes Kanter PF Kristaps Porzingis PG Kyle Lowry F Jeremy Lamb SF Michael Kidd-Gilchrist G Michael Carter-Williams",NA,"","","",NA
+710,937426709,"gfay63 (11/20)",0,186.75,"PG Goran Dragic C Kristaps Porzingis G Kyle Lowry SF Nicolas Batum SG DeMar DeRozan F Michael Kidd-Gilchrist UTIL Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+710,937608257,"uku16 (3/3)",0,186.75,"SF Courtney Lee F James Johnson PG Goran Dragic UTIL Kelly Olynyk G Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard SG Jeremy Lamb",NA,"","","",NA
+715,936898042,"silenceisgolden",0,186.5,"PF James Johnson G Tim Hardaway Jr. C Kristaps Porzingis SF Marvin Williams PG Kyle Lowry SG Nicolas Batum F DeMar DeRozan UTIL Michael Kidd-Gilchrist",NA,"","","",NA
+715,937004123,"jbender1000",0,186.5,"G Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis C Bam Adebayo UTIL Dwight Howard F Jeremy Lamb",NA,"","","",NA
+715,937251278,"jay585 (12/17)",0,186.5,"G Goran Dragic F Dion Waiters UTIL Enes Kanter PF Kristaps Porzingis C Dwight Howard SF Nicolas Batum PG Michael Carter-Williams SG Norman Powell",NA,"","","",NA
+715,937399664,"B-rock7",0,186.5,"F Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. G Dion Waiters PF Kristaps Porzingis C Bam Adebayo UTIL Dwight Howard SF Jeremy Lamb",NA,"","","",NA
+715,937604121,"bigfish7171",0,186.5,"G Courtney Lee PG Goran Dragic UTIL Tim Hardaway Jr. F Josh Richardson PF Kristaps Porzingis C Dwight Howard SF Nicolas Batum SG Jeremy Lamb",NA,"","","",NA
+720,937175489,"e1rik",0,186.25,"PG Goran Dragic SG Tim Hardaway Jr. F Dion Waiters SF Josh Richardson PF Kristaps Porzingis UTIL Kyle Lowry C Serge Ibaka G Michael Carter-Williams",NA,"","","",NA
+720,937461024,"NutsUppercut",0,186.25,"F James Johnson PF Kyle O'Quinn SG Tim Hardaway Jr. UTIL Dion Waiters SF Josh Richardson C Kristaps Porzingis PG Kyle Lowry G Nicolas Batum",NA,"","","",NA
+720,937522849,"sbwolves16 (7/20)",0,186.25,"PG Goran Dragic SF Tim Hardaway Jr. C Enes Kanter UTIL Kristaps Porzingis F Bam Adebayo G Kyle Lowry SG Nicolas Batum PF Pascal Siakam",NA,"","","",NA
+723,937081709,"C0WB0YS_FAN_1",0,186,"SF Courtney Lee PG Goran Dragic PF Kyle O'Quinn UTIL Tim Hardaway Jr. SG Dion Waiters C Kristaps Porzingis G Kyle Lowry F Norman Powell",NA,"","","",NA
+723,937522858,"sbwolves16 (16/20)",0,186,"PG Goran Dragic SG Tim Hardaway Jr. C Enes Kanter UTIL Kristaps Porzingis PF Bam Adebayo G Kyle Lowry F Nicolas Batum SF Michael Kidd-Gilchrist",NA,"","","",NA
+725,936947658,"blackie27",0,185.75,"PG Jarrett Jack SG Tim Hardaway Jr. UTIL Dion Waiters PF Kristaps Porzingis C Dwight Howard SF Nicolas Batum F DeMar DeRozan G Norman Powell",NA,"","","",NA
+725,937432744,"BosnianBlood (7/20)",0,185.75,"PG Goran Dragic UTIL Kyle O'Quinn SF Tim Hardaway Jr. C Kristaps Porzingis F Bam Adebayo G Kyle Lowry SG DeMar DeRozan PF Pascal Siakam",NA,"","","",NA
+727,937251358,"jay585 (13/17)",0,185.5,"UTIL James Johnson PG Goran Dragic PF Enes Kanter SG Tyler Johnson F Kristaps Porzingis C Dwight Howard SF Nicolas Batum G Michael Carter-Williams",NA,"","","",NA
+728,936850776,"CBLancaster",0,185.25,"UTIL Courtney Lee F Kelly Olynyk G Tim Hardaway Jr. PF Kristaps Porzingis C Serge Ibaka SG DeMar DeRozan SF Michael Kidd-Gilchrist PG Malik Monk",NA,"","","",NA
+728,937111455,"ejobba17",0,185.25,"SG Courtney Lee C Hassan Whiteside F Tim Hardaway Jr. PF Kristaps Porzingis PG Kyle Lowry UTIL Serge Ibaka SF Jeremy Lamb G Michael Carter-Williams",NA,"","","",NA
+730,937372317,"JayC2800",0,185,"SG Courtney Lee F James Johnson PG Goran Dragic SF Tim Hardaway Jr. C Kristaps Porzingis UTIL Kyle Lowry PF Serge Ibaka G Michael Carter-Williams",NA,"","","",NA
+731,937068075,"MANDYMETS",0,184.5,"PG Goran Dragic SG Tim Hardaway Jr. SF Dion Waiters UTIL Doug McDermott PF Kristaps Porzingis G Kyle Lowry F Jeremy Lamb C Jonas Valanciunas",NA,"","","",NA
+731,937522860,"sbwolves16 (18/20)",0,184.5,"SG Courtney Lee PG Goran Dragic UTIL Tim Hardaway Jr. F Kristaps Porzingis C Bam Adebayo G Kyle Lowry PF Serge Ibaka SF Nicolas Batum",NA,"","","",NA
+733,936922817,"pabloescobar301 (1/4)",0,184,"UTIL Goran Dragic F Tim Hardaway Jr. C Kristaps Porzingis PF Marvin Williams PG Kyle Lowry SG DeMar DeRozan SF Norman Powell G Malik Monk",NA,"","","",NA
+734,936997948,"thatssboy (1/2)",0,183.75,"UTIL Jarrett Jack G Goran Dragic SF Tim Hardaway Jr. F Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SG DeMar DeRozan PF Pascal Siakam",NA,"","","",NA
+734,937004278,"thatssboy (2/2)",0,183.75,"UTIL Jarrett Jack G Goran Dragic SF Tim Hardaway Jr. F Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SG DeMar DeRozan PF Pascal Siakam",NA,"","","",NA
+736,937216024,"sancho4 (1/3)",0,183.5,"G Goran Dragic SG Tim Hardaway Jr. F Kristaps Porzingis C Dwight Howard PG Kyle Lowry PF Serge Ibaka UTIL Michael Kidd-Gilchrist SF Norman Powell",NA,"","","",NA
+737,937092518,"Hamer_J_Sampson",0,183.25,"PG Goran Dragic SF Tim Hardaway Jr. F Dion Waiters C Kristaps Porzingis G Kyle Lowry SG Jeremy Lamb UTIL Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+737,937146878,"RememberSammyJenkins (16/18)",0,183.25,"UTIL Jarrett Jack G Goran Dragic SF Tim Hardaway Jr. F Dion Waiters C Kristaps Porzingis PF Bam Adebayo PG Kyle Lowry SG Jeremy Lamb",NA,"","","",NA
+737,937540355,"acvenezia",0,183.25,"PG Goran Dragic SG Tim Hardaway Jr. SF Dion Waiters C Kristaps Porzingis G Kyle Lowry F Jeremy Lamb UTIL Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+740,936911546,"dartzman (1/3)",0,182.75,"G Courtney Lee PG Goran Dragic SF Tim Hardaway Jr. UTIL Dion Waiters F Kristaps Porzingis C Dwight Howard SG Jeremy Lamb PF Pascal Siakam",NA,"","","",NA
+740,936911550,"dartzman (2/3)",0,182.75,"G Courtney Lee PG Goran Dragic SF Tim Hardaway Jr. UTIL Dion Waiters F Kristaps Porzingis C Dwight Howard SG Jeremy Lamb PF Pascal Siakam",NA,"","","",NA
+740,936918454,"dartzman (3/3)",0,182.75,"G Courtney Lee PG Goran Dragic SF Tim Hardaway Jr. UTIL Dion Waiters F Kristaps Porzingis C Dwight Howard SG Jeremy Lamb PF Pascal Siakam",NA,"","","",NA
+740,937122630,"htwonjoe (12/20)",0,182.75,"PF James Johnson C Hassan Whiteside G Tim Hardaway Jr. SF Dion Waiters UTIL Marvin Williams PG Kyle Lowry SG Nicolas Batum F Jeremy Lamb",NA,"","","",NA
+740,937136958,"canadiancriplr7",0,182.75,"UTIL Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. G Dion Waiters PF Kristaps Porzingis C Dwight Howard SF Jeremy Lamb F Pascal Siakam",NA,"","","",NA
+740,937513132,"Erntropolis (2/3)",0,182.75,"G Goran Dragic PF Kelly Olynyk SF Tim Hardaway Jr. SG Dion Waiters F Kristaps Porzingis C Dwight Howard UTIL Jeremy Lamb PG Malik Monk",NA,"","","",NA
+740,937622816,"mjikard (2/2)",0,182.75,"G Courtney Lee PF James Johnson SG Tim Hardaway Jr. SF Dion Waiters F Kristaps Porzingis C Dwight Howard UTIL Nicolas Batum PG Michael Carter-Williams",NA,"","","",NA
+747,937326551,"MisterJ5 (13/20)",0,182.5,"G Wayne Ellington PF James Johnson SF Tim Hardaway Jr. F Kristaps Porzingis UTIL Bam Adebayo C Dwight Howard PG Kyle Lowry SG Nicolas Batum",NA,"","","",NA
+748,937372584,"Jet-li",0,182.25,"PG Jarrett Jack UTIL Goran Dragic SF Tim Hardaway Jr. PF Enes Kanter F Kristaps Porzingis C Serge Ibaka SG DeMar DeRozan G Michael Carter-Williams",NA,"","","",NA
+749,936914454,"TAlex21 (2/4)",0,182,"UTIL Goran Dragic SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard G Kyle Lowry SF Michael Kidd-Gilchrist PG Michael Carter-Williams F Pascal Siakam",NA,"","","",NA
+750,937031208,"mikecent (8/18)",0,181.5,"G Goran Dragic C Kristaps Porzingis UTIL Frank Ntilikina PF Marvin Williams PG Kyle Lowry SF Nicolas Batum SG DeMar DeRozan F Jeremy Lamb",NA,"","","",NA
+750,937060468,"Frank.w",0,181.5,"PF James Johnson SF Tim Hardaway Jr. F Dion Waiters PG Tyler Johnson UTIL Kristaps Porzingis C Dwight Howard SG Nicolas Batum G Jeremy Lamb",NA,"","","",NA
+750,937221491,"latessa1979",0,181.5,"F James Johnson SG Tim Hardaway Jr. SF Dion Waiters PG Tyler Johnson PF Kristaps Porzingis C Dwight Howard G Nicolas Batum UTIL Jeremy Lamb",NA,"","","",NA
+750,937253999,"hegetsdaglory",0,181.5,"F James Johnson G Tim Hardaway Jr. UTIL Dion Waiters PG Tyler Johnson PF Kristaps Porzingis C Dwight Howard SG Nicolas Batum SF Jeremy Lamb",NA,"","","",NA
+750,937552126,"williamskurt1",0,181.5,"UTIL Goran Dragic SF Tim Hardaway Jr. PF Kristaps Porzingis C Bam Adebayo PG Kyle Lowry SG DeMar DeRozan G Norman Powell F Pascal Siakam",NA,"","","",NA
+755,936419122,"Xweezy33",0,181.25,"UTIL Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. SF Dion Waiters PF Enes Kanter C Kristaps Porzingis F Serge Ibaka G Nicolas Batum",NA,"","","",NA
+755,937242168,"nicktone88246 (9/10)",0,181.25,"G Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. SF Dion Waiters C Enes Kanter PF Kristaps Porzingis UTIL Serge Ibaka F Nicolas Batum",NA,"","","",NA
+757,936809756,"aaronsdunn",0,181,"SG Courtney Lee PG Goran Dragic SF Tim Hardaway Jr. F Dion Waiters PF Enes Kanter C Kristaps Porzingis G Frank Ntilikina UTIL Dwight Howard",NA,"","","",NA
+757,936884999,"gilljack42",0,181,"PF James Johnson C Hassan Whiteside G Tim Hardaway Jr. SF Dion Waiters F Marvin Williams PG Kyle Lowry SG DeMar DeRozan UTIL OG Anunoby",NA,"","","",NA
+757,937048371,"Bgary441",0,181,"SG Courtney Lee PG Goran Dragic F Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis C Dwight Howard UTIL Serge Ibaka G Michael Carter-Williams",NA,"","","",NA
+757,937148509,"RememberSammyJenkins (18/18)",0,181,"G Goran Dragic SF Tim Hardaway Jr. F Dion Waiters C Kristaps Porzingis PF Bam Adebayo PG Kyle Lowry SG Jeremy Lamb UTIL Norman Powell",NA,"","","",NA
+757,937168972,"Valvelichkov7",0,181,"PF Kyle O'Quinn UTIL Hassan Whiteside SF Dion Waiters C Kristaps Porzingis PG Kyle Lowry F Serge Ibaka SG Jeremy Lamb G Michael Carter-Williams",NA,"","","",NA
+757,937500580,"chanki01 (2/9)",0,181,"PG Jarrett Jack G Courtney Lee UTIL Goran Dragic F Tim Hardaway Jr. SF Dion Waiters SG Josh Richardson PF Kristaps Porzingis C Dwight Howard",NA,"","","",NA
+763,937136304,"RememberSammyJenkins (7/18)",0,180.5,"F James Johnson PG Goran Dragic SG Tim Hardaway Jr. PF Enes Kanter C Kristaps Porzingis G Kyle Lowry SF Michael Kidd-Gilchrist UTIL Norman Powell",NA,"","","",NA
+763,937620583,"Pimplicious",0,180.5,"PF James Johnson G Goran Dragic C Kelly Olynyk F Tim Hardaway Jr. UTIL Kristaps Porzingis PG Kyle Lowry SG Jeremy Lamb SF Michael Kidd-Gilchrist",NA,"","","",NA
+765,937373709,"termer22",0,180.25,"UTIL Goran Dragic SF Tim Hardaway Jr. SG Dion Waiters PF Kristaps Porzingis PG Kyle Lowry F Serge Ibaka C Jonas Valanciunas G Michael Carter-Williams",NA,"","","",NA
+766,936668146,"jesserb306",0,179.75,"G Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis C Dwight Howard F Serge Ibaka UTIL Jonas Valanciunas",NA,"","","",NA
+766,937058059,"forrestkoba (15/20)",0,179.75,"SG Courtney Lee G Goran Dragic F Tim Hardaway Jr. C Kristaps Porzingis UTIL Kyle Lowry SF Nicolas Batum PG Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+768,937197867,"ftw8732",0,179.5,"SF Courtney Lee F James Johnson PG Goran Dragic G Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard SG Jeremy Lamb UTIL Michael Carter-Williams",NA,"","","",NA
+768,937371679,"sammysbuddy07",0,179.5,"SG Courtney Lee F James Johnson UTIL Goran Dragic SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard G Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+768,937488082,"robertlatimer",0,179.5,"G Goran Dragic SF Tim Hardaway Jr. UTIL Enes Kanter F Kristaps Porzingis C Serge Ibaka SG DeMar DeRozan PG Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+768,937530448,"kevinwhodatpick",0,179.5,"UTIL Courtney Lee F James Johnson G Goran Dragic SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard SF Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+768,937565124,"beano13",0,179.5,"F Michael Beasley UTIL Goran Dragic SG Tim Hardaway Jr. G Dion Waiters SF Josh Richardson C Kristaps Porzingis PG Kyle Lowry PF Serge Ibaka",NA,"","","",NA
+773,937039917,"pumba69",0,179.25,"F Courtney Lee C Hassan Whiteside SG Tim Hardaway Jr. PF Kristaps Porzingis PG Kyle Lowry UTIL Serge Ibaka G Jeremy Lamb SF Norman Powell",NA,"","","",NA
+774,936883738,"Tnvols1972 (3/3)",0,178.75,"UTIL Goran Dragic SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis C Bam Adebayo PG Kyle Lowry F Serge Ibaka G Michael Carter-Williams",NA,"","","",NA
+774,937122620,"htwonjoe (2/20)",0,178.75,"G Courtney Lee C Hassan Whiteside SF Tim Hardaway Jr. PF Kristaps Porzingis PG Kyle Lowry UTIL Serge Ibaka SG Jeremy Lamb F Pascal Siakam",NA,"","","",NA
+776,937022640,"i_am_jtill",0,178.5,"SG Courtney Lee UTIL Hassan Whiteside G Tim Hardaway Jr. C Kristaps Porzingis PG Kyle Lowry PF Serge Ibaka SF Jeremy Lamb F Michael Kidd-Gilchrist",NA,"","","",NA
+777,937144973,"RememberSammyJenkins (14/18)",0,178.25,"F James Johnson G Tim Hardaway Jr. SG Dion Waiters PF Kristaps Porzingis PG Kyle Lowry C Serge Ibaka UTIL Nicolas Batum SF Norman Powell",NA,"","","",NA
+778,936873680,"JSchorr06 (1/4)",0,178,"F James Johnson PG Goran Dragic SF Dion Waiters PF Kristaps Porzingis C Dwight Howard UTIL Serge Ibaka SG Jeremy Lamb G Michael Carter-Williams",NA,"","","",NA
+778,937426707,"gfay63 (9/20)",0,178,"PG Goran Dragic G Tim Hardaway Jr. F Dion Waiters PF Enes Kanter C Kristaps Porzingis SF Marvin Williams SG DeMar DeRozan UTIL Pascal Siakam",NA,"","","",NA
+780,937500586,"chanki01 (8/9)",0,177.75,"SG Courtney Lee UTIL Goran Dragic SF Tim Hardaway Jr. PG Tyler Johnson C Kristaps Porzingis PF Serge Ibaka G Nicolas Batum F DeMar DeRozan",NA,"","","",NA
+781,937606086,"waltdeuce (16/20)",0,177.5,"G Jarrett Jack PG Goran Dragic SG Tim Hardaway Jr. PF Kristaps Porzingis C Bam Adebayo UTIL Dwight Howard F Serge Ibaka SF DeMar DeRozan",NA,"","","",NA
+782,937122625,"htwonjoe (7/20)",0,177.25,"UTIL James Johnson PG Goran Dragic F Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis SF DeMar DeRozan SG Norman Powell G Fred VanVleet",NA,"","","",NA
+783,936997619,"lostone2373",0,176.75,"PF James Johnson G Goran Dragic UTIL Kyle O'Quinn SG Dion Waiters SF Doug McDermott C Kristaps Porzingis PG Kyle Lowry F Serge Ibaka",NA,"","","",NA
+783,937028378,"jimmyscat",0,176.75,"F Courtney Lee C Kelly Olynyk UTIL Tim Hardaway Jr. SG Tyler Johnson PG Frank Ntilikina SF C.J. Miles G Jeremy Lamb PF Frank Kaminsky",NA,"","","",NA
+783,937278985,"mikecent (18/18)",0,176.75,"UTIL Hassan Whiteside SF Tim Hardaway Jr. C Kristaps Porzingis G Kyle Lowry F DeMar DeRozan PG Michael Carter-Williams PF Pascal Siakam SG Malik Monk",NA,"","","",NA
+783,937426700,"gfay63 (2/20)",0,176.75,"PG Goran Dragic G Tim Hardaway Jr. PF Enes Kanter C Kristaps Porzingis SG Nicolas Batum SF DeMar DeRozan UTIL Michael Carter-Williams F Pascal Siakam",NA,"","","",NA
+783,937457844,"captaincaff24",0,176.75,"G Courtney Lee PF James Johnson PG Goran Dragic SG Tim Hardaway Jr. C Kristaps Porzingis F Bam Adebayo UTIL Dwight Howard SF Jeremy Lamb",NA,"","","",NA
+788,937439357,"BosnianBlood (15/20)",0,176.25,"G Goran Dragic F Tim Hardaway Jr. SG Dion Waiters PF Enes Kanter C Kristaps Porzingis UTIL Nicolas Batum SF Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+788,937563196,"NotoriousAD (3/6)",0,176.25,"PG Goran Dragic F Tim Hardaway Jr. G Dion Waiters PF Enes Kanter C Kristaps Porzingis SF Nicolas Batum SG Jeremy Lamb UTIL Michael Carter-Williams",NA,"","","",NA
+790,937199021,"jeffrey1001",0,176,"F Courtney Lee C Hassan Whiteside PG Tyler Johnson PF Kristaps Porzingis UTIL Dwight Howard SF Nicolas Batum SG Jeremy Lamb G Malik Monk",NA,"","","",NA
+791,937019570,"squirt9696 (4/5)",0,175.75,"UTIL Jarrett Jack SF Courtney Lee F James Johnson PG Goran Dragic SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard G Jeremy Lamb",NA,"","","",NA
+791,937627697,"aconley (2/2)",0,175.75,"UTIL Courtney Lee PG Goran Dragic SF Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard SG Nicolas Batum G Jeremy Lamb F Norman Powell",NA,"","","",NA
+793,937075052,"Mattyonyj",0,175.5,"UTIL Goran Dragic SG Tim Hardaway Jr. SF Dion Waiters F Doug McDermott PF Kristaps Porzingis C Dwight Howard PG Kyle Lowry G Treveon Graham",NA,"","","",NA
+793,937629182,"GoinBananas2015",0,175.5,"G Goran Dragic F Tim Hardaway Jr. SG Dion Waiters PF Kristaps Porzingis PG Kyle Lowry C Serge Ibaka UTIL Michael Carter-Williams SF Norman Powell",NA,"","","",NA
+795,937135450,"ctripodi",0,174.75,"G Goran Dragic F Tim Hardaway Jr. SG Dion Waiters PF Kristaps Porzingis C Bam Adebayo UTIL DeMar DeRozan SF Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+796,937142154,"surfrider72",0,174.5,"PG Goran Dragic C Kyle O'Quinn F Tim Hardaway Jr. PF Kristaps Porzingis G Kyle Lowry SF Nicolas Batum SG Jeremy Lamb UTIL Norman Powell",NA,"","","",NA
+796,937326555,"MisterJ5 (17/20)",0,174.5,"SG Wayne Ellington PF James Johnson PG Goran Dragic C Kelly Olynyk UTIL Tim Hardaway Jr. F Kristaps Porzingis G Kyle Lowry SF Jeremy Lamb",NA,"","","",NA
+798,937026614,"mikecent (7/18)",0,174.25,"C Hassan Whiteside PF Kristaps Porzingis UTIL Kyle Lowry SG Nicolas Batum F DeMar DeRozan SF Michael Kidd-Gilchrist PG Michael Carter-Williams G Norman Powell",NA,"","","",NA
+798,937065696,"TJ1984",0,174.25,"F James Johnson G Goran Dragic SG Tim Hardaway Jr. UTIL Enes Kanter C Kristaps Porzingis PF Bam Adebayo PG Kyle Lowry SF OG Anunoby",NA,"","","",NA
+800,937122619,"htwonjoe (1/20)",0,174,"G Courtney Lee UTIL James Johnson PG Goran Dragic SF Tim Hardaway Jr. SG Tyler Johnson PF Kristaps Porzingis C Dwight Howard F Serge Ibaka",NA,"","","",NA
+800,937393528,"willdmd70 (1/4)",0,174,"PF James Johnson PG Goran Dragic F Tim Hardaway Jr. C Kristaps Porzingis G Kyle Lowry SG Jeremy Lamb UTIL Michael Carter-Williams SF Norman Powell",NA,"","","",NA
+800,937613551,"Ruphyy22",0,174,"SF Courtney Lee PF James Johnson G Goran Dragic SG Tim Hardaway Jr. PG Tyler Johnson F Kristaps Porzingis C Dwight Howard UTIL Serge Ibaka",NA,"","","",NA
+803,936805251,"jaybo123",0,173.5,"UTIL Hassan Whiteside SF Tim Hardaway Jr. PG Tyler Johnson F Kristaps Porzingis G Kyle Lowry PF Serge Ibaka SG Jeremy Lamb C Jonas Valanciunas",NA,"","","",NA
+803,936885471,"drejohn (1/14)",0,173.5,"G Courtney Lee UTIL James Johnson PG Goran Dragic SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard F Jeremy Lamb SF Norman Powell",NA,"","","",NA
+803,937251200,"jay585 (11/17)",0,173.5,"G Goran Dragic PF Kristaps Porzingis C Dwight Howard SF Nicolas Batum F DeMar DeRozan UTIL Michael Kidd-Gilchrist PG Michael Carter-Williams SG Norman Powell",NA,"","","",NA
+803,937279012,"TheBird_2",0,173.5,"PF James Johnson G Goran Dragic SG Tim Hardaway Jr. C Kristaps Porzingis PG Kyle Lowry SF Jeremy Lamb UTIL Michael Carter-Williams F Pascal Siakam",NA,"","","",NA
+803,937281135,"BobBrunk (14/15)",0,173.5,"F James Johnson PG Goran Dragic UTIL Kelly Olynyk SG Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard SF Jeremy Lamb G Michael Carter-Williams",NA,"","","",NA
+808,937139513,"bruno398",0,173,"G Goran Dragic C Hassan Whiteside SG Tim Hardaway Jr. PG Kyle Lowry PF Serge Ibaka F Nicolas Batum SF Jeremy Lamb UTIL Michael Kidd-Gilchrist",NA,"","","",NA
+809,936940411,"joogenjonez",0,172.75,"PG Jarrett Jack SG Courtney Lee SF Michael Beasley UTIL Hassan Whiteside G Dion Waiters C Enes Kanter PF Kristaps Porzingis F Jeremy Lamb",NA,"","","",NA
+809,937144931,"RememberSammyJenkins (12/18)",0,172.75,"G Goran Dragic SG Tim Hardaway Jr. PF Kristaps Porzingis UTIL Kyle Lowry F Serge Ibaka SF Nicolas Batum C Jonas Valanciunas PG Michael Carter-Williams",NA,"","","",NA
+811,936980504,"ty-dollarsign",0,172.25,"G Courtney Lee C Hassan Whiteside SG Tim Hardaway Jr. SF Dion Waiters F Kristaps Porzingis PG Kyle Lowry PF Serge Ibaka UTIL Cody Zeller",NA,"","","",NA
+811,937025565,"HipHopOnominus",0,172.25,"PG Goran Dragic F Tim Hardaway Jr. G Tyler Johnson C Kristaps Porzingis UTIL Dwight Howard PF Serge Ibaka SF Nicolas Batum SG Jeremy Lamb",NA,"","","",NA
+811,937303334,"kkrieter",0,172.25,"PG Jarrett Jack UTIL Goran Dragic SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis C Bam Adebayo G Kyle Lowry F Nicolas Batum",NA,"","","",NA
+811,937379448,"randyr67",0,172.25,"PG Goran Dragic SG Tim Hardaway Jr. G Tyler Johnson PF Kristaps Porzingis UTIL Dwight Howard C Serge Ibaka SF Nicolas Batum F Jeremy Lamb",NA,"","","",NA
+815,937477739,"tonypep43",0,172,"G Goran Dragic C Kyle O'Quinn SG Tim Hardaway Jr. F Dion Waiters PF Kristaps Porzingis UTIL Kyle Lowry SF Michael Kidd-Gilchrist PG Michael Carter-Williams",NA,"","","",NA
+816,937419927,"mjbsettled",0,171.75,"UTIL Jarrett Jack G Goran Dragic SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis PG Kyle Lowry C Serge Ibaka F Norman Powell",NA,"","","",NA
+817,937500584,"chanki01 (6/9)",0,171.25,"PG Jarrett Jack SG Courtney Lee UTIL Goran Dragic SF Tim Hardaway Jr. C Kristaps Porzingis PF Serge Ibaka G Nicolas Batum F DeMar DeRozan",NA,"","","",NA
+818,936918403,"ubenz88",0,171,"PG Goran Dragic SG Tim Hardaway Jr. G Dion Waiters UTIL Kristaps Porzingis C Dwight Howard PF Serge Ibaka SF Jeremy Lamb F Norman Powell",NA,"","","",NA
+818,937122623,"htwonjoe (5/20)",0,171,"G Jarrett Jack F Courtney Lee C Hassan Whiteside SF Tim Hardaway Jr. SG Dion Waiters PF Kristaps Porzingis PG Kyle Lowry UTIL Norman Powell",NA,"","","",NA
+818,937320714,"rjohn1957",0,171,"PG Goran Dragic SF Tim Hardaway Jr. SG Dion Waiters UTIL Kristaps Porzingis C Dwight Howard PF Serge Ibaka F Jeremy Lamb G Norman Powell",NA,"","","",NA
+821,937604227,"JoSaint (1/2)",0,170.5,"SF Michael Beasley C Hassan Whiteside SG Tim Hardaway Jr. F Kristaps Porzingis UTIL Dwight Howard PG Kyle Lowry PF Serge Ibaka G Norman Powell",NA,"","","",NA
+822,936879976,"JBERRY0527",0,170,"UTIL Courtney Lee SG Wayne Ellington F James Johnson G Goran Dragic SF Tim Hardaway Jr. PF Kristaps Porzingis PG Kyle Lowry C Jonas Valanciunas",NA,"","","",NA
+822,937122621,"htwonjoe (3/20)",0,170,"F Courtney Lee PF James Johnson PG Goran Dragic C Hassan Whiteside SG Tim Hardaway Jr. UTIL Dwight Howard SF Jeremy Lamb G Norman Powell",NA,"","","",NA
+824,937522847,"sbwolves16 (5/20)",0,169.5,"PG Goran Dragic UTIL Tim Hardaway Jr. SG Dion Waiters F Kristaps Porzingis C Bam Adebayo G Kyle Lowry SF Nicolas Batum PF Pascal Siakam",NA,"","","",NA
+825,937136211,"RememberSammyJenkins (6/18)",0,169.25,"UTIL James Johnson G Goran Dragic SF Tim Hardaway Jr. PF Justise Winslow C Kristaps Porzingis PG Kyle Lowry SG Jeremy Lamb F Norman Powell",NA,"","","",NA
+825,937404923,"ralphie1975",0,169.25,"PG Goran Dragic SG Tim Hardaway Jr. F Dion Waiters PF Kristaps Porzingis C Dwight Howard SF Jeremy Lamb UTIL Michael Kidd-Gilchrist G Michael Carter-Williams",NA,"","","",NA
+827,937084150,"ChrisnHanna",0,169,"F Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. PF Kristaps Porzingis C Serge Ibaka SF Nicolas Batum G DeMar DeRozan UTIL Norman Powell",NA,"","","",NA
+828,937122636,"htwonjoe (18/20)",0,168.75,"SF Courtney Lee C Hassan Whiteside PF Enes Kanter F Kristaps Porzingis UTIL Marvin Williams G Kyle Lowry PG Kemba Walker SG Norman Powell",NA,"","","",NA
+828,937432943,"BosnianBlood (8/20)",0,168.75,"PG Goran Dragic SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis C Dwight Howard F Jeremy Lamb UTIL Jonas Valanciunas G Norman Powell",NA,"","","",NA
+830,937620506,"Tmagur10 (1/2)",0,168.5,"PG Goran Dragic SF Tim Hardaway Jr. UTIL Dion Waiters PF Kristaps Porzingis C Bam Adebayo F Marvin Williams G DeMar DeRozan SG Jeremy Lamb",NA,"","","",NA
+831,937500585,"chanki01 (7/9)",0,168.25,"SG Courtney Lee PG Goran Dragic UTIL Tim Hardaway Jr. C Kristaps Porzingis PF Serge Ibaka G Nicolas Batum F DeMar DeRozan SF Michael Kidd-Gilchrist",NA,"","","",NA
+831,937597868,"waltdeuce (7/20)",0,168.25,"PG Goran Dragic SG Tim Hardaway Jr. PF Kristaps Porzingis C Bam Adebayo F Serge Ibaka UTIL Nicolas Batum G DeMar DeRozan SF Jeremy Lamb",NA,"","","",NA
+833,937089674,"FalconFam84",0,168,"UTIL Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis C Serge Ibaka F Nicolas Batum G Jeremy Lamb",NA,"","","",NA
+833,937130050,"kw14bowl",0,168,"G Courtney Lee C Hassan Whiteside SF Tim Hardaway Jr. PF Kristaps Porzingis F Marvin Williams PG Kyle Lowry UTIL Serge Ibaka SG Nicolas Batum",NA,"","","",NA
+833,937314256,"Rohdesian",0,168,"UTIL Courtney Lee PG Goran Dragic F Tim Hardaway Jr. SG Dion Waiters C Kristaps Porzingis PF Serge Ibaka G Nicolas Batum SF Jeremy Lamb",NA,"","","",NA
+833,937349938,"ski1990 (7/8)",0,168,"PG Goran Dragic F Tim Hardaway Jr. SF Dion Waiters G Josh Richardson C Kristaps Porzingis PF Serge Ibaka UTIL DeMar DeRozan SG Norman Powell",NA,"","","",NA
+833,937503494,"adhdginger (1/2)",0,168,"F Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. G Dion Waiters PF Kristaps Porzingis C Serge Ibaka UTIL Nicolas Batum SF Jeremy Lamb",NA,"","","",NA
+833,937612955,"giggty47",0,168,"F Courtney Lee PG Goran Dragic G Tim Hardaway Jr. UTIL Dion Waiters PF Kristaps Porzingis C Serge Ibaka SG Nicolas Batum SF Jeremy Lamb",NA,"","","",NA
+833,937627833,"behindbars",0,168,"G Courtney Lee PG Goran Dragic SG Tim Hardaway Jr. UTIL Dion Waiters PF Kristaps Porzingis C Serge Ibaka SF Nicolas Batum F Jeremy Lamb",NA,"","","",NA
+840,936954936,"thisistheyear1 (1/4)",0,167.25,"UTIL James Johnson G Goran Dragic SG Tim Hardaway Jr. SF Dion Waiters F Kristaps Porzingis C Bam Adebayo PG Kyle Lowry PF Pascal Siakam",NA,"","","",NA
+841,937017992,"TCook235",0,166.5,"PG Goran Dragic G Tim Hardaway Jr. F Kristaps Porzingis C Dwight Howard SF DeMar DeRozan SG Jeremy Lamb UTIL Cody Zeller PF OG Anunoby",NA,"","","",NA
+841,937135993,"RememberSammyJenkins (3/18)",0,166.5,"PG Jarrett Jack G Goran Dragic F Tim Hardaway Jr. SG Tyler Johnson PF Kristaps Porzingis C Bam Adebayo UTIL Dwight Howard SF Jeremy Lamb",NA,"","","",NA
+843,937070520,"Lrdrake81",0,165.75,"G Courtney Lee UTIL James Johnson PG Goran Dragic SF Tim Hardaway Jr. F Dion Waiters PF Kristaps Porzingis C Serge Ibaka SG Jeremy Lamb",NA,"","","",NA
+843,937452844,"RobertSidney88",0,165.75,"G Courtney Lee PF James Johnson PG Goran Dragic F Tim Hardaway Jr. SF Dion Waiters UTIL Kristaps Porzingis C Serge Ibaka SG Jeremy Lamb",NA,"","","",NA
+843,937507356,"Sect124 (2/3)",0,165.75,"G Courtney Lee PF James Johnson PG Goran Dragic SF Tim Hardaway Jr. SG Dion Waiters C Kristaps Porzingis UTIL Serge Ibaka F Jeremy Lamb",NA,"","","",NA
+843,937604018,"mjikard (1/2)",0,165.75,"SG Courtney Lee UTIL Goran Dragic F Tim Hardaway Jr. PF Kristaps Porzingis C Dwight Howard G Nicolas Batum SF Michael Kidd-Gilchrist PG Michael Carter-Williams",NA,"","","",NA
+847,937122627,"htwonjoe (9/20)",0,164.75,"F James Johnson PG Goran Dragic UTIL Kyle O'Quinn G Tim Hardaway Jr. C Enes Kanter PF Kristaps Porzingis SG Nicolas Batum SF Jeremy Lamb",NA,"","","",NA
+848,937154551,"Chicken2569 (1/2)",0,164.25,"PG Goran Dragic SF Tim Hardaway Jr. F Dion Waiters C Kristaps Porzingis G DeMar DeRozan SG Jeremy Lamb UTIL Michael Kidd-Gilchrist PF Pascal Siakam",NA,"","","",NA
+848,937154565,"Chicken2569 (2/2)",0,164.25,"PG Goran Dragic SF Tim Hardaway Jr. F Dion Waiters C Kristaps Porzingis G DeMar DeRozan SG Jeremy Lamb UTIL Michael Kidd-Gilchrist PF Pascal Siakam",NA,"","","",NA
+850,937191428,"deridk (1/2)",0,163.25,"C Hassan Whiteside SF Tim Hardaway Jr. PF Kristaps Porzingis PG Kyle Lowry F Nicolas Batum SG Jeremy Lamb UTIL Michael Carter-Williams G Norman Powell",NA,"","","",NA
+850,937326539,"MisterJ5 (1/20)",0,163.25,"F Wayne Ellington PG Goran Dragic UTIL Tim Hardaway Jr. SG Dion Waiters C Kristaps Porzingis PF Bam Adebayo G Kyle Lowry SF Nicolas Batum",NA,"","","",NA
+852,937247386,"jay585 (4/17)",0,163,"PG Goran Dragic G Tim Hardaway Jr. SF Dion Waiters UTIL Josh Richardson PF Kristaps Porzingis C Dwight Howard SG Nicolas Batum F Michael Kidd-Gilchrist",NA,"","","",NA
+853,936875674,"mikecent (1/18)",0,162.25,"UTIL Jarrett Jack SF Wayne Ellington F James Johnson C Hassan Whiteside PF Kristaps Porzingis PG Kyle Lowry SG DeMar DeRozan G Norman Powell",NA,"","","",NA
+854,937231206,"rd2104",0,162,"C Hassan Whiteside SG Tim Hardaway Jr. SF Josh Richardson PF Kristaps Porzingis UTIL Marvin Williams PG Kyle Lowry G DeMar DeRozan F Dwayne Bacon",NA,"","","",NA
+854,937426717,"gfay63 (19/20)",0,162,"C Kelly Olynyk SG Tyler Johnson UTIL Bam Adebayo SF Marvin Williams F Michael Kidd-Gilchrist PG Michael Carter-Williams G Fred VanVleet PF Pascal Siakam",NA,"","","",NA
+856,936606389,"kcrebels17",0,161.25,"SF Michael Beasley UTIL Hassan Whiteside F Tim Hardaway Jr. SG Dion Waiters PF Kristaps Porzingis G Kyle Lowry C Serge Ibaka PG Malik Monk",NA,"","","",NA
+856,937122632,"htwonjoe (14/20)",0,161.25,"G Courtney Lee PF James Johnson PG Goran Dragic C Hassan Whiteside SG Tim Hardaway Jr. SF DeMar DeRozan F Jeremy Lamb UTIL OG Anunoby",NA,"","","",NA
+858,937402246,"willdmd70 (2/4)",0,159.5,"PF James Johnson PG Goran Dragic F Tim Hardaway Jr. C Kristaps Porzingis UTIL Bam Adebayo G Kyle Lowry SG Nicolas Batum SF Michael Kidd-Gilchrist",NA,"","","",NA
+859,937021143,"mikecent (6/18)",0,158.75,"G Wayne Ellington UTIL Hassan Whiteside PF Kristaps Porzingis SG Frank Ntilikina C Dwight Howard PG Kyle Lowry F DeMar DeRozan SF OG Anunoby",NA,"","","",NA
+860,937154195,"kaf1217 (2/2)",0,158.5,"F James Johnson PG Goran Dragic C Kyle O'Quinn SF Tim Hardaway Jr. PF Kristaps Porzingis UTIL Dwight Howard G Jeremy Lamb SG Norman Powell",NA,"","","",NA
+861,937246969,"jay585 (3/17)",0,158.25,"G Goran Dragic F Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis C Dwight Howard SG Nicolas Batum UTIL Michael Kidd-Gilchrist PG Michael Carter-Williams",NA,"","","",NA
+862,937136011,"RememberSammyJenkins (4/18)",0,157.5,"F James Johnson UTIL Goran Dragic SF Tim Hardaway Jr. G Dion Waiters C Kristaps Porzingis PF Marvin Williams SG DeMar DeRozan PG Malik Monk",NA,"","","",NA
+863,936510699,"broncosfan4life77",0,157,"PG Jarrett Jack SF Courtney Lee G Goran Dragic PF Kyle O'Quinn UTIL Hassan Whiteside SG Josh Richardson F Kristaps Porzingis C Dwight Howard",NA,"","","",NA
+864,937196685,"dmavs41",0,154,"F Courtney Lee C Hassan Whiteside SG Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis UTIL Nicolas Batum G Jeremy Lamb PG Michael Carter-Williams",NA,"","","",NA
+865,937467426,"watsonM (3/3)",0,153,"PG Jarrett Jack PF James Johnson UTIL Goran Dragic SG Tim Hardaway Jr. G Dion Waiters F Kristaps Porzingis C Dwight Howard SF Norman Powell",NA,"","","",NA
+866,937472769,"Boyinbklyn",0,149,"PG Goran Dragic SG Tim Hardaway Jr. PF Kristaps Porzingis C Serge Ibaka G Nicolas Batum F DeMar DeRozan UTIL Michael Kidd-Gilchrist SF Norman Powell",NA,"","","",NA
+867,936856722,"dwc1980 (1/2)",0,147.75,"SF Courtney Lee F James Johnson G Goran Dragic UTIL Hassan Whiteside PF Kristaps Porzingis C Dwight Howard PG Michael Carter-Williams SG Norman Powell",NA,"","","",NA
+868,937121139,"bobbyrsanders",0,146.75,"G Goran Dragic C Hassan Whiteside SF Tim Hardaway Jr. PF Kristaps Porzingis PG Kyle Lowry UTIL Michael Carter-Williams F Norman Powell SG Malik Monk",NA,"","","",NA
+869,936876597,"mikecent (2/18)",0,145.5,"C Hassan Whiteside G Tim Hardaway Jr. SG Dion Waiters F Kristaps Porzingis UTIL Dwight Howard SF Nicolas Batum PG Michael Carter-Williams PF Pascal Siakam",NA,"","","",NA
+870,937122626,"htwonjoe (8/20)",0,143.5,"PG Goran Dragic UTIL Hassan Whiteside SF Tim Hardaway Jr. SG Dion Waiters PF Enes Kanter C Kristaps Porzingis F Norman Powell G Fred VanVleet",NA,"","","",NA
+870,937122635,"htwonjoe (17/20)",0,143.5,"PG Goran Dragic C Hassan Whiteside SF Tim Hardaway Jr. SG Dion Waiters F Enes Kanter PF Kristaps Porzingis G Norman Powell UTIL Fred VanVleet",NA,"","","",NA
+872,936841933,"illmidas",0,142.5,"G Goran Dragic PF Kyle O'Quinn C Hassan Whiteside SF Dion Waiters F Kristaps Porzingis UTIL Dwight Howard PG Michael Carter-Williams SG Norman Powell",NA,"","","",NA
+873,937130458,"Cnoteeast",0,142.25,"F James Johnson UTIL Hassan Whiteside SG Tim Hardaway Jr. SF Dion Waiters PG Tyler Johnson C Kristaps Porzingis PF Serge Ibaka G Jeremy Lamb",NA,"","","",NA
+874,936699103,"suresh4887",0,140.75,"G Courtney Lee UTIL James Johnson C Hassan Whiteside F Tim Hardaway Jr. SF Dion Waiters PF Kristaps Porzingis SG Nicolas Batum PG Michael Carter-Williams",NA,"","","",NA
+874,937150854,"vell8488",0,140.75,"SG Courtney Lee PG Goran Dragic F Kyle O'Quinn C Hassan Whiteside G Tim Hardaway Jr. PF Kristaps Porzingis UTIL Serge Ibaka SF Jeremy Lamb",NA,"","","",NA
+874,937630245,"mkendall85 (1/2)",0,140.75,"SG Courtney Lee PG Goran Dragic PF Kyle O'Quinn C Hassan Whiteside SF Tim Hardaway Jr. UTIL Kristaps Porzingis F Serge Ibaka G Jeremy Lamb",NA,"","","",NA
+874,937630356,"mkendall85 (2/2)",0,140.75,"SG Courtney Lee PG Goran Dragic PF Kyle O'Quinn C Hassan Whiteside SF Tim Hardaway Jr. UTIL Kristaps Porzingis F Serge Ibaka G Jeremy Lamb",NA,"","","",NA
+878,937163383,"cwest827",0,139.75,"F James Johnson PG Goran Dragic PF Kyle O'Quinn SG Tim Hardaway Jr. G Dion Waiters UTIL Kristaps Porzingis C Serge Ibaka SF Nicolas Batum",NA,"","","",NA
+879,936936070,"epik4",0,137,"F James Johnson G Goran Dragic PF Kristaps Porzingis C Dwight Howard PG Kemba Walker SG Jeremy Lamb SF Michael Kidd-Gilchrist UTIL Norman Powell",NA,"","","",NA
+880,937033817,"geminiking",0,136.25,"G Courtney Lee PG Goran Dragic C Hassan Whiteside SG Tim Hardaway Jr. F Josh Richardson PF Kristaps Porzingis UTIL Serge Ibaka SF Nicolas Batum",NA,"","","",NA
+881,937016432,"mikecent (4/18)",0,132.75,"PG Goran Dragic C Hassan Whiteside PF Kristaps Porzingis G Frank Ntilikina UTIL Dwight Howard F Marvin Williams SG DeMar DeRozan SF Norman Powell",NA,"","","",NA
+882,937102165,"wilote",0,131.25,"PG Goran Dragic C Hassan Whiteside SG Dion Waiters PF Kristaps Porzingis SF Nicolas Batum F Jeremy Lamb G Michael Carter-Williams UTIL Norman Powell",NA,"","","",NA
+883,937122622,"htwonjoe (4/20)",0,130.25,"SG Courtney Lee PG Goran Dragic F Kyle O'Quinn C Hassan Whiteside SF Tim Hardaway Jr. G Dion Waiters PF Kristaps Porzingis UTIL Norman Powell",NA,"","","",NA
+884,937078960,"MrBurton44",0,120.5,"SG Courtney Lee F James Johnson PG Goran Dragic C Kyle O'Quinn UTIL Hassan Whiteside SF Tim Hardaway Jr. PF Kristaps Porzingis G Norman Powell",NA,"","","",NA
+885,936984751,"KingPablo2323",0,0,"",NA,"","","",NA
+885,937200367,"TyranicalMike",0,0,"",NA,"","","",NA
+885,937251896,"jay585 (16/17)",0,0,"",NA,"","","",NA
+885,937556402,"jdgittins",0,0,"",NA,"","","",NA
+885,937615986,"mrmines (1/4)",0,0,"",NA,"","","",NA
+885,937616138,"mrmines (2/4)",0,0,"",NA,"","","",NA
+885,937616237,"mrmines (3/4)",0,0,"",NA,"","","",NA

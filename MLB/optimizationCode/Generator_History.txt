@@ -1,0 +1,89 @@
+Generated Lineups:
+
+1. Form 5 4/14-6/3, 6/6, 6/12, 6/18:
+    for stack in 4:5 #stack
+        for overlap in 5:5
+            for lambda in 1:3 # time line
+              for exposure_P in [0.8] # time line
+                for exposure_B1 in [0.3,0.5] # time line
+                  for exposure_B2 in [0.3,0.4] # time line
+                    for exposure_B3 in [0.6] # time line
+                      for exposure_C in [0.3,0.5] # time line
+                        for exposure_SS in [0.3,0.5] # time line
+                          for exposure_OF in [0.6] # time line
+
+2. Form 5 6/4-onwards (note: starting 6/9 we use a debugged form 5)
+    for stack in 5:5 #stack
+        for overlap in 5:5
+            for lambda in 1:1 # time line
+              for exposure_P in [0.8] # time line
+                for exposure_B1 in [0.3,0.5] # never past 0.4, few past 0.3
+                  for exposure_B2 in [0.4] # almost never hits upper
+                    for exposure_B3 in [0.6] # never past 0.4
+                      for exposure_C in [0.3,0.5] # never past 0.4, few past 0.3
+                        for exposure_SS in [0.3,0.5] # never past 0.4
+                          for exposure_OF in [0.6] # hits 0.6 once, rarely past 0.5
+
+3. Like #2 but with lambda [5,10,100]
+    for stack in 5:5 #stack
+        for overlap in 5:5
+            for lambda in [5, 10, 100] # time line
+              for exposure_P in [0.8] # time line
+                for exposure_B1 in [0.3] # time line
+                  for exposure_B2 in [0.4] # time line
+                    for exposure_B3 in [0.6] # time line
+                      for exposure_C in [0.3] # time line
+                        for exposure_SS in [0.5] # time line
+                          for exposure_OF in [0.6] # time line
+
+4. Form 7
+    for stack in 5:5 #stack
+        for overlap in 5:5
+            for lambda in [0, 0.001] # time line
+              for exposure_P in [0.8] # time line
+                for exposure_B1 in [0.3, 0.5] # time line
+                  for exposure_B2 in [0.4] # time line
+                    for exposure_B3 in [0.6] # time line
+                      for exposure_C in [0.3, 0.5] # time line
+                        for exposure_SS in [0.5] # time line
+                          for exposure_OF in [0.6] # time line
+                            for min_pitcher_exposure in [0.5, 0.6, 0.7]
+
+5. Form 8
+    for stack in 5:5 #stack
+        for overlap in 5:5
+            for lambda in 2:5 # time line
+              for exposure_P in [0.8] # time line
+                for exposure_B1 in [0.5] # time line
+                  for exposure_B2 in [0.4] # time line
+                    for exposure_B3 in [0.6] # time line
+                      for exposure_C in [0.5] # time line
+                        for exposure_SS in [0.5] # time line
+                          for exposure_OF in [0.6] # time line
+                            for min_pitcher_exposure in [0.5, 0.6, 0.7]
+
+6. Form 9 (3200 and 2800 C max salary)
+    for stack in 5:5 #stack
+        for overlap in 5:5
+            for lambda in [1] # time line
+              for exposure_P in [0.8] # time line
+                for exposure_B1 in [0.5] # time line
+                  for exposure_B2 in [0.4] # time line
+                    for exposure_B3 in [0.6] # time line
+                      for exposure_C in [0.5] # time line
+                        for exposure_SS in [0.5] # time line
+                          for exposure_OF in [0.6] # time line
+
+5. Form 8
+    for stack in 5:5 #stack
+        for overlap in 5:5
+            for lambda in [0, 6, 7, 8, 9, 10, 50] # time line
+              for exposure_P in [0.8] # time line
+                for exposure_B1 in [0.5] # time line
+                  for exposure_B2 in [0.4] # time line
+                    for exposure_B3 in [0.6] # time line
+                      for exposure_C in [0.5] # time line
+                        for exposure_SS in [0.5] # time line
+                          for exposure_OF in [0.6] # time line
+                            for min_pitcher_exposure in [0.6, 0.7]
+                              num_overlap = overlap

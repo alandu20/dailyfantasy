@@ -1,0 +1,31 @@
+"player","salary","team","pos","opp","ceil","floor","fpts"
+"Philadelphia Eagles",2800,"PHI","DST","WAS",NA,NA,9.72
+"Pittsburgh Steelers",3200,"PIT","DST","CIN",NA,NA,9.66
+"Oakland Raiders",2500,"OAK","DST","KCC",NA,NA,8.21
+"New York Jets",3000,"NYJ","DST","MIA",NA,NA,7.44
+"New Orleans Saints",3000,"NOS","DST","GBP",NA,NA,7.24
+"New York Giants",2600,"NYG","DST","SEA",NA,NA,7.35
+"Los Angeles Chargers",2400,"LAC","DST","DEN",NA,NA,7.9
+"San Francisco 49ers",2100,"SFO","DST","DAL",NA,NA,5.44
+"Washington Redskins",2400,"WAS","DST","PHI",NA,NA,7.4
+"Baltimore Ravens",2900,"BAL","DST","MIN",NA,NA,9.76
+"Tennessee Titans",3400,"TEN","DST","CLE",NA,NA,10.5
+"Tampa Bay Buccaneers",2700,"TBB","DST","BUF",NA,NA,8.22
+"Seattle Seahawks",4000,"SEA","DST","NYG",NA,NA,10.94
+"Los Angeles Rams",2600,"LAR","DST","ARI",NA,NA,10.21
+"New England Patriots",2300,"NEP","DST","ATL",NA,NA,7.08
+"Minnesota Vikings",3300,"MIN","DST","BAL",NA,NA,10.12
+"Cincinnati Bengals",2500,"CIN","DST","PIT",NA,NA,7.95
+"Cleveland Browns",2300,"CLE","DST","TEN",NA,NA,6.21
+"Chicago Bears",2200,"CHI","DST","CAR",NA,NA,7.19
+"Carolina Panthers",3600,"CAR","DST","CHI",NA,NA,11.4
+"Atlanta Falcons",2100,"ATL","DST","NEP",NA,NA,5.44
+"Buffalo Bills",3400,"BUF","DST","TBB",NA,NA,10.64
+"Dallas Cowboys",3500,"DAL","DST","SFO",NA,NA,9.2
+"Denver Broncos",3500,"DEN","DST","LAC",NA,NA,10.43
+"Kansas City Chiefs",2800,"KCC","DST","OAK",NA,NA,8.94
+"Miami Dolphins",3100,"MIA","DST","NYJ",NA,NA,9.25
+"Jacksonville Jaguars",3700,"JAC","DST","IND",NA,NA,12.41
+"Indianapolis Colts",2800,"IND","DST","JAC",NA,NA,8.04
+"Green Bay Packers",2300,"GBP","DST","NOS",NA,NA,7.88
+"Arizona Cardinals",2400,"ARI","DST","LAR",NA,NA,8.74

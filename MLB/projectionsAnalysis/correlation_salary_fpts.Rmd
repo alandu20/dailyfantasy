@@ -1,0 +1,120 @@
+---
+title: "Correlation Analysis: Salary vs Fantasy Points"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+require("knitr")
+knitr::opts_chunk$set(echo = TRUE)
+if(file.exists("~/Projects/DFS/")) {
+  opts_knit$set(root.dir = "~/Projects/DFS/")
+} else {
+  opts_knit$set(root.dir = "~/Documents/DFS/")
+}
+```
+
+## Catchers
+
+We hypothesize that the correlation between salary and fantasy points is lowest for catchers. One reason for this belief is that catchers historically have a lower BA than other positions. Furthermore, we noticed that most of our high PnL lineups have cheap and low scoring catchers.
+
+```{r, echo=FALSE, comment=NA, message=FALSE}
+# list all hitter csvs in dfn updates folder
+file_paths <- list.files(path = "MLB/data_warehouse/projections/dailyfantasynerd/updates/", pattern = "*hitters*")
+
+# initialize df for storing all results
+results_df <- NULL
+
+# iterate through all hitter csvs and append to results_df
+for (i in 1:length(file_paths)) {
+  temp_hitters <- read.csv(file = paste0("MLB/data_warehouse/projections/dailyfantasynerd/updates/", file_paths[i]), stringsAsFactors = F, header = T)
+  temp_hitters <- temp_hitters[, c("Player.Name", "Pos", "Team", "Salary", "Proj.FP", "Actual.FP")]
+  results_df <- rbind(results_df, temp_hitters)
+}
+
+# subset
+position_df <- results_df[grepl("C", results_df$Pos), ]
+
+# correlation between salary and fpts
+print(paste0("Correlation (Salary, Actual Fpts): ", cor(position_df$Salary, position_df$Actual.FP)))
+
+# plot
+plot(position_df$Salary, position_df$Actual.FP, xlab = "Salary", ylab = "Fantasy Points", main = "Catchers")
+
+# correlation between projected and actual fpts
+print(paste0("Correlation (Proj, Actual Fpts): ", cor(position_df$Proj.FP, position_df$Actual.FP)))
+```
+
+## 1B
+```{r, echo=FALSE, comment=NA, message=FALSE}
+# subset
+position_df <- results_df[grepl("1B", results_df$Pos), ]
+
+# correlation between salary and fpts
+print(paste0("Correlation (Salary, Actual Fpts): ", cor(position_df$Salary, position_df$Actual.FP)))
+
+# plot
+plot(position_df$Salary, position_df$Actual.FP, xlab = "Salary", ylab = "Fantasy Points", main = "1B")
+
+# correlation between projected and actual fpts
+print(paste0("Correlation (Proj, Actual Fpts): ", cor(position_df$Proj.FP, position_df$Actual.FP)))
+```
+
+## 2B
+```{r, echo=FALSE, comment=NA, message=FALSE}
+# subset
+position_df <- results_df[grepl("2B", results_df$Pos), ]
+
+# correlation between salary and fpts
+print(paste0("Correlation (Salary, Actual Fpts): ", cor(position_df$Salary, position_df$Actual.FP)))
+
+# plot
+plot(position_df$Salary, position_df$Actual.FP, xlab = "Salary", ylab = "Fantasy Points", main = "2B")
+
+# correlation between projected and actual fpts
+print(paste0("Correlation (Proj, Actual Fpts): ", cor(position_df$Proj.FP, position_df$Actual.FP)))
+```
+
+## 3B
+```{r, echo=FALSE, comment=NA, message=FALSE}
+# subset
+position_df <- results_df[grepl("3B", results_df$Pos), ]
+
+# correlation between salary and fpts
+print(paste0("Correlation (Salary, Actual Fpts): ", cor(position_df$Salary, position_df$Actual.FP)))
+
+# plot
+plot(position_df$Salary, position_df$Actual.FP, xlab = "Salary", ylab = "Fantasy Points", main = "3B")
+
+# correlation between projected and actual fpts
+print(paste0("Correlation (Proj, Actual Fpts): ", cor(position_df$Proj.FP, position_df$Actual.FP)))
+```
+
+## SS
+```{r, echo=FALSE, comment=NA, message=FALSE}
+# subset
+position_df <- results_df[grepl("SS", results_df$Pos), ]
+
+# correlation between salary and fpts
+print(paste0("Correlation (Salary, Actual Fpts): ", cor(position_df$Salary, position_df$Actual.FP)))
+
+# plot
+plot(position_df$Salary, position_df$Actual.FP, xlab = "Salary", ylab = "Fantasy Points", main = "SS")
+
+# correlation between projected and actual fpts
+print(paste0("Correlation (Proj, Actual Fpts): ", cor(position_df$Proj.FP, position_df$Actual.FP)))
+```
+
+## OF
+```{r, echo=FALSE, comment=NA, message=FALSE}
+# subset
+position_df <- results_df[grepl("OF", results_df$Pos), ]
+
+# correlation between salary and fpts
+print(paste0("Correlation (Salary, Actual Fpts): ", cor(position_df$Salary, position_df$Actual.FP)))
+
+# plot
+plot(position_df$Salary, position_df$Actual.FP, xlab = "Salary", ylab = "Fantasy Points", main = "OF")
+
+# correlation between projected and actual fpts
+print(paste0("Correlation (Proj, Actual Fpts): ", cor(position_df$Proj.FP, position_df$Actual.FP)))
+```

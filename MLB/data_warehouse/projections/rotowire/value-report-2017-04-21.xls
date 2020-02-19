@@ -1,0 +1,497 @@
+Full Name	First Name	Last Name	Bats	Throws	Position	Team	Opponent	Injury Status	Lineup	Salary	Proj FP	Proj Value	L5 FP/G	L5 Value	Season FP/G	Season Value	
+Corey Kluber	Corey	Kluber	R	R	P	CLE	@CWS	-		10,800	21.3	1.97	13.2	1.22	13.2	1.22	
+Justin Verlander	Justin	Verlander	R	R	P	DET	@Min	-		10,300	19.6	1.90	14.0	1.36	14.0	1.36	
+Jon Lester	Jon	Lester	L	L	P	CHC	@Cin	-		10,600	17.9	1.69	19.5	1.84	19.5	1.84	
+Johnny Cueto	Johnny	Cueto	R	R	P	SF 	@Col	-		8,100	17.0	2.10	20.1	2.48	20.1	2.48	
+Cole Hamels	Cole	Hamels	L	L	P	TEX	KC	-		9,300	17.0	1.83	11.2	1.20	11.2	1.20	
+Jacob deGrom	Jacob	deGrom	L	R	P	NYM	Was	-		10,200	15.6	1.53	23.1	2.26	23.1	2.26	
+Mike Fiers	Mike	Fiers	R	R	P	HOU	@TB	-		7,200	14.9	2.07	8.8	1.22	8.8	1.22	
+Drew Pomeranz	Drew	Pomeranz	R	L	P	BOS	@Bal	-		6,700	14.8	2.20	20.0	2.99	20.0	2.99	
+Sean Manaea	Sean	Manaea	L	L	P	OAK	Sea	-		7,800	13.9	1.79	14.7	1.89	14.7	1.89	
+Adam Wainwright	Adam	Wainwright	R	R	P	STL	@Mil	-		6,000	13.7	2.28	5.6	0.93	5.6	0.93	
+Jose Quintana	Jose	Quintana	L	L	P	CWS	Cle	-		7,700	13.5	1.75	7.9	1.02	7.9	1.02	
+Jeremy Hellickson	Jeremy	Hellickson	R	R	P	PHI	Atl	-		7,300	13.4	1.83	13.8	1.88	13.8	1.88	
+Tanner Roark	Tanner	Roark	R	R	P	WAS	@NYM	-		8,000	13.1	1.64	15.9	1.99	15.9	1.99	
+Hisashi Iwakuma	Hisashi	Iwakuma	R	R	P	SEA	@Oak	-		7,500	13.1	1.74	5.3	0.70	5.3	0.70	
+Tyler Glasnow	Tyler	Glasnow	L	R	P	PIT	NYY	-		6,600	13.0	1.97	1.1	0.17	1.1	0.17	
+Alex Wood	Alex	Wood	R	L	P	LAD	@Ari	-		6,800	12.3	1.81	11.0	1.61	11.0	1.61	
+Dylan Bundy	Dylan	Bundy	R	R	P	BAL	Bos	-		6,900	11.9	1.72	22.0	3.19	22.0	3.19	
+Taijuan Walker	Taijuan	Walker	R	R	P	ARI	LAD	-		7,900	11.5	1.46	16.1	2.03	16.1	2.03	
+Adam Conley	Adam	Conley	L	L	P	MIA	@SD	-		7,000	11.3	1.62	10.6	1.51	10.6	1.51	
+Alex Cobb	Alex	Cobb	R	R	P	TB 	Hou	-		7,100	11.1	1.56	11.4	1.60	11.4	1.60	
+Nathan Karns	Nathan	Karns	R	R	P	KC 	@Tex	-		5,900	11.0	1.86	6.8	1.15	6.8	1.15	
+CC Sabathia	CC	Sabathia	L	L	P	NYY	@Pit	-		7,400	10.7	1.44	17.8	2.40	17.8	2.40	
+Bartolo Colon	Bartolo	Colon	R	R	P	ATL	@Phi	-		6,900	10.4	1.50	15.3	2.21	15.3	2.21	
+Tyler Chatwood	Tyler	Chatwood	R	R	P	COL	SF	-		6,100	10.1	1.66	19.4	3.18	19.4	3.18	
+Hector Santiago	Hector	Santiago	R	L	P	MIN	Det	-		6,400	10.0	1.57	16.6	2.60	16.6	2.60	
+Paul Goldschmidt	Paul	Goldschmidt	R	R	1B	ARI	LAD	-		5,100	9.9	1.95	6.8	1.33	9.8	1.91	
+Mike Trout	Mike	Trout	R	R	OF	LAA	Tor	-		5,300	9.8	1.85	8.8	1.66	12.1	2.29	
+Trevor Cahill	Trevor	Cahill	R	R	P	SD 	Mia	-		5,600	9.5	1.69	17.0	3.03	17.0	3.03	
+A.J. Pollock	A.J.	Pollock	R	R	OF	ARI	LAD	-		4,100	9.4	2.30	10.6	2.59	9.3	2.26	
+Kris Bryant	Kris	Bryant	R	R	3B	CHC	@Cin	-		5,200	9.3	1.80	11.2	2.15	10.4	2.00	
+Bryce Harper	Bryce	Harper	L	R	OF	WAS	@NYM	-		5,200	9.2	1.77	20.8	4.00	16.5	3.17	
+Alex Meyer	Alex	Meyer	R	R	P	LAA	Tor	-		4,700	9.2	1.95	0	0	0	0	
+Mookie Betts	Mookie	Betts	R	R	OF	BOS	@Bal	-		5,400	9.1	1.69	16.2	3.00	10.5	1.94	
+Corey Seager	Corey	Seager	L	R	SS	LAD	@Ari	-		4,600	9.1	1.97	6.0	1.30	9.7	2.11	
+Freddie Freeman	Freddie	Freeman	L	R	1B	ATL	@Phi	-		4,600	9.0	1.95	16.2	3.52	14.7	3.20	
+Nolan Arenado	Nolan	Arenado	R	R	3B	COL	SF	-		5,300	9.0	1.69	16.2	3.06	13.4	2.52	
+Charlie Blackmon	Charlie	Blackmon	L	L	OF	COL	SF	-		5,100	9.0	1.76	7.6	1.49	8.8	1.72	
+Anthony Rizzo	Anthony	Rizzo	L	L	1B	CHC	@Cin	-		5,300	9.0	1.69	9.8	1.85	9.1	1.71	
+Lorenzo Cain	Lorenzo	Cain	R	R	OF	KC 	@Tex	-		4,200	8.9	2.12	6.8	1.62	9.3	2.21	
+Andrew McCutchen	Andrew	McCutchen	R	R	OF	PIT	NYY	-		4,300	8.8	2.05	8.2	1.91	7.7	1.78	
+Nelson Cruz	Nelson	Cruz	R	R	OF	SEA	@Oak	-		4,200	8.6	2.05	9.0	2.14	7.7	1.83	
+Miguel Cabrera	Miguel	Cabrera	R	R	1B	DET	@Min	-		4,900	8.6	1.76	10.0	2.04	8.3	1.69	
+Joey Votto	Joey	Votto	L	R	1B	CIN	ChC	-		4,600	8.6	1.87	12.0	2.61	10.1	2.20	
+Jose Altuve	Jose	Altuve	R	R	2B	HOU	@TB	-		4,500	8.6	1.90	8.8	1.96	9.2	2.04	
+Jonathan Villar	Jonathan	Villar	B	R	2B	MIL	StL	-		4,500	8.6	1.90	3.0	0.67	7.9	1.76	
+Ian Kinsler	Ian	Kinsler	R	R	2B	DET	@Min	-		4,400	8.5	1.94	8.4	1.91	9.4	2.14	
+Brandon Belt	Brandon	Belt	L	L	1B	SF 	@Col	-		5,000	8.5	1.71	5.2	1.04	9.9	1.99	
+Ryan Braun	Ryan	Braun	R	R	OF	MIL	StL	-		5,000	8.5	1.69	14.2	2.84	12.7	2.55	
+Manny Machado	Manny	Machado	R	R	3B	BAL	Bos	-		4,600	8.5	1.84	6.2	1.35	7.1	1.55	
+Carlos Gonzalez	Carlos	Gonzalez	L	L	OF	COL	SF	Day-To-Day		5,000	8.4	1.68	2.0	0.40	4.9	0.99	
+Brian Dozier	Brian	Dozier	R	R	2B	MIN	Det	-		4,300	8.4	1.94	6.8	1.58	9.0	2.09	
+Christian Yelich	Christian	Yelich	L	R	OF	MIA	@SD	-		4,400	8.4	1.90	14.8	3.36	11.5	2.62	
+Justin Upton	Justin	Upton	R	R	OF	DET	@Min	Day-To-Day		4,200	8.3	1.97	10.4	2.48	8.5	2.02	
+Carlos Correa	Carlos	Correa	R	R	SS	HOU	@TB	-		4,400	8.3	1.88	4.0	0.91	5.8	1.31	
+Matt Carpenter	Matt	Carpenter	L	R	1B	STL	@Mil	-		4,700	8.2	1.75	9.2	1.96	6.8	1.44	
+Justin Turner	Justin	Turner	R	R	3B	LAD	@Ari	Day-To-Day		3,700	8.2	2.22	9.0	2.43	9.8	2.64	
+Rougned Odor	Rougned	Odor	L	R	2B	TEX	KC	-		4,500	8.2	1.82	4.0	0.89	7.7	1.71	
+Trevor Story	Trevor	Story	R	R	SS	COL	SF	-		4,900	8.1	1.66	5.4	1.10	6.5	1.33	
+Billy Hamilton	Billy	Hamilton	B	R	OF	CIN	ChC	-		3,900	8.1	2.08	5.2	1.33	8.0	2.05	
+Edwin Encarnacion	Edwin	Encarnacion	R	R	1B	CLE	@CWS	-		4,200	8.1	1.93	10.2	2.43	7.5	1.78	
+Wil Myers	Wil	Myers	R	R	1B	SD 	Mia	-		4,500	8.1	1.80	6.8	1.51	12.0	2.67	
+Daniel Murphy	Daniel	Murphy	L	R	2B	WAS	@NYM	Day-To-Day		4,000	8.1	2.02	4.2	1.05	11.4	2.86	
+Yasmany Tomas	Yasmany	Tomas	R	R	OF	ARI	LAD	-		3,900	8.1	2.07	6.4	1.64	9.1	2.33	
+Joc Pederson	Joc	Pederson	L	R	OF	LAD	@Ari	-		3,800	8.0	2.11	1.8	0.47	4.9	1.28	
+Max Kepler	Max	Kepler	L	L	OF	MIN	Det	-		3,600	8.0	2.22	9.4	2.61	9.3	2.57	
+Todd Frazier	Todd	Frazier	R	R	3B	CWS	Cle	Day-To-Day		4,100	8.0	1.95	7.4	1.80	5.9	1.43	
+Giancarlo Stanton	Giancarlo	Stanton	R	R	OF	MIA	@SD	-		4,700	7.9	1.69	8.6	1.83	9.2	1.96	
+Jose Peraza	Jose	Peraza	R	R	2B	CIN	ChC	-		3,600	7.9	2.20	4.0	1.11	7.5	2.07	
+Hunter Pence	Hunter	Pence	R	R	OF	SF 	@Col	-		5,300	7.9	1.49	5.4	1.02	7.8	1.46	
+Francisco Lindor	Francisco	Lindor	B	R	SS	CLE	@CWS	-		3,900	7.9	2.02	9.0	2.31	13.3	3.42	
+Carlos Santana	Carlos	Santana	B	R	1B	CLE	@CWS	-		4,100	7.8	1.91	12.4	3.02	10.5	2.55	
+Jose Bautista	Jose	Bautista	R	R	OF	TOR	@LAA	-		4,300	7.8	1.82	2.6	0.60	4.3	0.99	
+George Springer	George	Springer	R	R	OF	HOU	@TB	-		4,200	7.8	1.86	8.8	2.10	11.1	2.65	
+Curtis Granderson	Curtis	Granderson	L	R	OF	NYM	Was	-		3,700	7.8	2.11	2.4	0.65	4.4	1.19	
+Dee Gordon	Dee	Gordon	L	R	2B	MIA	@SD	-		4,300	7.8	1.81	5.6	1.30	8.3	1.94	
+Evan Longoria	Evan	Longoria	R	R	3B	TB 	Hou	-		4,100	7.8	1.90	5.8	1.41	7.9	1.92	
+Adrian Gonzalez	Adrian	Gonzalez	L	L	1B	LAD	@Ari	-		3,900	7.8	1.99	4.2	1.08	5.5	1.41	
+Khris Davis	Khris	Davis	R	R	OF	OAK	Sea	-		3,800	7.7	2.03	11.6	3.05	12.6	3.31	
+Yoenis Cespedes	Yoenis	Cespedes	R	R	OF	NYM	Was	Day-To-Day		4,200	7.7	1.84	5.2	1.24	11.6	2.77	
+Wily Peralta	Wily	Peralta	R	R	P	MIL	StL	-		5,700	7.7	1.35	18.1	3.17	18.1	3.17	
+Miguel Sano	Miguel	Sano	R	R	3B	MIN	Det	-		3,900	7.6	1.96	6.8	1.74	12.1	3.11	
+Odubel Herrera	Odubel	Herrera	L	R	OF	PHI	Atl	-		4,000	7.6	1.91	7.6	1.90	7.8	1.95	
+Addison Russell	Addison	Russell	R	R	SS	CHC	@Cin	-		4,000	7.6	1.91	10.6	2.65	10.4	2.60	
+Xander Bogaerts	Xander	Bogaerts	R	R	SS	BOS	@Bal	Day-To-Day		5,000	7.6	1.52	5.0	1.00	7.3	1.45	
+Adam Eaton	Adam	Eaton	L	L	OF	WAS	@NYM	-		3,700	7.6	2.05	8.2	2.22	10.9	2.94	
+Kole Calhoun	Kole	Calhoun	L	L	OF	LAA	Tor	-		3,700	7.6	2.05	1.8	0.49	6.0	1.62	
+Anthony Rendon	Anthony	Rendon	R	R	3B	WAS	@NYM	-		3,500	7.6	2.16	7.0	2.00	4.9	1.41	
+Hanley Ramirez	Hanley	Ramirez	R	R	1B	BOS	@Bal	-		5,200	7.6	1.45	4.8	0.92	6.5	1.25	
+Eric Thames	Eric	Thames	L	L	1B	MIL	StL	-		3,800	7.5	1.99	18.0	4.74	17.5	4.60	
+Brandon Crawford	Brandon	Crawford	L	R	SS	SF 	@Col	-		4,700	7.5	1.61	7.8	1.66	8.5	1.81	
+Andrew Benintendi	Andrew	Benintendi	L	L	OF	BOS	@Bal	-		4,400	7.5	1.71	11.8	2.68	9.8	2.22	
+Corey Dickerson	Corey	Dickerson	L	R	OF	TB 	Hou	-		3,300	7.5	2.28	8.6	2.61	9.7	2.94	
+Tim Adleman	Tim	Adleman	R	R	P	CIN	ChC	-		4,500	7.4	1.66	15.8	3.51	15.8	3.51	
+Carlos Gomez	Carlos	Gomez	R	R	OF	TEX	KC	-		4,000	7.4	1.86	5.8	1.45	8.1	2.03	
+DJ LeMahieu	DJ	LeMahieu	R	R	2B	COL	SF	-		4,400	7.4	1.69	7.2	1.64	7.2	1.63	
+Manuel Margot	Manuel	Margot	R	R	OF	SD 	Mia	-		3,400	7.4	2.18	2.0	0.59	8.3	2.44	
+Kyle Schwarber	Kyle	Schwarber	L	R	OF	CHC	@Cin	-		4,900	7.4	1.51	7.6	1.55	9.3	1.90	
+Dexter Fowler	Dexter	Fowler	B	R	OF	STL	@Mil	-		4,800	7.4	1.54	9.2	1.92	6.7	1.39	
+Stephen Piscotty	Stephen	Piscotty	R	R	OF	STL	@Mil	-		4,500	7.4	1.64	4.0	0.89	7.3	1.62	
+Danny Valencia	Danny	Valencia	R	R	1B	SEA	@Oak	-		3,200	7.4	2.31	5.0	1.56	4.6	1.45	
+Nick Castellanos	Nick	Castellanos	R	R	3B	DET	@Min	-		3,800	7.4	1.94	8.8	2.32	10.1	2.65	
+Brad Miller	Brad	Miller	L	R	2B	TB 	Hou	-		3,600	7.4	2.04	8.6	2.39	7.9	2.21	
+Jay Bruce	Jay	Bruce	L	L	OF	NYM	Was	-		3,400	7.4	2.16	10.6	3.12	12.6	3.71	
+Alex Bregman	Alex	Bregman	R	R	3B	HOU	@TB	-		3,700	7.4	1.99	7.6	2.05	6.8	1.82	
+Aledmys Diaz	Aledmys	Diaz	R	R	SS	STL	@Mil	-		4,500	7.3	1.63	3.2	0.71	8.9	1.99	
+Eugenio Suarez	Eugenio	Suarez	R	R	3B	CIN	ChC	-		3,400	7.3	2.16	8.6	2.53	11.3	3.33	
+Mark Trumbo	Mark	Trumbo	R	R	OF	BAL	Bos	-		4,400	7.3	1.67	6.6	1.50	7.6	1.72	
+Nomar Mazara	Nomar	Mazara	L	L	OF	TEX	KC	-		3,800	7.3	1.92	8.8	2.32	11.4	3.01	
+Jose Abreu	Jose	Abreu	R	R	1B	CWS	Cle	-		3,900	7.3	1.86	3.8	0.97	5.1	1.32	
+Shin-Soo Choo	Shin-Soo	Choo	L	L	OF	TEX	KC	-		4,400	7.3	1.65	7.8	1.77	6.8	1.56	
+Dansby Swanson	Dansby	Swanson	R	R	SS	ATL	@Phi	-		3,300	7.3	2.20	1.4	0.42	3.5	1.07	
+Jacoby Ellsbury	Jacoby	Ellsbury	L	L	OF	NYY	@Pit	-		3,500	7.3	2.07	5.2	1.49	7.7	2.21	
+Kendrys Morales	Kendrys	Morales	B	R	1B	TOR	@LAA	-		3,500	7.2	2.07	8.4	2.40	8.3	2.38	
+Brett Gardner	Brett	Gardner	L	L	OF	NYY	@Pit	-		3,600	7.2	2.01	4.8	1.33	8.2	2.26	
+Asdrubal Cabrera	Asdrubal	Cabrera	B	R	SS	NYM	Was	-		3,500	7.2	2.06	8.0	2.29	8.8	2.50	
+Josh Harrison	Josh	Harrison	R	R	2B	PIT	NYY	-		3,500	7.2	2.06	7.0	2.00	6.4	1.82	
+C.J. Cron	C.J.	Cron	R	R	1B	LAA	Tor	-		3,500	7.2	2.06	2.2	0.63	3.8	1.07	
+Cesar Hernandez	Cesar	Hernandez	B	R	2B	PHI	Atl	-		3,400	7.2	2.12	13.6	4.00	12.0	3.53	
+Jarrod Dyson	Jarrod	Dyson	L	R	OF	SEA	@Oak	-		2,900	7.2	2.48	8.4	2.90	7.1	2.44	
+Buster Posey	Buster	Posey	R	R	C	SF 	@Col	-		5,100	7.2	1.41	8.0	1.57	8.6	1.68	
+Adam Duvall	Adam	Duvall	R	R	OF	CIN	ChC	-		4,000	7.1	1.78	6.2	1.55	9.9	2.47	
+Kyle Seager	Kyle	Seager	L	R	3B	SEA	@Oak	-		3,800	7.1	1.87	5.8	1.53	6.5	1.72	
+Eduardo Nunez	Eduardo	Nunez	R	R	3B	SF 	@Col	-		5,000	7.1	1.42	2.4	0.48	7.1	1.43	
+Adam Jones	Adam	Jones	R	R	OF	BAL	Bos	-		4,300	7.1	1.65	6.6	1.53	9.2	2.14	
+Kevin Kiermaier	Kevin	Kiermaier	L	R	OF	TB 	Hou	-		3,400	7.1	2.09	15.8	4.65	9.5	2.80	
+Gregory Polanco	Gregory	Polanco	L	L	OF	PIT	NYY	-		4,200	7.1	1.69	8.0	1.90	7.8	1.87	
+Robinson Cano	Robinson	Cano	L	R	2B	SEA	@Oak	-		4,100	7.1	1.73	9.4	2.29	8.4	2.04	
+Mat Latos	Mat	Latos	R	R	P	TOR	@LAA	-		5,500	7.1	1.28	0	0	0	0	
+Travis Shaw	Travis	Shaw	L	R	3B	MIL	StL	-		3,600	7.1	1.96	17.2	4.78	13.0	3.61	
+Chris Davis	Chris	Davis	L	R	1B	BAL	Bos	-		4,500	7.0	1.56	2.4	0.53	9.0	2.00	
+Michael Brantley	Michael	Brantley	L	L	OF	CLE	@CWS	-		4,200	7.0	1.67	12.2	2.90	10.2	2.44	
+Byron Buxton	Byron	Buxton	R	R	OF	MIN	Det	-		3,300	7.0	2.13	1.8	0.55	2.3	0.71	
+Yasiel Puig	Yasiel	Puig	R	R	OF	LAD	@Ari	-		3,900	7.0	1.80	9.0	2.31	10.4	2.66	
+Chris Owings	Chris	Owings	R	R	OF	ARI	LAD	-		3,500	6.9	1.97	2.6	0.74	8.3	2.36	
+Melky Cabrera	Melky	Cabrera	B	L	OF	CWS	Cle	-		3,600	6.9	1.91	6.0	1.67	7.0	1.94	
+Neil Walker	Neil	Walker	B	R	2B	NYM	Was	-		3,400	6.9	2.02	8.8	2.59	6.9	2.04	
+Victor Martinez	Victor	Martinez	B	R	1B	DET	@Min	-		3,700	6.9	1.86	4.8	1.30	4.1	1.12	
+Mike Moustakas	Mike	Moustakas	L	R	3B	KC 	@Tex	-		3,400	6.9	2.02	6.0	1.76	9.5	2.80	
+Tim Anderson	Tim	Anderson	R	R	SS	CWS	Cle	-		3,300	6.9	2.08	3.4	1.03	5.0	1.52	
+Eric Hosmer	Eric	Hosmer	L	L	1B	KC 	@Tex	-		4,100	6.8	1.67	5.2	1.27	4.9	1.20	
+Ben Zobrist	Ben	Zobrist	B	R	2B	CHC	@Cin	-		4,600	6.8	1.48	4.2	0.91	6.5	1.41	
+Carlos Beltran	Carlos	Beltran	B	R	OF	HOU	@TB	-		3,500	6.8	1.95	4.8	1.37	6.0	1.71	
+Greg Bird	Greg	Bird	L	R	1B	NYY	@Pit	-		3,200	6.8	2.13	7.4	2.31	5.5	1.70	
+Jose Ramirez	Jose	Ramirez	B	R	2B	CLE	@CWS	-		3,700	6.8	1.84	19.0	5.14	12.2	3.30	
+Albert Pujols	Albert	Pujols	R	R	1B	LAA	Tor	-		4,000	6.8	1.70	5.0	1.25	6.0	1.50	
+Gerardo Parra	Gerardo	Parra	L	L	OF	COL	SF	-		3,900	6.8	1.74	1.4	0.36	6.1	1.56	
+Dustin Pedroia	Dustin	Pedroia	R	R	2B	BOS	@Bal	-		4,700	6.8	1.44	3.8	0.81	5.5	1.16	
+Troy Tulowitzki	Troy	Tulowitzki	R	R	SS	TOR	@LAA	-		3,700	6.8	1.83	4.8	1.30	6.9	1.87	
+Elvis Andrus	Elvis	Andrus	R	R	SS	TEX	KC	-		3,900	6.7	1.72	5.2	1.33	10.1	2.60	
+Mike Napoli	Mike	Napoli	R	R	1B	TEX	KC	-		4,000	6.7	1.68	4.6	1.15	5.9	1.48	
+Joe Panik	Joe	Panik	L	R	2B	SF 	@Col	-		4,800	6.7	1.40	4.6	0.96	7.6	1.58	
+Rajai Davis	Rajai	Davis	R	R	OF	OAK	Sea	-		3,600	6.7	1.86	5.2	1.44	7.8	2.17	
+Alex Gordon	Alex	Gordon	L	R	OF	KC 	@Tex	-		3,900	6.6	1.70	4.4	1.13	5.3	1.35	
+Ender Inciarte	Ender	Inciarte	L	L	OF	ATL	@Phi	-		3,800	6.6	1.74	6.8	1.79	8.9	2.33	
+Jake Lamb	Jake	Lamb	L	R	3B	ARI	LAD	-		4,000	6.6	1.65	7.4	1.85	11.3	2.81	
+Brandon Drury	Brandon	Drury	R	R	2B	ARI	LAD	-		3,500	6.6	1.88	4.0	1.14	6.1	1.73	
+Hunter Renfroe	Hunter	Renfroe	R	R	OF	SD 	Mia	-		3,300	6.6	1.99	1.8	0.55	6.4	1.93	
+Kevin Pillar	Kevin	Pillar	R	R	OF	TOR	@LAA	-		3,100	6.6	2.11	12.6	4.06	7.9	2.56	
+Maikel Franco	Maikel	Franco	R	R	3B	PHI	Atl	-		4,200	6.5	1.56	5.8	1.38	7.7	1.84	
+Jason Heyward	Jason	Heyward	L	L	OF	CHC	@Cin	-		3,700	6.5	1.77	4.6	1.24	6.1	1.66	
+Nick Markakis	Nick	Markakis	L	L	OF	ATL	@Phi	-		3,600	6.5	1.82	5.8	1.61	8.9	2.48	
+Jonathan Lucroy	Jonathan	Lucroy	R	R	C	TEX	KC	-		4,100	6.5	1.59	3.8	0.93	5.3	1.30	
+Jonathan Schoop	Jonathan	Schoop	R	R	2B	BAL	Bos	-		3,700	6.5	1.76	8.2	2.22	9.1	2.45	
+Randal Grichuk	Randal	Grichuk	R	R	OF	STL	@Mil	-		4,100	6.5	1.59	3.8	0.93	5.8	1.42	
+Jayson Werth	Jayson	Werth	R	R	OF	WAS	@NYM	Day-To-Day		3,200	6.5	2.04	2.6	0.81	8.1	2.52	
+Zack Cozart	Zack	Cozart	R	R	SS	CIN	ChC	-		3,300	6.5	1.97	7.4	2.24	10.9	3.29	
+Javier Baez	Javier	Baez	R	R	2B	CHC	@Cin	-		4,200	6.5	1.54	4.4	1.05	4.7	1.12	
+Josh Bell	Josh	Bell	B	R	1B	PIT	NYY	-		3,100	6.4	2.07	6.0	1.94	4.3	1.40	
+Yangervis Solarte	Yangervis	Solarte	B	R	2B	SD 	Mia	-		3,500	6.4	1.83	2.8	0.80	7.1	2.03	
+Salvador Perez	Salvador	Perez	R	R	C	KC 	@Tex	-		3,600	6.4	1.78	3.8	1.06	9.0	2.50	
+Marcell Ozuna	Marcell	Ozuna	R	R	OF	MIA	@SD	-		3,600	6.4	1.77	6.4	1.78	11.8	3.28	
+Ryon Healy	Ryon	Healy	R	R	1B	OAK	Sea	-		3,300	6.3	1.92	8.2	2.48	7.4	2.25	
+Michael Saunders	Michael	Saunders	L	R	OF	PHI	Atl	Day-To-Day		3,600	6.3	1.75	4.2	1.17	5.5	1.54	
+Denard Span	Denard	Span	L	L	OF	SF 	@Col	-		4,900	6.3	1.28	3.6	0.73	5.3	1.07	
+Mitch Haniger	Mitch	Haniger	R	R	OF	SEA	@Oak	-		3,400	6.3	1.84	12.6	3.71	13.0	3.82	
+David Freese	David	Freese	R	R	3B	PIT	NYY	-		3,000	6.2	2.08	3.0	1.00	8.2	2.74	
+Keon Broxton	Keon	Broxton	R	R	OF	MIL	StL	-		3,900	6.2	1.58	0.8	0.21	4.3	1.10	
+Alcides Escobar	Alcides	Escobar	R	R	SS	KC 	@Tex	-		3,500	6.1	1.75	4.2	1.20	4.4	1.26	
+J.T. Realmuto	J.T.	Realmuto	R	R	C	MIA	@SD	-		3,500	6.1	1.75	4.6	1.31	9.8	2.79	
+Steven Souza	Steven	Souza	R	R	OF	TB 	Hou	-		3,500	6.1	1.74	12.8	3.66	11.8	3.38	
+Joe Mauer	Joe	Mauer	L	R	1B	MIN	Det	-		3,500	6.1	1.74	5.6	1.60	5.1	1.45	
+Yasmani Grandal	Yasmani	Grandal	B	R	C	LAD	@Ari	-		3,500	6.1	1.74	3.8	1.09	6.1	1.73	
+Paulo Orlando	Paulo	Orlando	R	R	OF	KC 	@Tex	-		3,400	6.1	1.79	2.6	0.76	3.0	0.88	
+Cheslor Cuthbert	Cheslor	Cuthbert	R	R	3B	KC 	@Tex	-		3,500	6.0	1.72	0	0	3.1	0.90	
+Yunel Escobar	Yunel	Escobar	R	R	3B	LAA	Tor	-		3,200	6.0	1.88	4.4	1.38	7.6	2.37	
+Martin Prado	Martin	Prado	R	R	2B	MIA	@SD	-		3,400	6.0	1.77	4.5	1.32	4.5	1.32	
+Tommy Joseph	Tommy	Joseph	R	R	1B	PHI	Atl	-		3,800	6.0	1.58	6.0	1.58	6.1	1.60	
+Chase Headley	Chase	Headley	B	R	3B	NYY	@Pit	-		3,000	6.0	2.00	10.6	3.53	11.8	3.93	
+Russell Martin	Russell	Martin	R	R	C	TOR	@LAA	-		3,400	6.0	1.76	6.4	1.88	4.9	1.45	
+Joey Gallo	Joey	Gallo	L	R	3B	TEX	KC	-		3,700	6.0	1.61	5.4	1.46	9.2	2.48	
+Brandon Phillips	Brandon	Phillips	R	R	2B	ATL	@Phi	-		3,500	5.9	1.70	9.4	2.69	9.8	2.80	
+Matt Holliday	Matt	Holliday	R	R	1B	NYY	@Pit	-		3,700	5.9	1.60	5.4	1.46	8.2	2.20	
+Starlin Castro	Starlin	Castro	R	R	2B	NYY	@Pit	-		3,300	5.9	1.78	10.4	3.15	10.1	3.07	
+Justin Bour	Justin	Bour	L	R	1B	MIA	@SD	-		3,200	5.9	1.84	7.6	2.38	6.2	1.94	
+Jordy Mercer	Jordy	Mercer	R	R	SS	PIT	NYY	-		3,000	5.8	1.94	3.6	1.20	4.3	1.42	
+Stephen Vogt	Stephen	Vogt	L	R	C	OAK	Sea	-		3,100	5.8	1.88	4.0	1.29	6.7	2.17	
+Kolten Wong	Kolten	Wong	L	R	2B	STL	@Mil	-		3,400	5.8	1.71	6.6	1.94	5.4	1.58	
+Cameron Maybin	Cameron	Maybin	R	R	OF	LAA	Tor	-		3,600	5.8	1.62	3.2	0.89	6.4	1.78	
+Willson Contreras	Willson	Contreras	R	R	C	CHC	@Cin	-		4,000	5.8	1.45	3.8	0.95	6.5	1.62	
+Matt Joyce	Matt	Joyce	L	R	OF	OAK	Sea	-		2,400	5.7	2.38	1.4	0.58	4.1	1.70	
+Yulieski Gurriel	Yulieski	Gurriel	R	R	1B	HOU	@TB	-		3,100	5.7	1.83	8.2	2.65	5.7	1.84	
+Steve Pearce	Steve	Pearce	R	R	OF	TOR	@LAA	-		3,200	5.6	1.75	2.4	0.75	2.7	0.85	
+Pablo Sandoval	Pablo	Sandoval	B	R	3B	BOS	@Bal	-		4,300	5.6	1.30	8.0	1.86	8.1	1.88	
+Mitch Moreland	Mitch	Moreland	L	L	1B	BOS	@Bal	-		3,700	5.6	1.51	9.0	2.43	11.1	3.01	
+Devon Travis	Devon	Travis	R	R	2B	TOR	@LAA	-		3,600	5.6	1.55	2.4	0.67	2.6	0.72	
+Lucas Duda	Lucas	Duda	L	R	1B	NYM	Was	Day-To-Day		3,400	5.6	1.64	5.0	1.47	9.1	2.67	
+Freddy Galvis	Freddy	Galvis	B	R	SS	PHI	Atl	-		3,400	5.6	1.64	7.4	2.18	7.5	2.22	
+Ryan Zimmerman	Ryan	Zimmerman	R	R	1B	WAS	@NYM	-		3,100	5.6	1.80	12.2	3.94	13.5	4.34	
+Mark Reynolds	Mark	Reynolds	R	R	1B	COL	SF	-		4,300	5.5	1.29	5.0	1.16	9.6	2.22	
+Josh Reddick	Josh	Reddick	L	R	OF	HOU	@TB	-		3,300	5.5	1.67	10.6	3.21	7.1	2.14	
+Andrew Toles	Andrew	Toles	L	R	OF	LAD	@Ari	-		3,100	5.5	1.77	4.8	1.55	6.1	1.96	
+Andrelton Simmons	Andrelton	Simmons	R	R	SS	LAA	Tor	-		3,100	5.5	1.77	6.4	2.06	7.2	2.32	
+Orlando Arcia	Orlando	Arcia	R	R	SS	MIL	StL	-		3,500	5.5	1.56	5.4	1.54	5.1	1.45	
+Jose Reyes	Jose	Reyes	B	R	3B	NYM	Was	-		3,800	5.5	1.44	4.2	1.11	3.3	0.87	
+Chris Coghlan	Chris	Coghlan	L	R	3B	TOR	@LAA	-		2,000	5.4	2.72	1.7	0.83	1.7	0.83	
+David Peralta	David	Peralta	L	L	OF	ARI	LAD	-		3,700	5.4	1.47	6.2	1.68	8.1	2.18	
+Jurickson Profar	Jurickson	Profar	B	R	OF	TEX	KC	-		3,400	5.4	1.59	3.6	1.06	3.6	1.06	
+Leonys Martin	Leonys	Martin	L	R	OF	SEA	@Oak	-		3,100	5.4	1.74	6.0	1.94	4.1	1.31	
+Danny Espinosa	Danny	Espinosa	B	R	2B	LAA	Tor	-		3,000	5.3	1.77	3.6	1.20	6.8	2.25	
+Avisail Garcia	Avisail	Garcia	R	R	OF	CWS	Cle	-		3,100	5.3	1.71	10.8	3.48	11.8	3.80	
+Domingo Santana	Domingo	Santana	R	R	OF	MIL	StL	-		3,800	5.3	1.39	3.4	0.89	7.7	2.02	
+Tyler Saladino	Tyler	Saladino	R	R	2B	CWS	Cle	-		3,200	5.3	1.64	2.8	0.88	5.3	1.65	
+Welington Castillo	Welington	Castillo	R	R	C	BAL	Bos	-		3,600	5.3	1.46	4.6	1.28	7.1	1.97	
+Yadier Molina	Yadier	Molina	R	R	C	STL	@Mil	-		3,800	5.2	1.38	4.4	1.16	5.5	1.45	
+Trevor Plouffe	Trevor	Plouffe	R	R	3B	OAK	Sea	-		3,400	5.2	1.53	10.4	3.06	7.0	2.06	
+Brandon Guyer	Brandon	Guyer	R	R	OF	CLE	@CWS	-		3,000	5.2	1.74	1.4	0.47	2.1	0.71	
+Craig Gentry	Craig	Gentry	R	R	OF	BAL	Bos	-		3,200	5.2	1.63	5.6	1.75	2.2	0.69	
+James McCann	James	McCann	R	R	C	DET	@Min	-		2,900	5.2	1.80	1.8	0.62	6.8	2.35	
+Travis Jankowski	Travis	Jankowski	L	R	OF	SD 	Mia	-		3,000	5.2	1.73	2.6	0.87	4.3	1.42	
+Jed Lowrie	Jed	Lowrie	B	R	2B	OAK	Sea	-		2,700	5.2	1.92	4.4	1.63	7.2	2.67	
+Francisco Cervelli	Francisco	Cervelli	R	R	C	PIT	NYY	-		3,000	5.1	1.71	5.0	1.67	7.1	2.38	
+Brian McCann	Brian	McCann	L	R	C	HOU	@TB	-		3,100	5.1	1.65	7.2	2.32	8.0	2.58	
+Yonder Alonso	Yonder	Alonso	L	L	1B	OAK	Sea	-		2,800	5.1	1.82	7.2	2.57	8.0	2.86	
+Logan Morrison	Logan	Morrison	L	L	1B	TB 	Hou	-		3,200	5.1	1.59	2.8	0.88	7.4	2.32	
+Raul Mondesi	Raul	Mondesi	B	R	2B	KC 	@Tex	-		2,600	5.1	1.95	2.2	0.85	4.6	1.79	
+Adonis Garcia	Adonis	Garcia	R	R	3B	ATL	@Phi	-		3,400	5.0	1.48	2.6	0.76	4.2	1.24	
+Eddie Rosario	Eddie	Rosario	L	R	OF	MIN	Det	-		3,300	5.0	1.52	4.4	1.33	4.2	1.28	
+Aaron Judge	Aaron	Judge	R	R	OF	NYY	@Pit	-		3,500	4.9	1.41	11.6	3.31	11.4	3.27	
+Ryan Schimpf	Ryan	Schimpf	L	R	3B	SD 	Mia	-		3,600	4.9	1.36	5.2	1.44	6.2	1.72	
+JaCoby Jones	JaCoby	Jones	R	R	OF	DET	@Min	-		2,900	4.8	1.66	0.4	0.14	5.0	1.72	
+Jason Castro	Jason	Castro	L	R	C	MIN	Det	-		2,700	4.8	1.78	2.6	0.96	7.2	2.65	
+J.J. Hardy	J.J.	Hardy	R	R	SS	BAL	Bos	-		3,100	4.8	1.55	10.0	3.23	6.4	2.06	
+Jace Peterson	Jace	Peterson	L	R	OF	ATL	@Phi	-		3,100	4.8	1.54	2.0	0.65	3.5	1.12	
+Matt Wieters	Matt	Wieters	B	R	C	WAS	@NYM	-		2,900	4.8	1.65	4.2	1.45	8.0	2.76	
+Cameron Rupp	Cameron	Rupp	R	R	C	PHI	Atl	-		3,200	4.8	1.49	6.2	1.94	6.8	2.13	
+Chase Utley	Chase	Utley	L	R	2B	LAD	@Ari	-		3,500	4.7	1.34	1.6	0.46	1.3	0.37	
+Jorge Polanco	Jorge	Polanco	B	R	SS	MIN	Det	-		3,200	4.7	1.46	5.2	1.63	7.4	2.30	
+Patrick Kivlehan	Patrick	Kivlehan	R	R	OF	CIN	ChC	-		2,400	4.6	1.94	2.8	1.17	1.9	0.79	
+Tyler Flowers	Tyler	Flowers	R	R	C	ATL	@Phi	Day-To-Day		3,000	4.6	1.54	6.8	2.27	4.8	1.61	
+Ezequiel Carrera	Ezequiel	Carrera	L	L	OF	TOR	@LAA	-		2,700	4.5	1.67	6.0	2.22	4.1	1.51	
+Robbie Grossman	Robbie	Grossman	B	L	OF	MIN	Det	-		3,400	4.5	1.32	7.6	2.24	8.9	2.62	
+Mikie Mahtook	Mikie	Mahtook	R	R	OF	DET	@Min	-		2,800	4.4	1.58	1.0	0.36	2.4	0.85	
+Chris Young	Chris	Young	R	R	OF	BOS	@Bal	-		3,600	4.4	1.22	3.6	1.00	5.4	1.51	
+Shane Peterson	Shane	Peterson	L	L	OF	TB 	Hou	-		2,200	4.2	1.92	7.2	3.27	8.4	3.82	
+Norichika Aoki	Norichika	Aoki	L	R	OF	HOU	@TB	-		3,200	4.2	1.32	8.4	2.63	6.6	2.07	
+Derek Norris	Derek	Norris	R	R	C	TB 	Hou	-		2,700	4.1	1.52	3.0	1.11	4.5	1.67	
+Adam Frazier	Adam	Frazier	L	R	2B	PIT	NYY	-		3,000	4.1	1.35	10.2	3.40	7.2	2.38	
+Chris Marrero	Chris	Marrero	R	R	OF	SF 	@Col	-		2,800	4.0	1.42	4.4	1.57	2.8	1.01	
+Tony Wolters	Tony	Wolters	L	R	C	COL	SF	-		3,000	3.9	1.31	2.6	0.87	4.7	1.56	
+Mike Zunino	Mike	Zunino	R	R	C	SEA	@Oak	-		2,800	3.9	1.40	5.0	1.79	4.5	1.61	
+Sandy Leon	Sandy	Leon	B	R	C	BOS	@Bal	-		3,300	3.9	1.18	1.8	0.55	6.3	1.90	
+Austin Hedges	Austin	Hedges	R	R	C	SD 	Mia	-		2,700	3.9	1.44	12.2	4.52	6.1	2.27	
+Travis d'Arnaud	Travis	d'Arnaud	R	R	C	NYM	Was	Day-To-Day		2,800	3.8	1.37	9.0	3.21	8.3	2.97	
+Ronald Torreyes	Ronald	Torreyes	R	R	SS	NYY	@Pit	-		2,400	3.6	1.49	5.2	2.17	6.5	2.71	
+Yan Gomes	Yan	Gomes	R	R	C	CLE	@CWS	-		2,800	3.6	1.27	6.2	2.21	4.5	1.62	
+Erick Aybar	Erick	Aybar	B	R	SS	SD 	Mia	-		2,600	3.5	1.36	5.4	2.08	4.5	1.73	
+Adam Rosales	Adam	Rosales	R	R	2B	OAK	Sea	-		2,300	3.4	1.47	6.6	2.87	6.3	2.75	
+Chris Iannetta	Chris	Iannetta	R	R	C	ARI	LAD	-		2,700	3.3	1.21	10.4	3.85	7.6	2.80	
+Miguel Rojas	Miguel	Rojas	R	R	3B	MIA	@SD	-		2,200	3.3	1.48	5.2	2.36	5.4	2.47	
+Manny Pina	Manny	Pina	R	R	C	MIL	StL	-		2,800	3.3	1.16	10.8	3.86	9.4	3.37	
+Wilmer Difo	Wilmer	Difo	B	R	SS	WAS	@NYM	-		2,400	3.2	1.35	5.2	2.17	4.1	1.70	
+Tim Beckham	Tim	Beckham	R	R	SS	TB 	Hou	-		2,900	3.1	1.05	9.6	3.31	5.3	1.84	
+Tucker Barnhart	Tucker	Barnhart	B	R	C	CIN	ChC	-		2,600	2.9	1.12	3.4	1.31	5.5	2.12	
+Daniel Nava	Daniel	Nava	B	L	OF	PHI	Atl	-		3,200	2.9	0.90	5.0	1.56	8.2	2.56	
+Jacob May	Jacob	May	B	R	OF	CWS	Cle	-		2,500	2.8	1.13	0	0	1.1	0.44	
+Trea Turner	Trea	Turner	R	R	OF	WAS	@NYM	10-Day DL		4,200	2.8	0.67	5.2	1.24	5.8	1.38	
+Jason Kipnis	Jason	Kipnis	L	R	2B	CLE	@CWS	10-Day DL		4,000	2.7	0.68	0	0	0	0	
+Taylor Motter	Taylor	Motter	R	R	SS	SEA	@Oak	-		3,100	2.5	0.82	8.8	2.84	10.8	3.47	
+Matt Davidson	Matt	Davidson	R	R	3B	CWS	Cle	-		2,800	2.5	0.90	6.0	2.14	10.0	3.57	
+Matt Kemp	Matt	Kemp	R	R	OF	ATL	@Phi	-		4,100	2.5	0.60	12.0	2.93	15.6	3.80	
+Trey Mancini	Trey	Mancini	R	R	1B	BAL	Bos	-		3,300	2.4	0.72	8.6	2.61	10.4	3.15	
+Martin Maldonado	Martin	Maldonado	R	R	C	LAA	Tor	-		2,400	2.4	0.98	4.2	1.75	4.0	1.67	
+Jackie Bradley	Jackie	Bradley	L	R	OF	BOS	@Bal	10-Day DL		4,800	2.2	0.47	9.0	1.88	9.8	2.03	
+Austin Jackson	Austin	Jackson	R	R	OF	CLE	@CWS	-		2,800	2.2	0.79	3.6	1.29	4.9	1.73	
+Omar Narvaez	Omar	Narvaez	L	R	C	CWS	Cle	-		2,300	2.2	0.94	2.6	1.13	2.1	0.93	
+Yandy Diaz	Yandy	Diaz	R	R	3B	CLE	@CWS	-		2,600	2.1	0.79	4.4	1.69	5.1	1.95	
+Chris Carter	Chris	Carter	R	R	1B	NYY	@Pit	-		3,800	2.0	0.52	4.4	1.16	3.8	0.99	
+Brandon Moss	Brandon	Moss	L	R	1B	KC 	@Tex	-		3,800	1.8	0.47	6.4	1.68	5.8	1.53	
+Austin Romine	Austin	Romine	R	R	C	NYY	@Pit	-		2,500	1.8	0.70	8.6	3.44	8.1	3.24	
+Delino DeShields Jr.	Delino	DeShields Jr.	R	R	OF	TEX	KC	-		3,600	1.8	0.49	3.0	0.83	2.5	0.69	
+Whit Merrifield	Whit	Merrifield	R	R	2B	KC 	@Tex	-		3,700	1.7	0.47	8.7	2.34	9.7	2.61	
+Evan Gattis	Evan	Gattis	R	R	C	HOU	@TB	-		3,700	1.7	0.46	5.2	1.41	6.7	1.81	
+Adam Lind	Adam	Lind	L	L	1B	WAS	@NYM	-		2,900	1.7	0.59	2.0	0.69	5.3	1.82	
+Jedd Gyorko	Jedd	Gyorko	R	R	2B	STL	@Mil	-		3,900	1.7	0.43	10.2	2.62	9.3	2.39	
+Seth Smith	Seth	Smith	L	L	OF	BAL	Bos	Day-To-Day		3,500	1.6	0.47	6.2	1.77	9.3	2.67	
+Michael Conforto	Michael	Conforto	L	R	OF	NYM	Was	-		3,300	1.6	0.48	3.4	1.03	6.2	1.89	
+Ben Revere	Ben	Revere	L	R	OF	LAA	Tor	-		3,200	1.6	0.49	2.0	0.63	3.7	1.16	
+Adeiny Hechavarria	Adeiny	Hechavarria	R	R	3B	MIA	@SD	-		2,600	1.5	0.59	4.0	1.54	4.0	1.54	
+Kyle Higashioka	Kyle	Higashioka	R	R	C	NYY	@Pit	-		2,200	1.5	0.69	0.7	0.30	0.7	0.30	
+Lonnie Chisenhall	Lonnie	Chisenhall	L	R	3B	CLE	@CWS	-		3,100	1.5	0.48	9.0	2.90	12.0	3.87	
+Aaron Altherr	Aaron	Altherr	R	R	OF	PHI	Atl	-		3,500	1.5	0.42	8.0	2.29	7.8	2.22	
+Allen Cordoba	Allen	Cordoba	R	R	OF	SD 	Mia	-		2,500	1.5	0.59	5.2	2.08	3.3	1.33	
+Scott Schebler	Scott	Schebler	L	R	OF	CIN	ChC	-		3,500	1.4	0.41	5.8	1.66	7.3	2.08	
+Scooter Gennett	Scooter	Gennett	L	R	2B	CIN	ChC	-		3,500	1.4	0.40	3.4	0.97	7.6	2.18	
+Dustin Garneau	Dustin	Garneau	R	R	C	COL	SF	-		3,400	1.4	0.41	2.2	0.65	4.6	1.35	
+Marwin Gonzalez	Marwin	Gonzalez	B	R	1B	HOU	@TB	-		2,800	1.4	0.49	0.8	0.29	6.2	2.22	
+Hernan Perez	Hernan	Perez	R	R	3B	MIL	StL	-		3,600	1.4	0.38	7.0	1.94	4.5	1.26	
+Hyun Soo Kim	Hyun Soo	Kim	L	L	1B	BAL	Bos	-		3,400	1.3	0.39	2.4	0.71	3.3	0.96	
+Michael Taylor	Michael	Taylor	R	R	OF	WAS	@NYM	-		3,100	1.3	0.42	1.4	0.45	1.2	0.38	
+Jaff Decker	Jaff	Decker	L	L	OF	OAK	Sea	-		2,000	1.3	0.64	8.0	4.00	9.2	4.60	
+Jose Martinez	Jose	Martinez	R	R	1B	STL	@Mil	-		3,100	1.3	0.41	4.6	1.48	4.8	1.55	
+Jefry Marte	Jefry	Marte	R	R	1B	LAA	Tor	-		3,300	1.3	0.38	3.2	0.97	5.0	1.52	
+Eduardo Escobar	Eduardo	Escobar	B	R	SS	MIN	Det	-		2,600	1.3	0.49	3.2	1.23	7.4	2.84	
+Hector Sanchez	Hector	Sanchez	B	R	C	SD 	Mia	-		2,300	1.3	0.55	0	0	0	0	
+Tyler Collins	Tyler	Collins	L	L	OF	DET	@Min	-		2,800	1.3	0.45	2.2	0.79	5.1	1.82	
+Michael Martinez	Michael	Martinez	B	R	2B	CLE	@CWS	-		2,200	1.2	0.56	1.4	0.64	1.1	0.51	
+Steve Selsky	Steve	Selsky	R	R	OF	BOS	@Bal	-		3,300	1.2	0.37	1.0	0.30	1.6	0.48	
+Matt Adams	Matt	Adams	L	R	OF	STL	@Mil	-		3,500	1.2	0.35	1.2	0.34	1.8	0.52	
+John Jaso	John	Jaso	L	R	1B	PIT	NYY	-		2,900	1.2	0.41	3.2	1.10	1.3	0.44	
+Justin Smoak	Justin	Smoak	B	L	1B	TOR	@LAA	-		2,800	1.2	0.42	6.8	2.43	6.4	2.29	
+Derek Dietrich	Derek	Dietrich	L	R	3B	MIA	@SD	-		3,100	1.2	0.38	3.4	1.10	5.0	1.61	
+Andrew Knapp	Andrew	Knapp	B	R	C	PHI	Atl	-		3,100	1.2	0.37	3.8	1.23	4.8	1.56	
+Yolmer Sanchez	Yolmer	Sanchez	B	R	2B	CWS	Cle	-		2,200	1.2	0.53	7.8	3.55	7.6	3.47	
+Brock Holt	Brock	Holt	L	R	2B	BOS	@Bal	-		3,800	1.2	0.30	3.0	0.79	3.3	0.88	
+Dixon Machado	Dixon	Machado	R	R	2B	DET	@Min	-		2,800	1.1	0.41	0.6	0.21	0.6	0.21	
+Ichiro Suzuki	Ichiro	Suzuki	L	R	OF	MIA	@SD	-		2,700	1.1	0.42	3.4	1.26	2.3	0.84	
+Stuart Turner	Stuart	Turner	R	R	C	CIN	ChC	-		2,000	1.1	0.56	2.0	1.00	2.6	1.30	
+Guillermo Heredia	Guillermo	Heredia	R	L	OF	SEA	@Oak	-		2,600	1.1	0.42	5.8	2.23	6.4	2.46	
+Kevan Smith	Kevan	Smith	R	R	C	CWS	Cle	-		2,100	1.1	0.52	2.3	1.11	3.3	1.59	
+Ty Kelly	Ty	Kelly	B	R	3B	TOR	@LAA	-		2,200	1.1	0.50	0	0	0	0	
+Miguel Montero	Miguel	Montero	L	R	C	CHC	@Cin	-		3,400	1.1	0.32	8.4	2.47	6.4	1.89	
+Aaron Hicks	Aaron	Hicks	B	R	OF	NYY	@Pit	-		2,800	1.1	0.38	15.4	5.50	11.7	4.18	
+Mike Freeman	Mike	Freeman	L	R	2B	SEA	@Oak	-		2,100	1.1	0.51	5.0	2.38	5.6	2.67	
+Jett Bandy	Jett	Bandy	R	R	C	MIL	StL	-		2,700	1.1	0.39	11.8	4.37	10.3	3.80	
+Jon Jay	Jon	Jay	L	L	OF	CHC	@Cin	-		3,400	1.0	0.30	5.4	1.59	5.3	1.55	
+Juan Lagares	Juan	Lagares	R	R	OF	NYM	Was	-		2,600	1.0	0.40	1.4	0.54	1.4	0.54	
+Brett Eibner	Brett	Eibner	R	R	OF	LAD	@Ari	-		2,100	1.0	0.49	0	0	0	0	
+Pete Kozma	Pete	Kozma	R	R	2B	NYY	@Pit	-		2,800	1.0	0.36	1.4	0.50	1.1	0.40	
+Nick Hundley	Nick	Hundley	R	R	C	SF 	@Col	-		4,200	1.0	0.24	4.8	1.14	7.3	1.74	
+Albert Almora	Albert	Almora	R	R	OF	CHC	@Cin	-		3,600	1.0	0.28	6.4	1.78	6.5	1.79	
+Cody Asche	Cody	Asche	L	R	1B	CWS	Cle	-		2,400	1.0	0.41	2.6	1.08	2.2	0.93	
+Danny Santana	Danny	Santana	B	R	OF	MIN	Det	-		2,800	1.0	0.35	1.4	0.50	1.3	0.45	
+Daniel Robertson	Daniel	Robertson	R	R	2B	TB 	Hou	-		2,500	1.0	0.39	4.0	1.60	3.9	1.56	
+Peter Bourjos	Peter	Bourjos	R	R	OF	TB 	Hou	-		2,700	1.0	0.36	2.8	1.04	4.3	1.58	
+Cristhian Adames	Cristhian	Adames	B	R	2B	COL	SF	-		2,800	1.0	0.34	0	0	0	0	
+Conor Gillaspie	Conor	Gillaspie	L	R	1B	SF 	@Col	-		3,500	1.0	0.27	2.4	0.69	1.9	0.54	
+Jarrod Saltalamacchia	Jarrod	Saltalamacchia	B	R	C	TOR	@LAA	-		2,700	0.9	0.35	0	0	0.7	0.26	
+Kirk Nieuwenhuis	Kirk	Nieuwenhuis	L	R	OF	MIL	StL	-		3,100	0.9	0.30	3.0	0.97	2.6	0.84	
+Chad Pinder	Chad	Pinder	R	R	2B	OAK	Sea	-		2,100	0.9	0.43	6.3	3.02	8.3	3.97	
+Gorkys Hernandez	Gorkys	Hernandez	R	R	OF	SF 	@Col	-		3,600	0.9	0.25	0.4	0.11	2.1	0.58	
+Luis Torrens	Luis	Torrens	R	R	C	SD 	Mia	-		2,000	0.9	0.45	1.8	0.88	1.8	0.88	
+Stephen Drew	Stephen	Drew	L	R	3B	WAS	@NYM	10-Day DL		2,500	0.9	0.36	5.6	2.24	4.1	1.65	
+Alen Hanson	Alen	Hanson	B	R	SS	PIT	NYY	-		3,300	0.9	0.27	2.4	0.73	2.1	0.64	
+Ryan Goins	Ryan	Goins	L	R	2B	TOR	@LAA	-		2,200	0.9	0.40	2.6	1.18	2.0	0.91	
+Ryan Rua	Ryan	Rua	R	R	1B	TEX	KC	-		3,000	0.9	0.29	0.6	0.20	2.1	0.70	
+Christian Colon	Christian	Colon	R	R	2B	KC 	@Tex	-		2,800	0.9	0.31	0.7	0.24	0.7	0.24	
+Chase d'Arnaud	Chase	d'Arnaud	R	R	3B	ATL	@Phi	-		2,800	0.9	0.31	3.2	1.14	2.1	0.75	
+Abraham Almonte	Abraham	Almonte	B	R	OF	CLE	@CWS	-		3,100	0.9	0.28	6.6	2.13	6.0	1.94	
+Nick Ahmed	Nick	Ahmed	R	R	SS	ARI	LAD	-		2,500	0.8	0.34	7.0	2.80	6.1	2.44	
+Jesus Sucre	Jesus	Sucre	R	R	C	TB 	Hou	-		2,500	0.8	0.33	6.2	2.48	5.7	2.27	
+Jeremy Hazelbaker	Jeremy	Hazelbaker	L	R	OF	ARI	LAD	-		3,300	0.8	0.25	2.4	0.73	4.3	1.31	
+Chris Herrmann	Chris	Herrmann	L	R	C	ARI	LAD	-		3,200	0.8	0.25	0	0	1.8	0.55	
+Leury Garcia	Leury	Garcia	B	R	OF	CWS	Cle	-		2,500	0.8	0.31	4.8	1.92	5.7	2.27	
+Carlos Ruiz	Carlos	Ruiz	R	R	C	SEA	@Oak	-		2,400	0.8	0.32	4.0	1.67	4.6	1.92	
+Alex Avila	Alex	Avila	L	R	C	DET	@Min	-		3,000	0.8	0.25	9.4	3.13	10.4	3.48	
+Jake Marisnick	Jake	Marisnick	R	R	OF	HOU	@TB	-		2,500	0.7	0.30	5.2	2.08	4.1	1.63	
+Anthony Recker	Anthony	Recker	R	R	C	ATL	@Phi	-		2,200	0.7	0.34	1.0	0.45	0.8	0.38	
+Christian Vazquez	Christian	Vazquez	R	R	C	BOS	@Bal	-		3,100	0.7	0.23	9.6	3.10	11.5	3.71	
+Ryan Flaherty	Ryan	Flaherty	L	R	3B	BAL	Bos	-		2,700	0.7	0.26	0.5	0.19	0.5	0.19	
+Andres Blanco	Andres	Blanco	B	R	2B	PHI	Atl	-		2,700	0.7	0.25	1.4	0.52	4.3	1.59	
+Jesus Aguilar	Jesus	Aguilar	R	R	1B	MIL	StL	-		3,300	0.7	0.20	0.8	0.24	3.6	1.08	
+Nick Franklin	Nick	Franklin	B	R	2B	MIL	StL	-		3,400	0.7	0.20	2.8	0.82	4.5	1.32	
+Rene Rivera	Rene	Rivera	R	R	C	NYM	Was	-		2,200	0.7	0.30	2.8	1.27	3.5	1.59	
+Andrew Romine	Andrew	Romine	B	R	2B	DET	@Min	-		2,300	0.7	0.28	1.4	0.61	6.5	2.81	
+Robinson Chirinos	Robinson	Chirinos	R	R	C	TEX	KC	-		3,200	0.6	0.20	8.6	2.69	9.8	3.06	
+Enrique Hernandez	Enrique	Hernandez	R	R	3B	LAD	@Ari	-		2,800	0.6	0.23	9.4	3.36	7.3	2.59	
+Cliff Pennington	Cliff	Pennington	B	R	2B	LAA	Tor	-		2,100	0.6	0.31	2.0	0.95	3.0	1.43	
+Marco Hernandez	Marco	Hernandez	L	R	3B	BOS	@Bal	-		3,300	0.6	0.19	4.0	1.21	3.9	1.18	
+Roberto Perez	Roberto	Perez	R	R	C	CLE	@CWS	-		2,400	0.6	0.26	1.6	0.67	2.2	0.90	
+A.J. Ellis	A.J.	Ellis	R	R	C	MIA	@SD	-		2,500	0.6	0.25	3.5	1.40	3.5	1.40	
+Caleb Joseph	Caleb	Joseph	R	R	C	BAL	Bos	-		2,600	0.6	0.24	0	0	0	0	
+Kurt Suzuki	Kurt	Suzuki	R	R	C	ATL	@Phi	-		2,500	0.6	0.25	3.4	1.36	3.3	1.33	
+Phil Gosselin	Phil	Gosselin	R	R	2B	PIT	NYY	-		2,600	0.6	0.23	0.6	0.23	0.3	0.13	
+Tommy La Stella	Tommy	La Stella	L	R	2B	CHC	@Cin	Bereavement		3,100	0.6	0.19	2.2	0.71	2.3	0.75	
+Chris Heisey	Chris	Heisey	R	R	OF	WAS	@NYM	-		2,300	0.6	0.25	6.8	2.96	5.7	2.48	
+Josh Phegley	Josh	Phegley	R	R	C	OAK	Sea	-		2,900	0.6	0.20	4.8	1.66	5.0	1.72	
+Darwin Barney	Darwin	Barney	R	R	2B	TOR	@LAA	-		2,400	0.6	0.24	4.4	1.83	4.0	1.67	
+Brock Stassi	Brock	Stassi	L	L	1B	PHI	Atl	-		2,800	0.6	0.20	0	0	2.3	0.83	
+Jeff Mathis	Jeff	Mathis	R	R	C	ARI	LAD	-		2,300	0.6	0.24	0	0	4.1	1.78	
+Chris Stewart	Chris	Stewart	R	R	C	PIT	NYY	-		2,200	0.6	0.25	2.7	1.21	3.7	1.67	
+Scott Van Slyke	Scott	Van Slyke	R	R	1B	LAD	@Ari	-		2,800	0.5	0.19	5.4	1.93	3.4	1.21	
+Matt Szczur	Matt	Szczur	R	R	OF	CHC	@Cin	-		3,200	0.5	0.17	1.0	0.31	0.8	0.26	
+Greg Garcia	Greg	Garcia	L	R	2B	STL	@Mil	-		3,000	0.5	0.18	3.6	1.20	3.0	1.00	
+Aaron Hill	Aaron	Hill	R	R	2B	SF 	@Col	-		3,600	0.5	0.15	1.0	0.28	3.5	0.97	
+Rickie Weeks	Rickie	Weeks	R	R	1B	TB 	Hou	-		2,600	0.5	0.20	2.6	1.00	5.0	1.92	
+Emilio Bonifacio	Emilio	Bonifacio	B	R	OF	ATL	@Phi	-		2,100	0.5	0.24	1.0	0.48	1.3	0.62	
+Eric Fryer	Eric	Fryer	R	R	C	STL	@Mil	-		2,700	0.5	0.19	2.8	1.04	3.7	1.36	
+Jose Lobaton	Jose	Lobaton	B	R	C	WAS	@NYM	-		2,200	0.5	0.21	2.0	0.91	2.0	0.91	
+Austin Barnes	Austin	Barnes	R	R	2B	LAD	@Ari	-		3,100	0.5	0.15	6.4	2.06	6.6	2.12	
+Luis Sardinas	Luis	Sardinas	B	R	3B	SD 	Mia	-		2,500	0.4	0.17	2.0	0.80	1.4	0.55	
+Chris Taylor	Chris	Taylor	R	R	2B	LAD	@Ari	-		3,300	0.4	0.13	12.0	3.64	18.0	5.45	
+Alexi Amarista	Alexi	Amarista	L	R	3B	COL	SF	-		2,700	0.4	0.15	1.4	0.52	2.0	0.74	
+Drew Butera	Drew	Butera	R	R	C	KC 	@Tex	-		2,300	0.4	0.17	0	0	0	0	
+Arismendy Alcantara	Arismendy	Alcantara	B	R	2B	CIN	ChC	-		3,200	0.3	0.09	1.4	0.44	0.8	0.24	
+Chris Gimenez	Chris	Gimenez	R	R	C	MIN	Det	-		2,600	0.2	0.09	5.6	2.15	5.7	2.18	
+Wilmer Flores	Wilmer	Flores	R	R	1B	NYM	Was	Day-To-Day		3,000	0	0	1.2	0.40	4.9	1.64	
+Daniel Descalso	Daniel	Descalso	L	R	2B	ARI	LAD	-		2,600	0	0	1.6	0.62	2.6	1.01	
+Jake Smolinski	Jake	Smolinski	R	R	OF	OAK	Sea	60-Day DL		2,600	0	0	0	0	0	0	
+Devin Mesoraco	Devin	Mesoraco	R	R	C	CIN	ChC	10-Day DL		2,700	0	0	0	0	0	0	
+Josh Donaldson	Josh	Donaldson	R	R	3B	TOR	@LAA	10-Day DL		4,500	0	0	6.8	1.51	9.7	2.15	
+Colby Rasmus	Colby	Rasmus	L	L	OF	TB 	Hou	10-Day DL		3,300	0	0	0	0	0	0	
+Ian Desmond	Ian	Desmond	R	R	OF	COL	SF	10-Day DL		4,800	0	0	0	0	0	0	
+Geovany Soto	Geovany	Soto	R	R	C	CWS	Cle	10-Day DL		2,300	0	0	11.0	4.78	12.8	5.57	
+Jhonny Peralta	Jhonny	Peralta	R	R	3B	STL	@Mil	10-Day DL		3,600	0	0	1.8	0.50	1.9	0.52	
+David Wright	David	Wright	R	R	3B	NYM	Was	60-Day DL		3,500	0	0	0	0	0	0	
+Franklin Gutierrez	Franklin	Gutierrez	R	R	OF	LAD	@Ari	10-Day DL		3,500	0	0	3.8	1.09	4.2	1.19	
+Howie Kendrick	Howie	Kendrick	R	R	OF	PHI	Atl	10-Day DL		3,400	0	0	4.8	1.41	10.0	2.94	
+Andre Ethier	Andre	Ethier	L	L	OF	LAD	@Ari	10-Day DL		2,900	0	0	0	0	0	0	
+Tim Federowicz	Tim	Federowicz	R	R	C	SF 	@Col	-		3,100	0	0	1.0	0.32	1.0	0.32	
+Starling Marte	Starling	Marte	R	R	OF	PIT	NYY	Suspension		4,500	0	0	7.0	1.56	8.5	1.88	
+Carlos Perez	Carlos	Perez	R	R	C	LAA	Tor	-		2,300	0	0	1.0	0.43	1.0	0.43	
+Jean Segura	Jean	Segura	R	R	SS	SEA	@Oak	10-Day DL		4,100	0	0	9.8	2.39	9.6	2.35	
+Didi Gregorius	Didi	Gregorius	L	R	SS	NYY	@Pit	10-Day DL		3,300	0	0	0	0	0	0	
+Gary Sanchez	Gary	Sanchez	R	R	C	NYY	@Pit	10-Day DL		4,500	0	0	4.8	1.07	5.4	1.20	
+Jose Iglesias	Jose	Iglesias	R	R	SS	DET	@Min	7-Day DL		2,700	0	0	10.6	3.93	8.4	3.11	
+Brett Nicholas	Brett	Nicholas	L	R	C	TEX	KC	10-Day DL		3,100	0	0	0	0	0	0	
+Drew Robinson	Drew	Robinson	L	R	2B	TEX	KC	-		2,300	0	0	0	0	0	0	
+Ben Gamel	Ben	Gamel	L	L	OF	SEA	@Oak	-		2,800	0	0	0	0	0	0	
+Tyler Moore	Tyler	Moore	R	R	1B	MIA	@SD	-		2,700	0	0	1.2	0.44	2.4	0.88	
+Mark Canha	Mark	Canha	R	R	1B	OAK	Sea	-		2,900	0	0	2.0	0.69	2.2	0.75	
+Josh Rutledge	Josh	Rutledge	R	R	2B	BOS	@Bal	10-Day DL		3,100	0	0	0	0	0	0	
+Rob Segedin	Rob	Segedin	R	R	3B	LAD	@Ari	10-Day DL		3,000	0	0	2.5	0.83	2.5	0.83	
+J.D. Martinez	J.D.	Martinez	R	R	OF	DET	@Min	10-Day DL		4,500	0	0	0	0	0	0	
+Jarrett Parker	Jarrett	Parker	L	L	OF	SF 	@Col	10-Day DL		4,300	0	0	4.8	1.12	3.0	0.70	
+Luis Valbuena	Luis	Valbuena	L	R	1B	LAA	Tor	10-Day DL		3,400	0	0	0	0	0	0	
+Ehire Adrianza	Ehire	Adrianza	B	R	2B	MIN	Det	10-Day DL		2,300	0	0	0	0	0	0	
+Grant Green	Grant	Green	R	R	2B	WAS	@NYM	-		2,000	0	0	0	0	0	0	
+Trayce Thompson	Trayce	Thompson	R	R	OF	LAD	@Ari	-		3,200	0	0	0	0	0	0	
+Wilson Ramos	Wilson	Ramos	R	R	C	TB 	Hou	60-Day DL		3,400	0	0	0	0	0	0	
+Destin Hood	Destin	Hood	R	R	OF	MIA	@SD	-		2,800	0	0	0	0	0	0	
+Logan Forsythe	Logan	Forsythe	R	R	2B	LAD	@Ari	10-Day DL		3,800	0	0	5.8	1.53	6.2	1.64	
+Mallex Smith	Mallex	Smith	L	R	OF	TB 	Hou	10-Day DL		3,700	0	0	6.4	1.73	6.0	1.62	
+Dalton Pompey	Dalton	Pompey	B	R	OF	TOR	@LAA	10-Day DL		2,800	0	0	0	0	0	0	
+Zack Collins	Zack	Collins	L	R	C	CWS	Cle	-		2,000	0	0	0	0	0	0	
+Rowdy Tellez	Rowdy	Tellez	L	L	1B	TOR	@LAA	-		2,800	0	0	0	0	0	0	
+Jake Bauers	Jake	Bauers	L	L	1B	TB 	Hou	-		2,900	0	0	0	0	0	0	
+Micah Johnson	Micah	Johnson	L	R	2B	ATL	@Phi	10-Day DL		2,800	0	0	0	0	0	0	
+Gleyber Torres	Gleyber	Torres	R	R	SS	NYY	@Pit	7-Day DL		2,600	0	0	0	0	0	0	
+Eloy Jimenez	Eloy	Jimenez	R	R	OF	CHC	@Cin	7-Day DL		2,400	0	0	0	0	0	0	
+Jabari Blash	Jabari	Blash	R	R	OF	SD 	Mia	-		2,400	0	0	1.0	0.42	1.0	0.42	
+Terrance Gore	Terrance	Gore	R	R	OF	KC 	@Tex	-		2,900	0	0	0	0	0	0	
+Rio Ruiz	Rio	Ruiz	L	R	3B	ATL	@Phi	-		2,700	0	0	0	0	0	0	
+Jose Osuna	Jose	Osuna	R	R	1B	PIT	NYY	-		2,800	0	0	0	0	0	0	
+Billy Burns	Billy	Burns	B	R	OF	KC 	@Tex	-		3,400	0	0	0	0	0	0	
+Marcus Semien	Marcus	Semien	R	R	SS	OAK	Sea	60-Day DL		3,300	0	0	5.0	1.52	7.5	2.26	
+Willy Garcia	Willy	Garcia	R	R	OF	CWS	Cle	-		2,300	0	0	4.0	1.74	5.5	2.39	
+Kennys Vargas	Kennys	Vargas	B	R	1B	MIN	Det	-		3,400	0	0	0	0	0	0	
+Tyler Naquin	Tyler	Naquin	L	R	OF	CLE	@CWS	-		3,200	0	0	3.4	1.06	4.2	1.30	
+Deven Marrero	Deven	Marrero	R	R	3B	BOS	@Bal	-		3,100	0	0	0	0	0	0	
+David Dahl	David	Dahl	L	R	OF	COL	SF	10-Day DL		4,500	0	0	0	0	0	0	
+Jesse Winker	Jesse	Winker	L	L	OF	CIN	ChC	-		3,000	0	0	4.5	1.50	6.0	2.00	
+Bruce Maxwell	Bruce	Maxwell	L	R	C	OAK	Sea	-		2,500	0	0	3.0	1.20	3.0	1.20	
+Tom Murphy	Tom	Murphy	R	R	C	COL	SF	10-Day DL		3,300	0	0	0	0	0	0	
+Carson Kelly	Carson	Kelly	R	R	C	STL	@Mil	-		2,800	0	0	0	0	0	0	
+Jorge Soler	Jorge	Soler	R	R	OF	KC 	@Tex	10-Day DL		3,800	0	0	0	0	0	0	
+Hanser Alberto	Hanser	Alberto	R	R	2B	TEX	KC	10-Day DL		2,800	0	0	0	0	0	0	
+Adrian Beltre	Adrian	Beltre	R	R	3B	TEX	KC	10-Day DL		4,400	0	0	0	0	0	0	
+Andrew Susac	Andrew	Susac	R	R	C	MIL	StL	-		3,100	0	0	0	0	0	0	
+Alex Dickerson	Alex	Dickerson	L	L	OF	SD 	Mia	60-Day DL		3,300	0	0	0	0	0	0	
+Derek Fisher	Derek	Fisher	L	R	OF	HOU	@TB	-		3,100	0	0	0	0	0	0	
+Cory Spangenberg	Cory	Spangenberg	L	R	2B	SD 	Mia	-		3,200	0	0	0	0	0	0	
+Charlie Tilson	Charlie	Tilson	L	L	OF	CWS	Cle	10-Day DL		2,800	0	0	0	0	0	0	
+Peter O'Brien	Peter	O'Brien	R	R	OF	KC 	@Tex	-		3,700	0	0	0	0	0	0	
+Brandon Nimmo	Brandon	Nimmo	L	R	OF	NYM	Was	10-Day DL		2,700	0	0	0	0	0	0	
+Socrates Brito	Socrates	Brito	L	L	OF	ARI	LAD	60-Day DL		3,100	0	0	0	0	0	0	
+Matt Duffy	Matt	Duffy	R	R	2B	TB 	Hou	10-Day DL		3,200	0	0	0	0	0	0	
+Pat Valaika	Pat	Valaika	R	R	SS	COL	SF	-		3,100	0	0	0	0	0	0	
+Rhys Hoskins	Rhys	Hoskins	R	R	1B	PHI	Atl	-		3,300	0	0	0	0	0	0	
+Cody Bellinger	Cody	Bellinger	L	L	1B	LAD	@Ari	-		3,300	0	0	0	0	0	0	
+Ryan O'Hearn	Ryan	O'Hearn	L	L	1B	KC 	@Tex	-		3,000	0	0	0	0	0	0	
+Ian Happ	Ian	Happ	B	R	2B	CHC	@Cin	-		3,200	0	0	0	0	0	0	
+Kevin Newman	Kevin	Newman	R	R	SS	PIT	NYY	-		2,900	0	0	0	0	0	0	
+Harrison Bader	Harrison	Bader	R	R	OF	STL	@Mil	-		3,200	0	0	0	0	0	0	
+Raimel Tapia	Raimel	Tapia	L	L	OF	COL	SF	-		3,500	0	0	0	0	0	0	
+Shawn O'Malley	Shawn	O'Malley	B	R	2B	SEA	@Oak	10-Day DL		2,500	0	0	0	0	0	0	
+Mac Williamson	Mac	Williamson	R	R	OF	SF 	@Col	10-Day DL		4,000	0	0	0	0	0	0	
+Giovanny Urshela	Giovanny	Urshela	R	R	3B	CLE	@CWS	-		2,700	0	0	0	0	0	0	
+Curt Casali	Curt	Casali	R	R	C	TB 	Hou	-		2,600	0	0	0	0	0	0	
+Bradley Zimmer	Bradley	Zimmer	L	R	OF	CLE	@CWS	-		3,000	0	0	0	0	0	0	
+Johan Camargo	Johan	Camargo	B	R	2B	ATL	@Phi	-		2,000	0	0	1.0	0.50	1.0	0.50	
+J.T. Riddle	J.T.	Riddle	L	R	SS	MIA	@SD	-		2,400	0	0	3.6	1.50	3.0	1.25	
+Kelby Tomlinson	Kelby	Tomlinson	R	R	2B	SF 	@Col	-		3,900	0	0	0	0	0	0	
+Joey Rickard	Joey	Rickard	R	L	OF	BAL	Bos	10-Day DL		3,000	0	0	0	0	0	0	
+Juan Graterol	Juan	Graterol	R	R	C	LAA	Tor	-		2,400	0	0	0	0	0	0	
+T.J. Rivera	T.J.	Rivera	R	R	2B	NYM	Was	-		2,700	0	0	1.5	0.56	1.5	0.56	
+Stephen Cardullo	Stephen	Cardullo	R	R	OF	COL	SF	-		3,500	0	0	4.0	1.14	2.0	0.57	
